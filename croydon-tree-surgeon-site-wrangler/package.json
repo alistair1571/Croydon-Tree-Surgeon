@@ -1,0 +1,15 @@
+{
+  "name": "croydon-tree-surgeon",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static lead-generation site for tree surgery in Croydon, served by Cloudflare Workers static assets.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "check": "wrangler deploy --dry-run",
+    "config": "sh scripts/set-config.sh"
+  },
+  "devDependencies": {
+    "wrangler": "^4"
+  }
+}
