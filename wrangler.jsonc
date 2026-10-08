@@ -1,0 +1,18 @@
+{
+  // Cloudflare Workers with static assets. No Worker code: Cloudflare serves ./public directly.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "croydon-tree-surgeon",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./public",
+    // Serve /404.html for unknown URLs, with a 404 status.
+    "not_found_handling": "404-page",
+    // /about and /about/ both resolve to /about/index.html (the site uses trailing slashes).
+    "html_handling": "auto-trailing-slash"
+  }
+
+  // When the domain is ready, uncomment and replace. The domain must be on your Cloudflare account.
+  // "routes": [
+  //   { "pattern": "treesurgeoncroydon.com", "custom_domain": true }
+  // ]
+}

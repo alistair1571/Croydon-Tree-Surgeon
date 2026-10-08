@@ -1,0 +1,26 @@
+{
+  "name": "croydon-tree-surgeon",
+  "private": true,
+  "version": "2.0.1",
+  "description": "Static site for tree surgery in the London Borough of Croydon, served by Cloudflare Workers static assets.",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "build": "node scripts/build-pages.mjs",
+    "predeploy": "node scripts/build-pages.mjs --check && node scripts/sync-shell.mjs --check && node scripts/test-pricing.mjs >/dev/null && node scripts/check.mjs",
+    "deploy": "wrangler deploy",
+    "check": "wrangler deploy --dry-run",
+    "config": "sh scripts/set-config.sh",
+    "sync": "node scripts/sync-shell.mjs",
+    "sitemap": "node scripts/build-sitemap.mjs",
+    "verify": "node scripts/check.mjs",
+    "verify:launch": "node scripts/check.mjs --launch",
+    "test:pricing": "node scripts/test-pricing.mjs",
+    "launch": "node scripts/launch.mjs --index",
+    "unlaunch": "node scripts/launch.mjs --noindex",
+    "state": "node scripts/launch.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "^4"
+  }
+}
