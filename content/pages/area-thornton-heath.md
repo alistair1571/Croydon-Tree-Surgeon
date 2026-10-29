@@ -1,13 +1,9 @@
 ---
 url: /tree-surgeon-thornton-heath/
-title: Tree Surgeon Thornton Heath CR7 | Removal & Pruning | Free Quote
-description: Local tree surgeon in Thornton Heath (CR7): tree removal, pruning, stump grinding and emergency work. Street trees and garden trees kept apart. Free written quote.
-h1: Tree Surgeon in Thornton Heath
-lead: Tree work for Thornton Heath homes. We check whether your tree is protected first, and plan access for compact gardens and busy streets before we arrive. We carry out tree removal, pruning, stump grinding, hedge cutting and emergency tree work across Thornton Heath (CR7).
-points:
-  - Protection checked before any work
-  - Street trees and garden trees kept apart
-  - Access planned for compact plots
+title: Tree Surgeon Thornton Heath CR7 | Terrace Gardens & Parks
+description: Tree surgeon in Thornton Heath, CR7: is your tree protected, tight terrace gardens, Grangewood Park neighbours, street trees and prices. Free quote.
+h1: Tree Surgeon in Thornton Heath, CR7
+lead: "Thornton Heath is a busy, densely built part of Croydon: compact terraced and semi-detached houses, small gardens, and trees that are often taller than the plot they stand in. Grangewood Park, on the old Whitehorse Wood, sits at one edge. We do tree surgery for Thornton Heath homes, from a leaning conifer squeezed between two fences to an overgrown tree that has outgrown a terrace garden, and we check whether the tree is protected before we quote."
 calc: yes
 area: Thornton Heath
 areaName: Thornton Heath
@@ -16,84 +12,129 @@ crumb: Thornton Heath
 schema: Service|Tree surgeon in Thornton Heath|Tree surgery
 ---
 
-## Tree Surgery Services in Thornton Heath {chip=Services}
+## The short answers {-}
 
-| Service | What it means in Thornton Heath |
+- **Is Thornton Heath a conservation area?** Not by name. [What that means](#is-thornton-heath-a-conservation-area).
+- **Can I still need permission?** Yes, if a tree has a TPO. [How to check](#how-to-find-out-if-your-tree-is-protected).
+- **Can you cut a big tree in a small garden?** Yes, in sections. [Small gardens](#big-trees-in-small-terrace-gardens).
+- **Who looks after the trees in the street and park?** The council. [Street and park trees](#street-trees-and-grangewood-park).
+- **What does it cost?** [Prices for small-garden jobs](#what-tree-work-costs-in-thornton-heath).
+
+
+## Is Thornton Heath a conservation area?
+
+Croydon Council lists 21 conservation areas, and none of them is Thornton Heath. The nearest are in neighbouring parts of the borough:
+
+| Conservation area | Where it is |
 |---|---|
-| [Tree removal in Thornton Heath](/tree-removal-croydon/) | Sectional removal of oversized garden trees in compact terrace and semi-detached plots. |
-| [Tree pruning in Thornton Heath](/tree-pruning-croydon/) | Reductions and lifts for trees touching roofs or neighbouring gardens. |
-| [Stump grinding in Thornton Heath](/stump-grinding-croydon/) | Narrow-access grinding, including stumps left by earlier removals. |
-| [Emergency tree work in Thornton Heath](/emergency-tree-surgeon-croydon/) | Fallen limbs and trees across fences and parked cars on busy streets. |
-| [Hedge cutting in Thornton Heath](/hedge-cutting-croydon/) | Front and boundary hedges trimmed or reduced, with nests checked. |
-| [Tree surveys in Thornton Heath](/tree-surveys-croydon/) | Health and safety reports, and reports for extensions, house purchases and insurers. |
-| [Trees near buildings in Thornton Heath](/trees-near-buildings-croydon/) | Trees over roofs and conservatories, and roots near walls and drains. |
+| Norbury Estate | Norbury, to the west |
+| Upper Norwood Triangle, Beulah Hill, Harold Road | Upper Norwood and Crystal Palace, to the north |
+| South Norwood | South Norwood, to the east |
 
-## Is your tree protected? Rules in Thornton Heath {chip=Is my tree protected?}
+Each has its own rules. If your house is near the edge of Thornton Heath, check your exact address on the council's boundary maps, because roads that run along a boundary can be on either side.
 
-We found no conservation area covering Thornton Heath itself, so the main protection for private trees is a tree preservation order (TPO). Street trees and trees in parks belong to the council. Check Croydon's conservation area map for your road; a planning data website claims two conservation areas lie nearby, but they appear to be in Norbury and Streatham, so confirm on the council's own map.
+**Why it matters.** A tree in a conservation area needs six weeks' written notice to the council before most pruning or felling. Without that rule, most Thornton Heath trees can be worked on sooner. But two things still apply.
 
-Croydon's local plan records Thornton Heath High Street as a Local Heritage Area, Thornton Heath Recreation Ground on its local list of historic parks and gardens, and the 1900 clock tower as a local landmark. These are heritage records; the six-week notice rule applies in conservation areas and under TPOs. Report problems with trees on the pavement, in Grangewood Park or in the recreation ground to the council.
 
-## Common trees in Thornton Heath {chip=Common trees}
+## How to find out if your tree is protected
 
-Thornton Heath's sourced tree record centres on one woodland, Grangewood Park. We found no council species list for the area's streets or gardens.
+**A Tree Preservation Order can apply to any tree, anywhere,** including a garden tree in Thornton Heath. Croydon says consent is needed to prune or fell a protected tree, there is no application fee, and fines can reach £20,000 for felling and £2,500 for pruning.
 
-| Feature | What the sources say |
+- **Ask the council.** Croydon's planning team can tell you whether a TPO covers your tree. We make this check on every quote.
+- **Ask your solicitor or neighbours.** If you have just bought, the searches on your purchase may mention it.
+- **Don't assume.** "It's my garden" is not a defence if the tree is protected.
+
+See [tree preservation orders in Croydon](/guides/tree-preservation-orders-croydon/) for how a TPO works and what happens if the council refuses.
+
+
+## Big trees in small terrace gardens
+
+The most common Thornton Heath problem is a tree that was planted too close to the house or the fence and has kept growing. A leylandii, a sycamore that seeded itself, or a fruit tree gone wild can take over a garden only a few metres wide.
+
+- **Sectional dismantling.** We take the tree down in pieces and lower them on ropes, because there is no room to fell it whole.
+- **Hand-carrying.** If there is no side passage, wood and chippings go through the house, and we protect floors and walls.
+- **Narrow equipment.** Small chippers and tracked stump grinders fit through many side gates. Send us your narrowest measurement.
+- **Shared fences.** Most trees here touch a neighbour's garden. See below.
+- **Is removal necessary?** Often a crown reduction or lift is enough. See [tree pruning](/tree-pruning-croydon/), and [tree removal](/tree-removal-croydon/) when it is not.
+
+
+## Neighbours, boundaries and shared fences
+
+With gardens this close together, most disputes come down to overhang, light and roots. Your right to trim stops at the boundary line, and the cuttings are the owner's. A tree growing on the line itself may belong to both of you. Talk first, agree the work in writing and, if you are splitting the cost, ask for a quote that shows both gardens. See [whose tree is it?](/#whose-tree-is-it-neighbours-council-and-landlords) and [trees near buildings](/trees-near-buildings-croydon/) for roots and drains.
+
+
+## Street trees and Grangewood Park
+
+**Street trees and pavement trees belong to Croydon Council.** If one is blocking a pavement, dropping branches or leaning, tell the council using its Love Clean Streets reporting app.
+
+**Grangewood Park** is a council-run park of about 11 hectares between Thornton Heath and Upper Norwood, bordered by Grange Road, Wharncliffe Road and Ross Road. The park is largely oak woodland on land that was once Whitehorse Wood, part of the old Great North Wood. If your garden backs onto the park or any other public open space:
+
+- The strip beyond your fence is not yours. Don't cut, clear or dump on it.
+- If a park tree comes down on your side, photograph it and tell your insurer and the council. Liability is explained in [who is responsible for a storm-damaged tree](/guides/storm-damaged-tree-who-is-responsible/).
+- Woodland edges attract nesting birds and bats, so spring and summer work gets an extra check. The [nesting season guide](/guides/bird-nesting-season-tree-work/) covers the dates.
+
+
+## Busy roads, parking and the railway
+
+Many Thornton Heath streets are restricted, and a van and chipper outside a terrace may need a council bay suspension or dispensation requested at least 10 working days ahead. We build that into the plan. If a tree overhangs a railway line, the rules are different and Network Rail has to be involved. Their helpline is 03457 11 41 41. See our [emergency page](/emergency-tree-surgeon-croydon/) for what to do if a tree is on or near the line.
+
+
+## What tree work costs in Thornton Heath
+
+Guide prices only. A written quote is the price.
+
+| Typical Thornton Heath job | Guide price |
 |---|---|
-| Woodland | Largely oak woodland, with an ornamental garden on the foundations of a demolished mansion |
-| Oak | The Woodland Trust describes the wood as almost entirely semi-mature and mature oak |
-| History | Once Whitehorse Wood, part of the Great North Wood; bought by Croydon Corporation for the public in 1900 |
-| Designation | Site of Local Importance for Nature Conservation |
+| Prune an overgrown small tree | £200 to £300 |
+| Reduce a medium tree over a fence | £250 to £500 |
+| Remove a small tree from a terrace garden | £250 to £450 |
+| Remove a medium tree with hand-carrying | £300 to £600 |
+| Grind a small to medium stump | £120 to £350 |
+| Cut back a front hedge | £120 to £220 |
 
-Maps and records describe public sites and one or two documented areas, not every garden. Check your own tree with the council.
+Jobs with no vehicle access take longer, so expect the upper end of a range. The [cost calculator](/tree-surgery-cost-calculator/) gives a starting figure, and the [removal cost guide](/guides/tree-removal-cost-croydon/) explains what changes it.
 
-## Typical tree jobs in Thornton Heath {chip=Typical jobs}
+:::faq Tree Surgeon in Thornton Heath, CR7: frequently asked questions
+### How much does a tree surgeon cost in Thornton Heath?
+Most small-garden jobs run from about £200 to £600. A large tree over a house can reach £3,900.
 
-These follow from the area's setting.
+### Is Thornton Heath a conservation area?
+Not by name. Croydon has 21 conservation areas, and the nearest are Norbury Estate, South Norwood and the Upper Norwood areas. Check your exact address.
 
-| Typical job | Why it comes up here | Rule to check first |
-|---|---|---|
-| Reducing or lifting a garden tree in a compact plot | Typical of terraced and semi-detached plots | TPO check |
-| Cutting back trees touching roofs or neighbours | Trees outgrow small gardens | TPO check |
-| Hedge trimming and reduction | Boundary hedges are common | Nests between March and August |
-| Reporting a street tree problem | Street trees are council trees | Council responsibility |
+### Do I need permission to cut a tree in my garden?
+Only if it has a TPO or you are in a conservation area. We check before we quote.
 
-## Access, parking and neighbours {chip=Access and parking}
+### Who owns the trees on my street?
+Normally the council. Report a problem tree to Croydon through its street-reporting app.
 
-In terraced streets, rear gardens may be reached through the house, a side passage or from the front; we plan this before the visit and never promise access to a property we have not seen.
+### My garden backs onto Grangewood Park. Can I cut the overhang?
+You can trim what hangs over your side to the fence line, but nothing further. Anything on the park side is the council's.
 
-If a vehicle or chipper needs road space, Croydon Council offers a dispensation to park on yellow lines while work is carried out, or a suspension of a parking bay. It asks for at least five working days' notice, payment first and a separate licence for a skip on the road. Check current fees on the council's page.
+### Can you remove a big tree if there's no side access?
+Yes, by sectional dismantling and hand-carrying through the house, with floor protection.
 
-Tell us if a tree is on a boundary or overhangs next door. You may be able to cut branches back to the boundary but not beyond it, and cuttings should be offered back. Work only goes ahead with the tree owner's consent.
+### My neighbour's tree is overhanging my garden. What can I do?
+Cut it back to the boundary if you wish, and talk to them first. See our guide on [whose tree it is](/#whose-tree-is-it-neighbours-council-and-landlords).
 
-## The Thornton Heath tree data {chip=The local data}
+### Do you work in all of CR7?
+Yes. Thornton Heath is part of our Croydon borough patch.
 
-:::facts
-11.23 ha|Grangewood Park, council-owned oak woodland
-5.46 ha|Thornton Heath Recreation Ground, acquired from 1884
-1900|year Croydon Corporation bought Grangewood Park for the public
+### Can you work next to a railway line?
+Only with Network Rail's involvement where the line is affected. Tell us if the tree is beside or over the railway.
+
+### What if a tree comes down outside your hours?
+Our hours are Monday to Saturday, 8am to 6pm. For danger outside them, the safety numbers are on our [emergency page](/emergency-tree-surgeon-croydon/).
 :::
-
-The park records describe two public sites, not gardens or streets. Heritage records are not conservation areas.
-
-London's tree canopy cover is 19.6% (GLA Tree Canopy Cover 2024, mainly 2022 data, ±0.3%). Ward-level figures are modelled estimates; see the [GLA dataset](https://data.london.gov.uk/dataset/tree-canopy-cover-2024-2w4m3).
-
-## How Much Does Tree Surgery Cost in Thornton Heath? {chip=Cost}
-
-Tree surgery in Thornton Heath typically costs {{p.most}} for most jobs, and {{p.large}} for large trees, depending on the job, the tree and the access. Compact plots and busy streets mean planning access and parking, which we confirm at the site visit. Use the [cost calculator](/tree-surgery-cost-calculator/) for a guide price, then get a fixed written quote after we've seen the job. See the [cost guide](/guides/tree-removal-cost-croydon/) for what changes the price.
-
-## Why Thornton Heath Homeowners Choose Us {chip=Why choose us}
-
-+ We keep council street trees and your garden trees separate, so you know who to call.
-+ **Fully insured** with {{insurance}} public liability cover.
-+ **NPTC/LANTRA qualified** climbers and groundworkers.
-+ **Clear, itemised written quotes** after a free, no-obligation site visit.
 
 :::cta
-Get a quote in Thornton Heath
-Tell us the job and your road. We check protection first, then send a written quote.
-Get my free quote | #calculator
+Book a free Thornton Heath quote
+Give us your road, the tree and the way in. A photo from the back door is ideal. Call {{phone}}, Mon to Sat, 8am to 6pm.
+Get your quote | #calculator
 :::
+
+## Nearby areas we cover {-}
+
+[Norbury](/tree-surgeon-norbury/) · [Crystal Palace and Upper Norwood](/tree-surgeon-crystal-palace/) · [Addiscombe](/tree-surgeon-addiscombe/) · [South Croydon](/tree-surgeon-south-croydon/) · [All areas](/areas/)
 
 :::chips
 ### Services in Thornton Heath
@@ -112,38 +153,15 @@ Get my free quote | #calculator
 - South Croydon | /tree-surgeon-south-croydon/
 :::
 
-:::faq Tree Surgeon in Thornton Heath: FAQs
-### How much does a tree surgeon cost in Thornton Heath?
-Typically {{p.most}} for most jobs, and {{p.large}} for large trees, depending on the job, the tree and the access. Compact plots and busy streets mean planning access and parking, which we confirm at the site visit. You get a fixed written quote after we've assessed the tree.
-
-### Is Thornton Heath a conservation area?
-We found none covering Thornton Heath itself. Check your road on the council's map.
-
-### Who looks after the street tree outside my house?
-Street trees are council trees. Report problems to the council rather than working on them yourself.
-
-### What is Grangewood Park's woodland?
-A council-owned park of about 11 hectares that is largely oak woodland, once part of the Great North Wood.
-
-### Do you cover Thornton Heath and CR7?
-Yes. We cover Thornton Heath and the CR7 postcode.
-
-### Do you offer an emergency tree surgeon in Thornton Heath?
-Yes. We respond to emergencies, Monday to Saturday, 8am to 6pm. Call {{phone}} and we'll tell you honestly how quickly we can attend. We make the area safe first, including trees across fences and onto parked cars. See [emergency tree work](/emergency-tree-surgeon-croydon/).
-
-### Can you remove a large tree from a small garden in Thornton Heath?
-Yes. Sectional dismantling lets a climber take the tree down in pieces and lower them under control, without needing space to fell it whole. See [tree removal](/tree-removal-croydon/).
-:::
-
 :::form
 title: Get a tree surgery quote in Thornton Heath
 :::
 
 :::sources
-- [Croydon Council, Grangewood Park history](https://www.croydon.gov.uk/sites/default/files/2021-02/grangewood-park-history.pdf); [Parks and Gardens UK](https://www.parksandgardens.org/places/grangewood-park); [Woodland Trust](https://www.woodlandtrust.org.uk/visiting-woods/woods/grangewood-park/)
-- [Croydon Council, Thornton Heath Recreation Ground](https://www.croydon.gov.uk/node/3173/thornton-heath-recreation-ground)
-- Heritage records: Croydon Local Plan heritage appendix, summarised at [planvu](https://www.planvu.co.uk/croydon2018/written/lp/app5.php) (a 2013 list)
+- [Croydon Council, Conservation area general guidance](https://www.croydon.gov.uk/sites/default/files/Planning/Conservation%20areas/Conservation%20area%20general%20guidance.pdf)
+- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/treesandlandscape/orders)
 - [Croydon Council, Trees in conservation areas](https://www.croydon.gov.uk/environment/trees-and-hedges/trees-conservation-areas)
-- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/trees-and-hedges/tree-preservation-orders)
-Council pages read on 1 October 2026. This is general information, not legal advice.
+- [Croydon Council, Parking suspensions](https://www.croydon.gov.uk/parking/parking-restrictions/how-get-parking-restrictions-suspended)
+- [Wikipedia, Grangewood Park](https://en.wikipedia.org/wiki/Grangewood_Park)
+This is general information, not legal advice. Confirm the protection status of your own tree with the council.
 :::

@@ -98,8 +98,124 @@ for (const f of readdirSync(pagesDir).filter(x => x.endsWith('.md'))) {
 }
 const home = readFileSync(join(root, 'public/index.html'), 'utf8');
 ok(!/£\[[^\]]*\]/.test(home), 'homepage still has a £[...] price placeholder');
-for (const want of [PRICES.removal.all, PRICES.stump.all, `${PRICES.most.replace(' to ', ' and ')}, with large trees at ${PRICES.large}`])
-  ok(home.includes(want), `homepage FAQ should say "${want}" (it is hand-edited, so update it when the model changes)`);
+// Homepage cost table is hand-edited: every figure must still match the model (update the page when the model changes)
+const fmt = n => '£' + n.toLocaleString('en-GB');
+const range = (r, plus) => `${fmt(r[0])} to ${fmt(r[1])}${plus ? '+' : ''}`;
+const prox = M.proximity.buildings.hi;
+const homeWants = [
+  ['small tree removal', range(M.removal.small)],
+  ['medium tree removal', range(M.removal.medium)],
+  ['large tree removal', range(M.removal.large, true)],
+  ['large tree, tight access or over a building', `${fmt(Math.round(M.removal.large[0] * M.proximity.buildings.lo))} to ${fmt(Math.round(M.removal.large[1] * prox))}+`],
+  ['light prune, small tree', `${fmt(M.pruning.small[0])} to ${fmt(Math.round(M.pruning.small[0] + (M.pruning.small[1] - M.pruning.small[0]) * M.prunePortion.light[1]))}`],
+  ['crown reduction, large tree', range(M.pruning.large, true)],
+  ['stump grinding', range([M.stumpByTree.small[0], M.stumpByTree.large[1]])],
+  ['hedge', `${fmt(M.floors.hedge[0])} to ${fmt(M.hedgeRemoval[1])}`],
+  ['survey', `From ${fmt(M.other.surveyBasicFrom)}`],
+  ['emergency call-out', `From ${fmt(M.other.emergencyCallout)}`],
+];
+for (const [label, want] of homeWants)
+  ok(home.includes(want), `homepage cost table should say "${want}" for ${label}`);
+// Tree removal page cost table is hand-written: every figure must match the model
+const removalPage = readFileSync(join(root, 'content/pages/tree-removal.md'), 'utf8');
+for (const [label, want] of [
+  ['small tree', range(M.removal.small)], ['medium tree', range(M.removal.medium)], ['medium-large tree', range(M.removal.mediumLarge)],
+  ['large tree', range(M.removal.large, true)],
+  ['large tree, tight access', `${fmt(Math.round(M.removal.large[0] * M.proximity.buildings.lo))} to ${fmt(Math.round(M.removal.large[1] * M.proximity.buildings.hi))}+`],
+  ['stump grinding', range([M.stumpByTree.small[0], M.stumpByTree.large[1]])],
+  ['emergency', `From ${fmt(M.other.emergencyCallout)}`],
+]) ok(removalPage.includes(want), `tree-removal page cost table should say "${want}" for ${label}`);
+// Tree surveys page: survey prices must match the model
+const surveyPage = readFileSync(join(root, 'content/pages/tree-surveys.md'), 'utf8');
+for (const want of [`From ${fmt(M.other.surveyBasicFrom)}`, `From ${fmt(M.other.bs5837From)}`, `from ${fmt(M.other.surveyBasicFrom)}`, `from ${fmt(M.other.bs5837From)}`])
+  ok(surveyPage.includes(want), `tree-surveys page should say "${want}"`);
+// Emergency page: call-out and large fallen tree prices must match the model
+const emergencyPage = readFileSync(join(root, 'content/pages/emergency.md'), 'utf8');
+ok(emergencyPage.includes(`from ${fmt(M.other.emergencyCallout)}`), 'emergency page call-out price does not match the model');
+ok(emergencyPage.includes(`from about ${fmt(M.removal.large[0])}`), 'emergency page large-tree clearance price does not match the model');
+// Pruning and stump pages: tables must match the model
+const pruningPage = readFileSync(join(root, 'content/pages/tree-pruning.md'), 'utf8');
+const lightHi = Math.round(M.pruning.small[0] + (M.pruning.small[1] - M.pruning.small[0]) * M.prunePortion.light[1]);
+for (const [label, want] of [
+  ['light prune, small tree', `${fmt(M.pruning.small[0])} to ${fmt(lightHi)}`],
+  ['crown lift, small to medium', `${fmt(M.pruning.small[0])} to ${fmt(M.pruning.medium[1])}`],
+  ['medium tree', range(M.pruning.medium)], ['medium-large tree', range(M.pruning.mediumLarge)],
+  ['large tree', range(M.pruning.large, true)], ['pollarding', `From ${fmt(M.other.pollardFrom)}`],
+]) ok(pruningPage.includes(want), `tree-pruning page should say "${want}" for ${label}`);
+const stumpPage = readFileSync(join(root, 'content/pages/stump-grinding.md'), 'utf8');
+for (const [label, want] of [
+  ['under 20 cm', range(M.stumpByDiameter.under20)], ['20 to 50 cm', range(M.stumpByDiameter.d20to50)], ['over 50 cm', range(M.stumpByDiameter.over50)],
+  ['minimum', `From ${fmt(M.floors.stump[0])}`],
+]) ok(stumpPage.includes(want), `stump-grinding page should say "${want}" for ${label}`);
+// Hedge page: tables must match the model (area x rate, with the minimum call-out floor)
+const hedgePage = readFileSync(join(root, 'content/pages/hedge-cutting.md'), 'utf8');
+const rnd = n => Math.round(n / (n >= 1000 ? 50 : 10)) * (n >= 1000 ? 50 : 10);
+const hedge = (len, ht, rate) => [Math.max(M.floors.hedge[0], rnd(len * ht * rate[0])), Math.max(M.floors.hedge[1], rnd(len * ht * rate[1]))];
+const hedgeRow = (lenKey, htKey, rateKey) => hedge(M.hedgeLengthM[lenKey], M.hedgeHeightM[htKey], M.hedgeRatePerM2[rateKey]);
+for (const [label, want] of [
+  ['small front hedge', range(hedgeRow('under5', 'low', 'low'))],
+  ['medium garden hedge', range(hedgeRow('d10to20', 'mid', 'mid'))],
+  ['tall hedge or leylandii', range(hedgeRow('over20', 'tall', 'tall'), true)],
+  ['hedge removal', range(M.hedgeRemoval)],
+  ['minimum call-out', `From ${fmt(M.floors.hedge[0])}`],
+]) ok(hedgePage.includes(want), `hedge-cutting page should say "${want}" for ${label}`);
+// Trees-near-buildings page: prices beside buildings are the base ranges times the "buildings" proximity multiplier
+const nearPage = readFileSync(join(root, 'content/pages/trees-near-buildings.md'), 'utf8');
+const bl = M.proximity.buildings;
+for (const [label, want] of [
+  ['crown lift or reduction over a roof', `${fmt(rnd(M.pruning.small[0] * bl.lo))} to ${fmt(rnd(M.pruning.medium[1] * bl.hi))}`],
+  ['small or medium removal beside a house', `${fmt(rnd(M.removal.small[0] * bl.lo))} to ${fmt(rnd(M.removal.medium[1] * bl.hi))}`],
+  ['large tree over a house', `${fmt(rnd(M.removal.large[0] * bl.lo))} to ${fmt(rnd(M.removal.large[1] * bl.hi))}+`],
+]) ok(nearPage.includes(want), `trees-near-buildings page should say "${want}" for ${label}`);
+ok(nearPage.includes(`From about ${fmt(rnd(M.pruning.small[0] * bl.lo))} to over ${fmt(rnd(M.removal.large[1] * bl.hi))}`), 'trees-near-buildings short answer price range does not match the model');
+// Calculator page: every row of the price table and worked examples must match the model
+const calcPage = readFileSync(join(root, 'content/pages/calculator.md'), 'utf8');
+const hedgeTall = range(hedgeRow('over20', 'tall', 'tall'), true);
+for (const [label, want] of [
+  ['light prune', `${fmt(M.pruning.small[0])} to ${fmt(lightHi)}`], ['medium pruning', range(M.pruning.medium)], ['large reduction', range(M.pruning.large, true)],
+  ['small removal', range(M.removal.small)], ['medium removal', range(M.removal.medium)], ['medium-large removal', range(M.removal.mediumLarge)],
+  ['large removal', range(M.removal.large, true)],
+  ['large, tight access', `${fmt(rnd(M.removal.large[0] * bl.lo))} to ${fmt(rnd(M.removal.large[1] * bl.hi))}+`],
+  ['stump grinding', range([M.stumpByTree.small[0], M.stumpByTree.large[1]])],
+  ['hedge typical', `${fmt(M.floors.hedge[0])} to ${fmt(hedgeRow('d10to20', 'mid', 'mid')[1])}`],
+  ['hedge long and tall', `from ${fmt(hedgeRow('over20', 'tall', 'tall')[0])}`],
+  ['survey', `From ${fmt(M.other.surveyBasicFrom)}`], ['emergency', `From ${fmt(M.other.emergencyCallout)}`],
+  ['example 1 total', `From about ${fmt(M.removal.small[0] + M.stumpByTree.small[0])}`],
+  ['example 1 parts', `Small removal ${range(M.removal.small)}, plus stump grinding from ${fmt(M.stumpByTree.small[0])}`],
+  ['example birch', `Medium-large removal ${range(M.removal.mediumLarge)}`],
+  ['example oak', `Large crown reduction ${range(M.pruning.large, true)}`],
+]) ok(calcPage.includes(want), `calculator page should say "${want}" for ${label}`);
+// Area pages: every "£x to £y" in a guide-price table must be a figure the model produces
+const valid = new Set([
+  range(M.pruning.small[0] ? [M.pruning.small[0], lightHi] : [0, 0]), range([M.pruning.small[0], M.pruning.medium[1]]), range(M.pruning.medium), range(M.pruning.mediumLarge), range(M.pruning.large, true),
+  range(M.removal.small), range(M.removal.medium), range(M.removal.mediumLarge), range(M.removal.large, true),
+  `${fmt(rnd(M.removal.large[0] * bl.lo))} to ${fmt(rnd(M.removal.large[1] * bl.hi))}+`,
+  range([M.stumpByTree.small[0], M.stumpByTree.large[1]]), range(M.stumpByDiameter.under20), range(M.stumpByDiameter.d20to50), range(M.stumpByDiameter.over50), range([M.stumpByTree.small[0], M.stumpByTree.medium[1]]), range(hedgeRow('under5', 'low', 'low')), range([M.removal.small[0], M.removal.medium[1]]), `${fmt(M.floors.hedge[0])} to ${fmt(hedgeRow('d10to20', 'mid', 'mid')[1])}`,
+]);
+let areaTables = 0;
+for (const f of readdirSync(pagesDir).filter(x => /^area-.*\.md$/.test(x))) {
+  const md = readFileSync(join(pagesDir, f), 'utf8');
+  const hdr = md.match(/^\| [^|\n]* \| Guide price \|$/m);
+  if (!hdr) continue;
+  areaTables++;
+  const table = md.split(hdr[0])[1].split('\n\n')[0];
+  for (const m of table.matchAll(/£[\d,]+ to £[\d,]+\+?/g))
+    ok(valid.has(m[0]), `${f}: guide price "${m[0]}" is not a figure the model produces`);
+}
+console.log('  checked ' + areaTables + ' area page price table(s)');
+// Cost guide: every "£x to £y" in its guide-price table must be a model figure (plus the minimum call-out range)
+for (const gf of ['guide-cost.md', 'guide-ash.md']) {
+  const md = readFileSync(join(pagesDir, gf), 'utf8');
+  const hdr = md.match(/^\| Job \| Guide price \|$/m);
+  ok(!!hdr, gf + ' should have a "Job | Guide price" table');
+  if (hdr) {
+    const table = md.split(hdr[0])[1].split('\n\n')[0];
+    const okSet = new Set([...valid, range([M.floors.stump[0], M.floors.removal[0]])]);
+    for (const m of table.matchAll(/£[\d,]+ to £[\d,]+\+?/g)) ok(okSet.has(m[0]), `${gf}: guide price "${m[0]}" is not a figure the model produces`);
+    ok(table.includes(`From ${fmt(M.other.surveyBasicFrom)}`), gf + ' survey price should match the model');
+    console.log('  checked the ' + gf + ' price table');
+  }
+}
 // The numbers in the calculator tables must be the model's numbers
 ok(PRICES.removal.small === `£${M.removal.small[0]} – £${M.removal.small[1]}`, 'removal.small token does not match the model');
 ok(M.other.surveyBasicFrom === 260 && M.other.bs5837From === 460 && M.other.pollardFrom === 380 && M.other.emergencyCallout === 250, 'other prices changed: update the source note in PRICING.md');

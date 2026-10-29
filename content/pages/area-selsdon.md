@@ -1,13 +1,9 @@
 ---
 url: /tree-surgeon-selsdon/
-title: Tree Surgeon Selsdon CR2 | Removal, Ash Checks | Free Quote
-description: Local tree surgeon in Selsdon (CR2): tree removal, pruning, stump grinding and emergency work. Ash dieback and woodland-edge trees. Free written quote.
-h1: Tree Surgeon in Selsdon
-lead: Tree work for Selsdon homes, including gardens beside Selsdon Wood. We check whether your tree is protected, and whether it is an ash that needs looking at, before any work starts. We carry out tree removal, pruning, stump grinding, hedge cutting and emergency tree work across Selsdon (CR2).
-points:
-  - Ash dieback checks, with honest advice on felling
-  - Gardens beside the wood: wildlife checks and boundary ownership
-  - Croydon rules, with the Addington Village conservation area explained
+title: Tree Surgeon Selsdon CR2 | Ash Dieback & Woodland Edges
+description: Tree surgeon in Selsdon, CR2: gardens beside Selsdon Wood, ash dieback, Addington Village conservation area next door, TPO checks and prices. Free quote.
+h1: Tree Surgeon in Selsdon, CR2
+lead: "Selsdon is where Croydon starts to turn into countryside. Many roads and gardens sit close to Selsdon Wood and other woodland, trees are older and bigger than in the town, and ash trees are common. That brings three questions that customers ask us again and again: is my tree protected, what do I do about ash dieback, and who owns the strip of wood behind my fence? We do tree surgery across Selsdon and we answer those before we quote."
 calc: yes
 area: Selsdon
 areaName: Selsdon
@@ -16,88 +12,127 @@ crumb: Selsdon
 schema: Service|Tree surgeon in Selsdon|Tree surgery
 ---
 
-## Tree Surgery Services in Selsdon {chip=Services}
+## The short answers {-}
 
-| Service | What it means in Selsdon |
+- **Is Selsdon a conservation area?** Not in itself, but Addington Village is next door. [Check your road](#is-your-tree-protected).
+- **Does my ash tree have to come down?** Not necessarily. [Ash dieback](#ash-trees-and-ash-dieback).
+- **Who owns the wood behind my garden?** Probably not you. [Woodland-edge gardens](#gardens-beside-selsdon-wood).
+- **Do I need a felling licence?** Not for a garden tree. [Licences and permission](#do-you-need-a-felling-licence).
+- **What does it cost?** [Prices](#what-tree-work-costs-in-selsdon).
+
+
+## Is your tree protected?
+
+**Selsdon itself** is not covered by a conservation area, so ordinary trees in an ordinary garden do not need the six weeks' notice that applies elsewhere in Croydon. Two things can still apply:
+
+1. **A Tree Preservation Order.** TPOs can protect individual trees or groups anywhere, and Selsdon's older, larger trees are exactly the kind that get them. Croydon says consent is needed to prune or fell a protected tree, there is no fee, and fines can be heavy. We check on every quote.
+2. **The Addington Village Conservation Area next door.** Designated in July 1973 and since extended to take in Addington Palace, its parkland and Roxton Gardens, it sits on the Selsdon and Shirley boundary. Croydon's appraisal says:
+   - **Six weeks' notice** is needed before work on trees with a stem over 7.5 cm across.
+   - **Numerous TPOs** cover the area and its green buffer.
+   - A **TPO application** takes about eight weeks.
+   - Trees in the parkland are expected to preserve the historic character set by Capability Brown's landscape, which includes a Cedar of Lebanon on the Palace terrace and a ring of horse chestnuts.
+
+**Selsdon Park Hotel's grounds** are on Croydon's local list of historic parks and gardens. That is a heritage record, not a tree control. Protection comes from TPOs and conservation areas. See [tree preservation orders](/guides/tree-preservation-orders-croydon/) and [conservation area tree work](/guides/conservation-area-tree-work-croydon/).
+
+
+## Do you need a felling licence?
+
+Usually not. A Forestry Commission felling licence applies mainly to trees that are not part of a garden when more than five cubic metres of timber is cut, so a garden tree normally does not need one. Woodland is different. If your land includes a wood, tell us, because the rules change. In either case, a TPO or conservation area is a separate permission, not replaced by a licence.
+
+
+## Ash trees and ash dieback
+
+Selsdon's chalk slopes are home to ash. Croydon's management plan for Selsdon Wood describes ash-maple woodland on the north-west and eastern slopes, with oak, yew, whitebeam and birch. Ash dieback is a fungal disease that makes ash trees thin, die back and, as infection progresses, become brittle.
+
+**What you should know:**
+
+- **Not every ash needs to come down.** Councils advise that trees not showing signs of infection need not be removed, and some may be naturally resistant.
+- **Where it matters.** Work is needed when an infected tree could fall toward a house, a road, a path or somewhere people use regularly.
+- **Act early.** The wood becomes more brittle as infection advances, which makes climbing riskier and the job costlier.
+- **Look for:** thinning crowns, dying shoots at the tips and dark lesions on the bark. We assess before recommending anything.
+- **Protected ash trees** still need consent, even when they are diseased.
+
+See [ash dieback in Croydon](/guides/ash-dieback-croydon/) for a fuller guide, and [tree surveys](/tree-surveys-croydon/) if you want a written assessment for an insurer or neighbour.
+
+
+## Gardens beside Selsdon Wood
+
+Selsdon Wood is a Local Nature Reserve of old woodland, owned by the National Trust and managed by Croydon Council. The council's management plan lists the oak, ash, field maple, yew, whitebeam, birch and sweet chestnut that grow there, and says houses and gardens bound it on several sides. If your garden backs onto it:
+
+- **Check who owns the strip.** It is often the Trust or the council. Don't cut, clear or dump garden waste there. The management plan itself records garden-waste dumping as a problem.
+- **Your own trees** near the boundary are your responsibility, including for safety. A big oak or ash near the fence that drops a limb into the wood or a neighbour's plot is your liability.
+- **Overhang from the wood** can be trimmed back to the boundary, but not beyond it.
+- **Wildlife.** Woodland edges mean nesting birds and bats, so work from March to August gets an extra check. See [nesting season guidance](/guides/bird-nesting-season-tree-work/).
+- **Hedges** beside woodland are best cut outside nesting season. See [hedge cutting](/hedge-cutting-croydon/).
+
+
+## Slopes, large trees and access
+
+Many Selsdon gardens slope, and the trees are mature. That affects the job:
+
+- **Rigging on a slope** takes longer, and you may need a platform for big trees. See [tree removal](/tree-removal-croydon/) and [tree pruning](/tree-pruning-croydon/).
+- **Oaks and other big trees** can be reduced or lifted over drives and roofs. See pruning for the right way to do it.
+- **Stumps** left after felling can be ground out, but check for wildlife first. See [stump grinding](/stump-grinding-croydon/).
+- **Trees near the house.** See [trees near buildings](/trees-near-buildings-croydon/).
+
+Most Selsdon jobs park on the drive. If we need the road, the council wants about two weeks' notice for a bay suspension, and a crane on the highway needs a licence.
+
+
+## What tree work costs in Selsdon
+
+Mature oaks and ash are the usual Selsdon jobs. Treat these as guide figures; the written quote is what you pay.
+
+| Job | Guide price |
 |---|---|
-| [Tree removal in Selsdon](/tree-removal-croydon/) | Dead or declining ash and other trees, with protection and licence checks first. |
-| [Tree pruning in Selsdon](/tree-pruning-croydon/) | Reductions of mature oaks and lifts over drives and roofs. |
-| [Stump grinding in Selsdon](/stump-grinding-croydon/) | Stumps left after ash and oak removals, with wildlife checked first. |
-| [Emergency tree work in Selsdon](/emergency-tree-surgeon-croydon/) | Brittle ash limbs and storm damage near houses and roads. |
-| [Hedge cutting in Selsdon](/hedge-cutting-croydon/) | Boundary hedges beside woodland, with nest checks. |
-| [Tree surveys in Selsdon](/tree-surveys-croydon/) | Health and safety reports, and reports for extensions, house purchases and insurers. |
-| [Trees near buildings in Selsdon](/trees-near-buildings-croydon/) | Trees over roofs and conservatories, and roots near walls and drains. |
+| Reduce or lift a large mature oak | £800 to £1,500+ |
+| Remove a medium-large ash | £550 to £1,100 |
+| Remove a big tree with room to work | £1,000 to £3,000+ |
+| Remove a big tree on a slope or over a roof | £1,100 to £3,900+ |
+| Survey or health check, single tree | From £260 |
 
-## Is your tree protected? Rules in Selsdon {chip=Is my tree protected?}
+Brittle ash can cost more to climb and take down than a healthy tree of the same size. Smaller jobs are in the [cost calculator](/tree-surgery-cost-calculator/).
 
-We found no conservation area covering Selsdon itself, but the Addington Village Conservation Area lies next door and has been extended to include Addington Palace's stables and clubhouse, the parkland, South Lodge and Roxton Gardens. In a Croydon conservation area you must give six weeks' written notice before work to a tree. Check your road on the council's map.
+:::faq Tree Surgeon in Selsdon, CR2: frequently asked questions
+### Is Selsdon a conservation area?
+No, but Addington Village Conservation Area is next door. Check your exact road with the council.
 
-Selsdon Wood is a Local Nature Reserve and ancient woodland owned by the National Trust and managed by Croydon Council; report trees on it to the council. Selsdon Park Hotel is on Croydon's local list of historic parks and gardens, which records fine nineteenth-century trees including a cedar; a local list entry is a heritage record, and tree controls come from TPOs and conservation areas. If you plan to fell more than a few trees, check whether a Forestry Commission felling licence is needed.
+### Does my ash tree have to come down for ash dieback?
+Not necessarily. We assess it first. The priority is trees that could fall onto a house, road or path.
 
-## Common trees in Selsdon {chip=Common trees}
+### Do I need the council's permission for tree work in Selsdon?
+Only where a TPO or conservation area applies. Checking is part of our quoting process.
 
-Selsdon Wood, Croydon's largest wood, lies on the dip slope of the North Downs. These are woodland records, not a survey of gardens.
+### Do I need a felling licence for a tree in my garden?
+Generally not. A licence applies mainly to non-garden trees above five cubic metres of timber.
 
-| Tree | What the records say |
-|---|---|
-| Oak (pedunculate and sessile) | Widespread, and the principal species in the wood |
-| Ash | Widespread; a main canopy species with field maple and oak |
-| Field maple | Part of the often thin canopy; ash-maple woodland on chalk slopes |
-| Yew, whitebeam, birch | Present alongside the canopy trees |
-| Hornbeam, horse chestnut | Along strips and borders of the wood |
-| Hazel | Coppice with a few oak and ash standards |
+### Who owns the woodland behind my garden?
+It varies. Selsdon Wood is owned by the National Trust and managed by Croydon Council. Check the boundary before any work.
 
-### Ash dieback
+### What if a branch from my tree falls into the wood or a neighbour's garden?
+You are responsible for your own trees, so have them checked, especially mature oaks and ash.
 
-Because ash is widespread locally, ash dieback matters here. Councils describe it as a destructive fungal disease first recorded in south-east England in 2012. Large infected trees can become dangerous before they die, and landowners are responsible for trees on their own land. Councils also advise not to fell healthy ash out of concern about the disease, so we assess it first. See the [ash dieback guide](/guides/ash-dieback-croydon/).
+### Can you fell a tree in a sloping garden?
+Yes. The slope shapes where we rig, where pieces land and how we reach the tree.
 
-## Typical tree jobs in Selsdon {chip=Typical jobs}
+### How much is a large oak or ash in Selsdon?
+Large trees typically run from £1,000 to over £3,000, depending on access and condition.
 
-These follow from the area's setting.
+### Do you cover all of CR2?
+Yes. Selsdon is part of our Croydon patch.
 
-| Typical job | Why it comes up here | Rule to check first |
-|---|---|---|
-| Checking or removing an ash tree | Ash is widespread in local woodland | Protection and licence checks |
-| Reducing or lifting a mature oak | Oak is the principal local species | TPO check |
-| Work on trees at a woodland edge | Gardens backing onto woodland buffer land | Who owns the strip; nests and bats |
-| Trimming or reducing hedges | Boundary hedging on suburban plots | Nests between March and August |
-
-## Access, parking and neighbours {chip=Access and parking}
-
-Selsdon Wood sits on the raised dip slope of the North Downs, so some plots slope. If your garden backs onto woodland or a strip of land, check who owns it before any work.
-
-If a vehicle or chipper needs road space, Croydon Council offers a dispensation to park on yellow lines while work is carried out, or a suspension of a parking bay. It asks for at least five working days' notice, payment first and a separate licence for a skip on the road. Check current fees on the council's page.
-
-Tell us if a tree is on a boundary or overhangs next door. You may be able to cut branches back to the boundary but not beyond it, and cuttings should be offered back. Work only goes ahead with the tree owner's consent.
-
-## The Selsdon tree data {chip=The local data}
-
-:::facts
-81 ha|Selsdon Wood, a Local Nature Reserve
-41|species on the Friends of Selsdon Wood tree and shrub list
-1936|year the National Trust took ownership of the wood
+### What about storm damage?
+Phone us in working hours. For danger at other times, the numbers are on our [emergency page](/emergency-tree-surgeon-croydon/).
 :::
-
-The wood's planting history includes a Centenary Plantation of 100 oaks (1983) and a Jubilee Plantation of oaks and beeches (1977). The species list is volunteer-maintained and describes the wood, not local gardens.
-
-London's tree canopy cover is 19.6% (GLA Tree Canopy Cover 2024, mainly 2022 data, ±0.3%). Ward-level figures are modelled estimates; see the [GLA dataset](https://data.london.gov.uk/dataset/tree-canopy-cover-2024-2w4m3).
-
-## How Much Does Tree Surgery Cost in Selsdon? {chip=Cost}
-
-Tree surgery in Selsdon typically costs {{p.most}} for most jobs, and {{p.large}} for large trees, depending on the job, the tree and the access. Large trees and woodland edges can need extra care, which we confirm at the site visit. Use the [cost calculator](/tree-surgery-cost-calculator/) for a guide price, then get a fixed written quote after we've seen the job. See the [cost guide](/guides/tree-removal-cost-croydon/) for what changes the price.
-
-## Why Selsdon Homeowners Choose Us {chip=Why choose us}
-
-+ We give honest advice on ash dieback: not every ash tree needs to come down.
-+ **Fully insured** with {{insurance}} public liability cover.
-+ **NPTC/LANTRA qualified** climbers and groundworkers.
-+ **Clear, itemised written quotes** after a free, no-obligation site visit.
 
 :::cta
-Get a quote in Selsdon
-Tell us the job and your road. We check protection first, then send a written quote.
-Get my free quote | #calculator
+Get your Selsdon quote
+Give us your road and the tree, and say if your garden backs onto woodland. Photos make it quicker. Call {{phone}}, Mon to Sat, 8am to 6pm.
+Get your quote | #calculator
 :::
+
+## Nearby areas we cover {-}
+
+[Sanderstead](/tree-surgeon-sanderstead/) · [South Croydon](/tree-surgeon-south-croydon/) · [Shirley](/tree-surgeon-shirley/) · [Coulsdon](/tree-surgeon-coulsdon/) · [All areas](/areas/)
 
 :::chips
 ### Services in Selsdon
@@ -115,39 +150,16 @@ Get my free quote | #calculator
 - Shirley | /tree-surgeon-shirley/
 :::
 
-:::faq Tree Surgeon in Selsdon: FAQs
-### How much does a tree surgeon cost in Selsdon?
-Typically {{p.most}} for most jobs, and {{p.large}} for large trees, depending on the job, the tree and the access. Large trees and woodland edges can need extra care, which we confirm at the site visit. You get a fixed written quote after we've assessed the tree.
-
-### Is Selsdon a conservation area?
-We found none covering Selsdon itself, but the Addington Village Conservation Area is next door. Check your road with the council.
-
-### Does my ash tree need to come down because of ash dieback?
-Not necessarily. Councils advise against felling healthy ash trees, but large infected trees can become dangerous, so have it checked.
-
-### My garden backs onto the woodland. Who owns the strip?
-It varies, so check before any work. Selsdon Wood itself is owned by the National Trust and managed by Croydon Council.
-
-### Do you cover Selsdon and CR2?
-Yes. We cover Selsdon and the CR2 postcode.
-
-### Do you offer an emergency tree surgeon in Selsdon?
-Yes. We respond to emergencies, Monday to Saturday, 8am to 6pm. Call {{phone}} and we'll tell you honestly how quickly we can attend. We make the area safe first, including brittle ash limbs near houses and roads. See [emergency tree work](/emergency-tree-surgeon-croydon/).
-
-### Can you check my ash tree in Selsdon?
-Yes. We can assess it and tell you honestly whether it needs monitoring, pruning or removal. See our [ash dieback guide](/guides/ash-dieback-croydon/).
-:::
-
 :::form
 title: Get a tree surgery quote in Selsdon
 :::
 
 :::sources
-- [Selsdon Wood Management Plan to 2029](https://www.friendsofselsdonwood.co.uk/resources/Selsdon%20Wood%20Management%20Plan%20to%202029.pdf); [Friends of Selsdon Wood, trees and shrubs list](https://www.friendsofselsdonwood.co.uk/resources/Trees%20Full%20List%2017%3A7%3A26.pdf); [Croydon Council, Selsdon Wood history](https://www.croydon.gov.uk/sites/default/files/2021-02/selsdon-wood-nature-reserve-history.pdf)
-- Addington Village: [Croydon Council news](https://news.croydon.gov.uk/historic-addington-to-get-wider-protected-status)
-- Selsdon Park: [Croydon Council, locally listed parks and gardens](https://www.croydon.gov.uk/sites/default/files/Planning/Conservation%20areas/Locally%20Listed%20Parks%20and%20Gardens%20-%20Details%20Part%202.pdf)
+- [Croydon Council, Addington Village conservation area appraisal](https://www.croydon.gov.uk/sites/default/files/Planning/Conservation%20areas/Addington%20Village%20Conservation%20Area%20Appraisal%20and%20Management%20Plan%20Adopted.pdf)
+- [Friends of Selsdon Wood, Selsdon Wood management plan to 2029](https://www.friendsofselsdonwood.co.uk/resources/Selsdon%20Wood%20Management%20Plan%20to%202029.pdf)
+- [Wikipedia, Selsdon Wood](https://en.wikipedia.org/wiki/Selsdon_Wood)
+- [Cornwall Council, Guidance on how to manage ash dieback](https://www.cornwall.gov.uk/environment/trees-hedges-and-woodlands/tree-and-woodland-management/guidance-on-how-to-manage-ash-dieback/)
+- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/treesandlandscape/orders)
 - [Croydon Council, Trees in conservation areas](https://www.croydon.gov.uk/environment/trees-and-hedges/trees-conservation-areas)
-- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/trees-and-hedges/tree-preservation-orders)
-- Ash dieback: council guidance from [Hampshire](https://www.hants.gov.uk/landplanningandenvironment/countryside/ash-dieback-disease) and [Leeds](https://www.leeds.gov.uk/parks-and-countryside/trees-and-woodland/ash-dieback-disease) (other councils)
-Council pages read on 1 October 2026. This is general information, not legal advice.
+This is general information, not legal advice. Confirm the protection status of your own tree with the council.
 :::

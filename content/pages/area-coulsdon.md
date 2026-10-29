@@ -1,13 +1,9 @@
 ---
 url: /tree-surgeon-coulsdon/
-title: Tree Surgeon Coulsdon CR5 | Removal, Ash Checks | Free Quote
-description: Local tree surgeon in Coulsdon (CR5): tree removal, pruning, stump grinding and emergency work. Ash dieback and downland-edge trees. Free written quote.
-h1: Tree Surgeon in Coulsdon
-lead: Tree work for Coulsdon and Old Coulsdon homes, including gardens beside the South London Downs. We check whether your tree is protected, and whether it is an ash that needs looking at, before any work starts. We carry out tree removal, pruning, stump grinding, hedge cutting and emergency tree work across Coulsdon (CR5).
-points:
-  - Ash dieback checks and honest felling advice
-  - Wildlife checks beside downs and woods
-  - Croydon rules, including the Court Avenue proposal
+title: Tree Surgeon Coulsdon CR5 | Old Coulsdon & the Downs
+description: Tree surgeon in Coulsdon and Old Coulsdon, CR5: Bradmore Green conservation area, homes beside Happy Valley and the Downs, ash, hedges, prices. Free quote.
+h1: Tree Surgeon in Coulsdon and Old Coulsdon, CR5
+lead: "Coulsdon is where Croydon runs out of houses and into downland. Many gardens sit beside Happy Valley, Farthing Downs and the commons, the ground is steep in places, and hedges and woodland edges are part of everyday life. There is also a conservation area at the heart of Old Coulsdon, and another being considered nearby. We do tree surgery across Coulsdon, and we sort out those rules, and who owns what, before we quote."
 calc: yes
 area: Coulsdon
 areaName: Coulsdon
@@ -16,88 +12,118 @@ crumb: Coulsdon
 schema: Service|Tree surgeon in Coulsdon|Tree surgery
 ---
 
-## Tree Surgery Services in Coulsdon {chip=Services}
+## The short answers {-}
 
-| Service | What it means in Coulsdon |
+- **Is Coulsdon a conservation area?** Part of Old Coulsdon is. [Bradmore Green and Court Avenue](#conservation-areas-in-coulsdon).
+- **My garden backs onto the Downs. Whose land is it?** Usually not yours. [Downland neighbours](#homes-beside-happy-valley-and-the-downs).
+- **Does my ash need to come down?** Not necessarily. [Ash and hedges](#ash-hedges-and-wildlife-near-the-downs).
+- **What does it cost?** [Prices](#what-tree-work-costs-in-coulsdon).
+
+
+## Conservation areas in Coulsdon
+
+**Bradmore Green Conservation Area** was designated in July 1968 and covers the heart of Old Coulsdon. It centres on the village green and pond, at the junction of Coulsdon Road and Marlpit Lane, and on Grange Park. It includes the Grade I listed Church of St John and other listed and locally listed buildings. Croydon's page for the green says trees that contribute to the character of the conservation area are protected.
+
+**Court Avenue, Coulsdon** is one of nine places Croydon is considering for conservation area status. The council says it will assess each and then ask residents for their views, with no dates given. Check the council's site before assuming it is or isn't designated.
+
+**What conservation area status means for a tree:**
+
+- Six weeks' written notice to the council before most pruning or felling.
+- Nothing to pay; we write the notice for you.
+- Unauthorised work can be fined heavily.
+
+**Outside those boundaries,** most Coulsdon roads carry no conservation area rule, but a TPO can still cover a single tree. We check before quoting. See [conservation area tree work](/guides/conservation-area-tree-work-croydon/) and [tree preservation orders](/guides/tree-preservation-orders-croydon/).
+
+
+## Homes beside Happy Valley and the Downs
+
+Coulsdon sits beside some of London's best-protected countryside.
+
+| Place | What the council records |
 |---|---|
-| [Tree removal in Coulsdon](/tree-removal-croydon/) | Ash and other trees beside the downs and woods, with protection and licence checks first. |
-| [Tree pruning in Coulsdon](/tree-pruning-croydon/) | Oak and beech reductions, and yew, beech and holly hedges. |
-| [Stump grinding in Coulsdon](/stump-grinding-croydon/) | Stump grinding after removals, with wildlife checked first. |
-| [Emergency tree work in Coulsdon](/emergency-tree-surgeon-croydon/) | Storm limbs and fallen trees in gardens beside the downs and woods. |
-| [Hedge cutting in Coulsdon](/hedge-cutting-croydon/) | Beech, yew and holly hedges, with nests checked from March to August. |
-| [Tree surveys in Coulsdon](/tree-surveys-croydon/) | Health and safety reports, and reports for extensions, house purchases and insurers. |
-| [Trees near buildings in Coulsdon](/trees-near-buildings-croydon/) | Trees over roofs and conservatories, and roots near walls and drains. |
+| **Happy Valley** | About 101 hectares of downland grass and wooded slopes on a steep-sided dry valley, council-owned, mostly within the Farthing Downs and Happy Valley SSSI. Oak, beech, ash, cherry, sweet chestnut, field maple and hazel, plus old yews planted in lines along former boundaries |
+| **Farthing Downs** | Belongs to the City of London |
+| **Farthing Downs tree belt** | Runs beside Chaldon Way from Marlpit Lane to Drive Road, about 2.8 hectares, described as an ancient hedgerow of over twenty species including ash, hazel, oak, yew, beech and holly |
+| **South London Downs National Nature Reserve** | Includes Farthing Downs, Happy Valley, Coulsdon Common and Kenley Common |
 
-## Is your tree protected? Rules in Coulsdon {chip=Is my tree protected?}
+If your garden borders any of these:
 
-Croydon Council says you must give six weeks' written notice before work to a tree in a conservation area, with fines of up to £20,000 for cutting one down without consent and up to £2,500 for pruning one. We did not confirm a designated conservation area in Coulsdon, so check Croydon's map for your road. The council has named Court Avenue, Coulsdon among nine areas it would consider for conservation area status, and its Cabinet agreed a list of potential new areas in December 2025; until it is designated, do not assume it is one.
+- **The land beyond the fence is not yours,** and much of it is protected. Ask before clearing or cutting anything there. The council lists parks@croydon.gov.uk and 020 8726 6000 for enquiries.
+- **Your own large trees** near the boundary are your responsibility. A beech or oak that drops a limb into a protected site is still your liability.
+- **Overhang** can be trimmed to your side of the line, and no further.
+- **Managed wildlife.** Happy Valley uses grazing and a 15-year coppice rotation, and the council runs a dormouse monitoring project there. Dormice are legally protected, so tell us if you have thick hedge or scrub beside the Downs.
 
-Happy Valley, Farthing Downs, Coulsdon Common and neighbouring sites form the South London Downs National Nature Reserve, managed jointly by the City of London Corporation and Croydon Council, and Happy Valley is a Site of Special Scientific Interest. If a tree is on that land, report it to the owner rather than arranging work yourself. Check whether a felling licence is needed if you plan to fell more than a few trees.
 
-## Common trees in Coulsdon {chip=Common trees}
+## Ash, hedges and wildlife near the Downs
 
-Coulsdon's tree record comes from documents about the downs and woods around it. These describe wild sites, not every garden.
+- **Ash.** It is recorded in the Farthing Downs tree belt and the Happy Valley woodland. Councils advise that ash with no sign of infection need not come down, and that work is needed where an infected tree could fall on a house, road or path. See [ash dieback in Croydon](/guides/ash-dieback-croydon/).
+- **Hedges.** Coulsdon boundaries are often tall and mixed. Hedge work is best done outside March to August, and conifers should never be hacked back to bare brown wood. See [hedge cutting](/hedge-cutting-croydon/).
+- **Nesting birds and bats.** We look for active nests before any spring or summer job beside woodland. See the [nesting season guide](/guides/bird-nesting-season-tree-work/).
+- **Felling licences.** A garden tree does not normally need one, but if your land includes a wood the rules change. Ask us.
 
-| Place | Trees recorded |
+
+## Slopes, chalk and access
+
+- **Steep plots.** Happy Valley is a steep-sided dry valley and many neighbouring gardens slope. We plan the route and rigging around the fall. See [tree removal](/tree-removal-croydon/) and [tree pruning](/tree-pruning-croydon/).
+- **Chalk.** Chalk drains freely and does not shrink and swell like clay, which is why the RHS rates tree-related subsidence on chalk as very unlikely. A big tree beside a Coulsdon house is usually a smaller worry than in the clay parts of the borough, though your plot may differ. See [trees near buildings](/trees-near-buildings-croydon/).
+- **Stumps and surveys.** See [stump grinding](/stump-grinding-croydon/) and [tree surveys](/tree-surveys-croydon/).
+
+
+## What tree work costs in Coulsdon
+
+Big trees and tall boundary hedges set the price here. Treat these as guides; the written quote is what you pay.
+
+| Job | Guide price |
 |---|---|
-| Happy Valley (Old Coulsdon) | Ancient woodland with a wide variety of trees including oak, beech and ash; ancient yew trees planted in lines to mark property and parish boundaries |
-| Devilsden Wood | Yew, giving greenery all year |
-| Coulsdon Common | Ancient oak woods |
-| Farthing Downs tree belt | An ancient hedgerow with over 20 species of tree and shrub, including ash, hazel, oak, yew, beech, field maple, holly and hawthorn |
+| Reduce a large mature tree | £800 to £1,500+ |
+| Remove a medium-large tree | £550 to £1,100 |
+| Remove a large tree on a slope | £1,100 to £3,900+ |
+| Cut a typical garden hedge | £120 to £450 |
+| Survey or health check, single tree | From £260 |
 
-### Ash dieback
+The [cost calculator](/tree-surgery-cost-calculator/) covers smaller jobs.
 
-Ash is recorded locally, so ash dieback matters. Councils advise against felling healthy ash, but large infected trees can become dangerous before they die, so we assess an ash first. [Ash dieback guide](/guides/ash-dieback-croydon/).
+:::faq Tree Surgeon in Coulsdon and Old Coulsdon, CR5: frequently asked questions
+### Is Coulsdon a conservation area?
+Part of it is. The Bradmore Green Conservation Area covers the heart of Old Coulsdon, and Court Avenue is being considered. Check your road with the council.
 
-Maps and records describe public sites and one or two documented areas, not every garden. Check your own tree with the council.
+### Do I need permission to cut a tree in Old Coulsdon?
+In the conservation area, written notice six weeks beforehand. Elsewhere, only if a TPO applies. We check before we quote.
 
-## Typical tree jobs in Coulsdon {chip=Typical jobs}
+### My garden backs onto Happy Valley or Farthing Downs. What can I do about overhanging trees?
+Trim only what overhangs your side, and speak to the landowner about anything else. Much of the land is protected.
 
-These follow from the area's setting.
+### Does my ash have to come down?
+Not necessarily. We assess it first and prioritise trees that could fall on a house, road or path.
 
-| Typical job | Why it comes up here | Rule to check first |
-|---|---|---|
-| Checking or removing an ash tree | Ash is recorded across local woods and hedgerows | Protection and licence checks |
-| Reducing a mature oak or beech | Oak and beech are recorded across the local ancient woodland | TPO check |
-| Work beside the downs and woods | Gardens next to Happy Valley and Coulsdon Common | Who owns the strip; nests and bats |
-| Cutting beech, yew or holly hedges | Yew, beech and holly are recorded locally and common in hedges | Nests between March and August |
+### Can you cut a tall hedge near the woods?
+Yes, outside nesting season where possible. Tell us about any thick scrub or dormouse concerns.
 
-## Access, parking and neighbours {chip=Access and parking}
+### Can you work on a steep garden?
+Yes. We plan the rigging and route around the slope.
 
-Happy Valley is described as a steep-sided dry valley, and Old Coulsdon sits on the edge of the downs, so some plots slope. If your garden backs onto open land, check who owns the boundary strip before any work.
+### Do I need a felling licence?
+Not for a garden tree, generally. Tell us if your land includes woodland.
 
-If a vehicle or chipper needs road space, Croydon Council offers a dispensation to park on yellow lines while work is carried out, or a suspension of a parking bay. It asks for at least five working days' notice, payment first and a separate licence for a skip on the road. Check current fees on the council's page.
+### What does tree work cost in Coulsdon?
+Most jobs land between £200 and £1,100; large trees on open ground start around £1,000.
 
-Tell us if a tree is on a boundary or overhangs next door. You may be able to cut branches back to the boundary but not beyond it, and cuttings should be offered back. Work only goes ahead with the tree owner's consent.
+### Do you cover Old Coulsdon and CR5?
+Yes, all of CR5 including Old Coulsdon is within our area.
 
-## The Coulsdon tree data {chip=The local data}
-
-:::facts
-417 ha|South London Downs National Nature Reserve, designated July 2019
-101 ha|Happy Valley, an SSSI
-95 ha|Farthing Downs, managed by the City of London Corporation
+### What if a tree falls in a storm?
+Call us during working hours. Out of hours, if there is danger, the safety numbers are on the [emergency page](/emergency-tree-surgeon-croydon/).
 :::
-
-The reserve is the second largest in London after Richmond Park. It includes Riddlesdown, Farthing Downs, Happy Valley, Coulsdon Common, Kenley Common, Hawkhirst Wood, New Hill and the Sanderstead to Whyteleafe Countryside Area, with 152.5 hectares of SSSI.
-
-London's tree canopy cover is 19.6% (GLA Tree Canopy Cover 2024, mainly 2022 data, ±0.3%). Ward-level figures are modelled estimates; see the [GLA dataset](https://data.london.gov.uk/dataset/tree-canopy-cover-2024-2w4m3).
-
-## How Much Does Tree Surgery Cost in Coulsdon? {chip=Cost}
-
-Tree surgery in Coulsdon typically costs {{p.most}} for most jobs, and {{p.large}} for large trees, depending on the job, the tree and the access. Woodland edges and large trees can need extra care, which we confirm at the site visit. Use the [cost calculator](/tree-surgery-cost-calculator/) for a guide price, then get a fixed written quote after we've seen the job. See the [cost guide](/guides/tree-removal-cost-croydon/) for what changes the price.
-
-## Why Coulsdon Homeowners Choose Us {chip=Why choose us}
-
-+ We give honest advice on ash dieback and keep an eye on the Court Avenue proposal.
-+ **Fully insured** with {{insurance}} public liability cover.
-+ **NPTC/LANTRA qualified** climbers and groundworkers.
-+ **Clear, itemised written quotes** after a free, no-obligation site visit.
 
 :::cta
-Get a quote in Coulsdon
-Tell us the job and your road. We check protection first, then send a written quote.
-Get my free quote | #calculator
+Get your Coulsdon quote
+Send your road, what needs doing and whether the Downs or Happy Valley are at the bottom of the garden. Photos from two angles are plenty. Call {{phone}}, Mon to Sat, 8am to 6pm.
+Get your quote | #calculator
 :::
+
+## Nearby areas we cover {-}
+
+[Kenley](/tree-surgeon-kenley/) · [Purley](/tree-surgeon-purley/) · [Sanderstead](/tree-surgeon-sanderstead/) · [South Croydon](/tree-surgeon-south-croydon/) · [All areas](/areas/)
 
 :::chips
 ### Services in Coulsdon
@@ -115,38 +141,20 @@ Get my free quote | #calculator
 - Sanderstead | /tree-surgeon-sanderstead/
 :::
 
-:::faq Tree Surgeon in Coulsdon: FAQs
-### How much does a tree surgeon cost in Coulsdon?
-Typically {{p.most}} for most jobs, and {{p.large}} for large trees, depending on the job, the tree and the access. Woodland edges and large trees can need extra care, which we confirm at the site visit. You get a fixed written quote after we've assessed the tree.
-
-### Is Court Avenue a conservation area?
-Croydon Council has named it among nine areas it would consider. We could not confirm it has been designated; check the council's current list.
-
-### Does my ash tree need to come down because of ash dieback?
-Not necessarily. Councils advise against felling healthy ash, but large infected trees can become dangerous, so have it checked.
-
-### What is the South London Downs National Nature Reserve?
-A 417 hectare reserve along the Croydon and Surrey border, jointly managed by the City of London Corporation and Croydon Council.
-
-### Do you cover Coulsdon and CR5?
-Yes. We cover Coulsdon and Old Coulsdon (CR5).
-
-### Do you offer an emergency tree surgeon in Coulsdon?
-Yes. We respond to emergencies, Monday to Saturday, 8am to 6pm. Call {{phone}} and we'll tell you honestly how quickly we can attend. We make the area safe first, including gardens beside the downs and woods. See [emergency tree work](/emergency-tree-surgeon-croydon/).
-
-### Do you cover Old Coulsdon?
-Yes. We cover Coulsdon and Old Coulsdon, in the CR5 postcode.
-:::
-
 :::form
 title: Get a tree surgery quote in Coulsdon
 :::
 
 :::sources
-- [Croydon Council, South London Downs NNR](https://www.croydon.gov.uk/sites/default/files/2021-02/South%20London%20Downs%20National%20Nature%20Reserve%20-%20History.pdf); [Happy Valley Park](https://www.croydon.gov.uk/libraries-leisure-and-culture/parks-and-open-spaces/parks-and-playgrounds/parks-and-playgrounds-directory/happy-valley-park); [Happy Valley history](https://www.croydon.gov.uk/sites/default/files/2021-02/happy-valley-park-history.pdf)
-- [London Gardens Trust, Farthing Downs and New Hill](https://londongardenstrust.org/conservation/inventory/site-record?ID=CRO027); [Countryfile, South London Downs](https://www.countryfile.com/go-outdoors/days-out/south-london-downs-greater-london/) (magazine)
-- Court Avenue: [Croydon Council news](https://news.croydon.gov.uk/review-of-conservation-areas-announced-to-preserve-croydons-character/)
-- [Croydon Council, Trees in conservation areas](https://www.croydon.gov.uk/environment/trees-and-hedges/trees-conservation-areas)
-- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/trees-and-hedges/tree-preservation-orders)
-Council pages read on 1 October 2026. This is general information, not legal advice.
+- [Croydon Council: Bradmore Green Conservation Area](https://www.croydon.gov.uk/planning-and-regeneration/planning/planning-policy/conservation-and-heritage/conservation-areas-directory/bradmore-green)
+- [Croydon Council: Bradmore Green](https://www.croydon.gov.uk/node/3173/bradmore-green)
+- [Croydon Council: Farthing Downs tree belt](https://www.croydon.gov.uk/node/3173/farthing-downs-tree-belt)
+- [Croydon Council: Happy Valley](https://www.croydon.gov.uk/sites/default/files/2021-02/happy-valley-park-history.pdf)
+- [Croydon Council: South London Downs National Nature Reserve](https://www.croydon.gov.uk/sites/default/files/2021-02/South%20London%20Downs%20National%20Nature%20Reserve%20-%20History.pdf)
+- [Croydon Council: review of conservation areas](https://news.croydon.gov.uk/review-of-conservation-areas-announced-to-preserve-croydons-character/)
+- [Croydon Council: tree preservation orders](https://www.croydon.gov.uk/environment/treesandlandscape/orders)
+- [London Gardens Trust on Happy Valley](https://londongardenstrust.org/conservation/inventory/site-record/?ID=CRO034)
+- [RHS on trees near buildings](https://www.rhs.org.uk/plants/types/trees/near-buildings)
+- [Cornwall Council: ash dieback guidance](https://www.cornwall.gov.uk/environment/trees-hedges-and-woodlands/tree-and-woodland-management/guidance-on-how-to-manage-ash-dieback/)
+This is general information, not legal advice. Confirm the protection status of your own tree with the council.
 :::

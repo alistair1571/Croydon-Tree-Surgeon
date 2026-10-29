@@ -1,162 +1,169 @@
 ---
 url: /guides/tree-preservation-orders-croydon/
-title: Tree Preservation Orders in Croydon | How to Check & Apply
-description: Plain-English guide to TPOs in Croydon: what a TPO stops you doing, how to check if your tree is protected, how to apply, fines, and what happens next.
-h1: Tree Preservation Orders in Croydon
-lead: If a tree has a tree preservation order (TPO), you can't cut it down, prune it or damage it without Croydon Council's written consent, and breaking that rule is a criminal offence. This guide explains how to find out whether your tree is protected, what work needs consent, how to apply, and what happens next.
+title: Tree Preservation Orders Croydon: Check, Apply, Fines
+description: Is your Croydon tree protected? How to check a TPO, what needs consent, dead, dying and dangerous trees, how to apply, fines and what to do if refused.
+h1: Tree Preservation Orders in Croydon: How to Check, Apply and Stay on the Right Side of the Law
+lead: "A Tree Preservation Order (TPO) is a legal order from Croydon Council that makes it an offence to cut down, prune or damage a particular tree without consent. People usually find out they have one when a neighbour mentions it, a surveyor spots it on a house purchase, or a letter arrives after they have already booked a tree surgeon. This guide is written for that moment: how to find out, what you are allowed to do, how to apply, and what happens if it goes wrong. We deal with TPOs on every Croydon quote, so this is what we tell customers. Not sure if your tree is protected? Call 07881 305352 (Mon to Sat, 8am to 6pm)."
+cta2: Send us photos|/contact/
 parent: Guides|/guides/
 crumb: Tree preservation orders
-schema: Article|Tree Preservation Orders in Croydon: A Plain-English Guide
+schema: Article|Tree Preservation Orders in Croydon: How to Check, Apply and Stay on the Right Side of the Law
 related:
   - /guides/conservation-area-tree-work-croydon/
   - /guides/do-i-need-permission-to-fell-a-tree/
-  - /tree-surveys-croydon/
-  - /tree-pruning-croydon/
   - /tree-removal-croydon/
+  - /tree-pruning-croydon/
+  - /guides/tree-removal-cost-croydon/
 ---
 
-> **The short answer.** Check before you cut. If the tree has a TPO, you need the council's written consent first. If it's in a conservation area but has no TPO, you give six weeks' notice instead. If it's dead you can generally act, but tell the council first and keep photographs. We check the council's records for you as part of every quote.
+## The short answers {-}
 
-| Your situation | What to do |
-|---|---|
-| You don't know whether the tree has a TPO | Check before you cut. We can check for you, free, as part of a quote |
-| The tree has a TPO and you want to prune or remove it | Apply to the council for consent, with a clear description of the work and the reasons |
-| The tree is in a conservation area but has no TPO | Different process: six weeks' notice. See our [conservation area guide](/guides/conservation-area-tree-work-croydon/) |
-| The tree is dead | No formal permission, but give the council notice and keep evidence |
-| The tree is dangerous | Only the urgent works necessary; tell the council; keep evidence |
-| The tree is not protected | Generally no permission, but check for nests and bats |
+- **How do I find out if my tree has a TPO?** Email or phone Croydon's development management team. [How to check](#how-to-check).
+- **Can I cut a dead branch or a dead tree?** Often yes, but with notice. [Tree condition](#by-tree-condition).
+- **Does it cost anything to apply?** Croydon currently charges no application fee. [Applying](#how-to-apply).
+- **What if I cut it anyway?** Fines of up to £20,000 for felling and £2,500 for pruning. [Penalties](#penalties).
+- **Is a TPO the same as a conservation area?** No, and the rules differ. [Two separate protections](#conservation-areas).
 
-## What a TPO Is {chip=What a TPO is}
 
-Croydon Council says a TPO prevents visually important trees from being removed or pruned without formal permission. It can cover a single tree, a group, an area or a woodland. It is made under the Town and Country Planning Act 1990 and the Town and Country Planning (Tree Preservation) (England) Regulations 2012.
+## What a TPO covers {chip=What it covers}
 
-## What a TPO Stops You Doing {chip=What it stops}
+Croydon's FAQ says the council generally protects trees that are highly visible to the public and are facing removal or heavy pruning. An order can protect a single tree, a group, an area or a woodland. Once a tree is covered, you need the council's written consent before you:
 
-You need the council's consent before cutting down, topping, lopping or otherwise damaging a protected tree.
+- cut it down or top it
+- prune it, even lightly
+- uproot it
+- damage it, which includes cutting its roots
 
-+ Cutting down
-+ Topping
-+ Lopping (cutting off branches)
-+ Uprooting
-+ Wilfully damaging or destroying, which can include cutting roots. Check with the council before cutting roots of a protected tree
+Roots are the one people miss. Cutting through the roots of a protected tree, or compacting the soil over them during building work, can count as damage even if you never touch a branch.
 
-So a TPO covers pruning as well as removal, and a "tidy-up" can be an offence if the tree is protected.
+**Area orders** are a snapshot. They protect the trees that stood on the day the order was made, which means you cannot always tell by looking whether a particular tree is covered, and trees planted afterwards are not automatically included.
 
-### The Four Types of TPO
+**A TPO does not make the council responsible.** The owner stays responsible for the tree and for any damage it causes. Croydon says so in its own FAQ.
 
-| Type | What it protects | The catch |
+
+## How to check whether your tree has a TPO {chip=How to check}
+
+Croydon's own page sends you to the council to check, and we could not find an open online register, so ask them.
+
+1. **Email** development.management@croydon.gov.uk with the address, a description of the tree and a photo if you have one, or **phone 020 8726 6800**.
+2. **Ask about conservation area status at the same time.** A tree with no TPO can still be protected by a conservation area. See the next section.
+3. **If you are buying a house,** TPOs are normally recorded in the local land searches your conveyancer orders, so ask them to confirm. An order missed before exchange can wreck an extension plan after completion.
+4. **If you want to see the order itself,** Croydon's FAQ says you can request a copy in writing, for a fee, or book an appointment with development management. The fee quoted in that FAQ was £32.68, so confirm the current charge.
+
+We check on every quote and tell you the answer in writing before we price the work.
+
+
+## TPOs and conservation areas are different {chip=Conservation areas}
+
+Croydon has 21 conservation areas. In one, trees are protected by the designation even without a TPO, and you must give the council **six weeks' written notice** before most pruning or felling, normally for trees with a stem over 75 mm (7.5 cm) across at 1.5 m above the ground. Give notice and the council either lets you proceed or makes a TPO. A TPO, once made, applies wherever the tree stands, and it needs consent rather than just notice.
+
+If your road is near Addiscombe, Norwood, Purley, Old Coulsdon, Kenley or Norbury, check both. Our area pages explain the conservation areas nearest to you: [Addiscombe](/tree-surgeon-addiscombe/), [Crystal Palace](/tree-surgeon-crystal-palace/), [Purley](/tree-surgeon-purley/), [Coulsdon](/tree-surgeon-coulsdon/), [Kenley](/tree-surgeon-kenley/) and [Norbury](/tree-surgeon-norbury/). The full guide is [conservation area tree work](/guides/conservation-area-tree-work-croydon/).
+
+
+## What you can do by tree condition {chip=By tree condition}
+
+| Tree condition | What Croydon says | What we do |
 |---|---|---|
-| Individual | One named tree | Easy to identify on the map |
-| Group | A named group of trees as a whole | Individual trees within it are protected, even if not obvious |
-| Area | All the trees in a mapped area as they were when the order was made | The map shows an area, not individual trees, so you can't tell by looking |
-| Woodland | All trees in a mapped woodland, including ones that grow or are planted later | Wider than an area order |
+| **Dead** | No formal permission needed to prune or fell. Give the council five days' notice before work | We photograph it before work and send the notice |
+| **Dying** | Formal consent is required | We write the application with evidence |
+| **Dangerous** | You may do only the urgent work needed to remove the danger, with five days' notice | We limit the job to what removes the risk, and keep photographs |
+| **Healthy but annoying** | Consent needed | We apply, usually for a lighter option |
 
-Older orders often use the area type. That's one reason guessing is risky.
+Three points catch people out:
 
-## Fines {chip=Fines}
+- **"Dead" means dead.** A tree in poor condition, a tree with few leaves or a tree shedding branches is not dead in law. Take photographs before work, so you can show the council the tree really was dead.
+- **Dying is not an exemption.** The 2012 regulations removed "dying" from the list of exemptions, which is why Croydon requires consent.
+- **Dangerous is narrow.** It covers work needed to remove an immediate risk, not a general tidy-up. If a limb is hanging over a road, make the limb safe, not the whole crown.
 
-Croydon Council says a fine of up to £20,000 can be imposed for cutting down a protected tree without permission, and up to £2,500 for pruning one. More serious cases can go to the Crown Court, where fines have no upper limit. The person who carries out the work can be prosecuted as well as the owner. If a protected tree is removed without consent, you may also have to plant a replacement.
+If you are in doubt, phone the council before the chainsaw starts. Emergency works are covered on our [emergency page](/emergency-tree-surgeon-croydon/).
 
-**A good tree surgeon asks about protection before quoting.** If someone offers to cut your tree without asking about TPOs or conservation areas, that's a warning sign. See [how to choose a tree surgeon](/guides/how-to-choose-a-tree-surgeon/).
+**Other narrow exemptions** include removing dead branches from an otherwise living tree, work required by an Act of Parliament, and work needed to carry out a full planning permission. An outline permission does not count. A legal nuisance, such as a root actually damaging a drain, may qualify, but leaf fall, shade and general untidiness do not. We would rather apply than argue an exemption after the event.
 
-## How to Check Whether Your Tree Is Protected {chip=How to check}
 
-1. **Email Croydon Council's development management team** at development.management@croydon.gov.uk with the tree's details and your address. We found no open Croydon TPO register, so checks go through the council.
-2. **Check conservation area status too,** because a tree without a TPO may still be protected. See our [conservation area guide](/guides/conservation-area-tree-work-croydon/).
-3. **Look at your property papers.** TPOs are normally recorded as local land charges, so the searches your conveyancer carries out when you buy a home should reveal them.
-4. **Ask us.** Send an address and a photo, and we check as part of every quote.
+## How to apply for consent {chip=How to apply}
 
-**Don't assume a tree isn't protected because there's no sign on it.** TPOs are rarely marked on the ground.
+1. **Get a quote and a plan first.** Croydon says professional advice before applying is helpful.
+2. **Apply through the Planning Portal** using the application for tree works form. Croydon recommends applying online.
+3. **Include:** the address, a sketch or plan marking the tree, the species if known, exactly what work you want (for example, "reduce the crown by up to 2 m all round" rather than "tidy"), your reasons, photographs, and any report from a surveyor, engineer or insurer.
+4. **Pay nothing.** Croydon says there is currently no application fee.
+5. **Wait for the decision.** Councils generally aim for eight weeks, though Croydon's own page does not state a timescale.
 
-## What Work Needs Consent, and What Doesn't {chip=What needs consent}
+**The outcome** is either consent, usually with conditions listed on the decision notice (replanting is common), or refusal. If you are refused, the decision notice tells you how to appeal. Check the deadline on that notice as soon as it arrives.
 
-| Work | Consent needed? |
-|---|---|
-| Cutting down, topping, lopping, uprooting or damaging a protected tree | **Yes** |
-| Pruning a protected tree, even lightly | **Yes**, unless an exemption applies |
-| Removing a **dead** tree | No consent, but the council asks for five days' notice of work to a dead or dangerous tree, and you should keep photographs |
-| Removing a **dying** tree | **Yes** |
-| A **dangerous** tree | Only the urgent works necessary; tell the council; keep evidence |
-| Work to prevent a legal nuisance | A narrow exemption, which doesn't cover ordinary inconvenience such as leaf fall or shade |
-| Work to implement a full planning permission | May be exempt, but don't rely on it without checking. Outline permission doesn't count |
+**Ask for what you need, not what you want.** A reduction or crown lift is far more likely to be approved than felling, and describing the work precisely avoids a consent that does not cover the job.
 
-**"Dying" isn't "dead."** A dying tree still needs consent. And "dangerous" doesn't mean "inconvenient" or "too big." Keep photographs, and ideally a report from a qualified arboriculturist. See [tree surveys](/tree-surveys-croydon/) and [emergency tree work](/emergency-tree-surgeon-croydon/).
+**Subsidence or damage to a building?** Get your insurer's and a structural engineer's evidence before applying for removal. See [trees near buildings](/trees-near-buildings-croydon/).
 
-## How to Apply for Consent {chip=How to apply}
 
-You apply through the council's tree works application. The council states there is currently no application fee. It suggests getting professional advice when completing the form, which is where a [tree report](/tree-surveys-croydon/) can help. We prepare and submit it for you.
+## What happens if work is done without consent {chip=Penalties}
 
-1. **Decide exactly what you want done and why.** Be specific. Vague applications get refused or sent back.
-2. **Make the application,** with the address, a plan or sketch showing the tree's location, species if known, the exact work, the reasons, photographs, and any supporting evidence such as a tree report or an engineer's report.
-3. **Wait for the decision.** Councils normally aim to decide within eight weeks.
-4. **Read the decision carefully.** Consent may be given, given with conditions (for example replacement planting), or refused.
-5. **Carry out the work exactly as consented,** within the time allowed, usually two years.
-6. **If it's refused,** you can usually appeal within 28 days.
+- **Felling or destroying a protected tree:** a fine of up to £20,000, and the landowner must replace the tree.
+- **Pruning a protected tree:** a fine of up to £2,500.
+- **Serious cases** can go to the Crown Court, where a higher penalty is possible.
+- **The person doing the work can be prosecuted as well as the owner.** A tree surgeon should check before starting. If one says "don't worry about permission", find another.
+- **A replacement tree** may be ordered, and it is automatically covered by the original order.
 
-### Describing the Work: Examples
 
-| Vague (likely to be queried) | Clear (more likely to be validated) |
-|---|---|
-| "Prune oak" | "Crown reduce by up to 2m on the house side, leaving a balanced crown. All work to BS 3998:2010" |
-| "Cut back tree" | "Crown lift to 4m above ground level by removing low branches on the road side" |
-| "Remove tree" | "Fell the sycamore and grind the stump. Reason: structural damage; engineer's report attached. Replace with a [species]" |
-| "Trim branches" | "Remove the two deadwood limbs over the garage roof and the broken limb at 6m" |
+## What if the council serves a new TPO on your tree? {chip=New TPO}
 
-A good application also explains **why**: damage to a building, safety, poor health or excessive shade, with evidence.
+An order takes effect immediately but must be confirmed within six months of being made, or it lapses. You can send written support or objections to development management within 28 days of the date on the order, and the council considers them before deciding whether to confirm. Poor condition, a short remaining life or building damage can all support an objection if you have the evidence, such as a report from a qualified arboriculturist.
 
-## Special Situations {chip=Special situations}
 
-**A neighbour's protected tree.** You can't prune it, even on your side of the boundary, without consent. Ask the owner, and apply together if the work is shared.
+## Neighbours, landlords and buyers {chip=Neighbours and buyers}
 
-**A protected tree and subsidence.** If a protected tree may be affecting your building, don't remove it before taking advice. Your insurer and engineer can provide evidence for an application. See [trees near buildings](/trees-near-buildings-croydon/).
+- **A neighbour's protected tree.** You still need consent to prune it, even on your side of the boundary. If you are both affected, you can apply together.
+- **Asking for a TPO.** Croydon says you can write to development management with the tree's details and your reasons.
+- **Tenants and landlords.** The owner is responsible for the tree, so agree who will apply before booking anyone.
+- **Selling.** Tell your buyer about any TPO. It will show up in searches anyway.
+- **Building work.** The council resists the loss of protected trees on development sites, and roots are vulnerable during groundworks. See [tree surveys](/tree-surveys-croydon/).
 
-**A planned extension.** A TPO affects the design as well as the tree. Check before you plan, and get a tree report for the application.
 
-**Buying a property.** Check for TPOs through the searches, and ask the seller. Old consents and conditions may still apply.
+## Consent does not override wildlife law {chip=Wildlife}
 
-**Hedges.** A garden hedge itself is generally not protected by a TPO, but trees growing in it can be. See [hedge cutting](/hedge-cutting-croydon/).
+A TPO consent is not a licence to disturb nesting birds or bats. Wild birds and their nests are protected, and bats and their roosts have strong legal protection. Spring and summer work needs an extra check even when consent is in hand. See the [nesting season guide](/guides/bird-nesting-season-tree-work/).
 
-**Nesting birds and bats.** A TPO consent doesn't override wildlife law. See our [nesting season guide](/guides/bird-nesting-season-tree-work/).
+:::faq Tree preservation orders in Croydon: frequently asked questions
+### How do I find out if my tree has a TPO in Croydon?
+Email development.management@croydon.gov.uk or phone 020 8726 6800 with the address and a description of the tree. Ask about conservation area status at the same time.
 
-:::cta
-Not sure whether your tree is protected?
-Send us your address and a photo and we'll check before we quote.
-Get a free check and quote | #quote
+### Does it cost anything to apply to work on a protected tree?
+No. Croydon currently charges no application fee. The only costs are your tree surgeon and any reports you commission.
+
+### Can I cut down a dead tree with a TPO?
+You do not need formal permission, but you must give the council five days' notice, and the tree must genuinely be dead.
+
+### Can I prune a dying tree?
+Not without consent. Dying trees are not exempt, so you need to apply.
+
+### What is the fine for cutting down a protected tree?
+Up to £20,000 for felling or destroying one and up to £2,500 for pruning, plus a replacement tree.
+
+### Is a TPO the same as a conservation area?
+No. A TPO protects specific trees and needs consent. A conservation area protects trees by area and needs six weeks' notice for most work.
+
+### Can I cut the roots of a protected tree?
+Not without checking. Cutting roots or compacting soil over them can count as damaging the tree.
+
+### Can I trim branches from a neighbour's protected tree?
+Not without consent. The TPO applies whoever owns the land.
+
+### How long does the council take to decide?
+Councils generally aim for around eight weeks, but Croydon does not state a timescale on its page.
+
+### Who is responsible if a protected tree damages my property?
+The tree's owner. The council does not take responsibility for protected trees.
+
+### What if my application is refused?
+You can appeal. The decision notice explains how, so check the deadline straight away.
+
+### Can I ask the council to protect a tree?
+Yes. Write to development management with the tree's details and your reasons.
 :::
 
-:::faq TPO FAQs
-### How do I know if my tree has a TPO?
-Email Croydon Council's development management team with the tree's details, or send us your address and a photo and we'll check. Don't rely on there being no sign on the tree.
-
-### Do I need permission to prune a protected tree?
-Yes. A TPO covers pruning and lopping as well as felling, unless an exemption applies.
-
-### Can I cut a tree on my own land?
-Not if it's protected. A TPO applies whoever owns the land.
-
-### How much does it cost to apply for consent?
-The council states there is currently no application fee. You may pay a tree surgeon or consultant to prepare the application.
-
-### What if the council refuses?
-You can usually appeal, within a set period. Take advice, and a better-evidenced revised application may succeed.
-
-### Can I remove a dead tree with a TPO?
-You don't need formal consent, but the council asks for five days' notice of work to a dead or dangerous tree, and you should keep photographic evidence. A dying tree isn't dead.
-
-### What if my tree is damaging my house?
-Take advice from your insurer and a structural engineer before doing anything. Evidence from them helps an application. Don't remove the tree first.
-
-### What are the penalties for ignoring a TPO?
-Croydon Council says up to £20,000 for cutting down a protected tree and up to £2,500 for pruning one. You may also have to replant.
-
-### Can my tree surgeon be prosecuted?
-Yes. The person who carries out the work can be liable as well as the owner.
-
-### What is an area TPO?
-An order that protects all the trees within a mapped area as they were when the order was made. You can't tell which trees are covered by looking, so check with the council.
-
-### Does a TPO apply to hedges?
-Not to a garden hedge itself, but trees growing in a hedge can be protected.
+:::cta
+We check before we quote
+Tell us the address and the tree. We confirm whether it is protected, prepare the application or the notice, and give you a written price. Call {{phone}}, Mon to Sat, 8am to 6pm.
+Get your quote | #quote
 :::
 
 :::related
@@ -166,9 +173,10 @@ Not to a garden hedge itself, but trees growing in a hedge can be protected.
 :::
 
 :::sources
-- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/trees-and-hedges/tree-preservation-orders)
-- Town and Country Planning Act 1990, Part VIII, and the Town and Country Planning (Tree Preservation) (England) Regulations 2012 (legislation.gov.uk)
-- GOV.UK, planning practice guidance on tree preservation orders and trees in conservation areas
-- BS 3998:2010, Tree work: Recommendations
-Council pages read on 1 October 2026. This is general information, not legal advice.
+- [Croydon Council: tree preservation orders](https://www.croydon.gov.uk/environment/treesandlandscape/orders)
+- [Croydon Council: TPO FAQ](https://www.croydon.gov.uk/sites/default/files/articles/downloads/tpo-faq.pdf)
+- [Designing Buildings: the 2012 TPO regulations](https://www.designingbuildings.co.uk/wiki/Tree_preservation_orders)
+- [PlanWatch: tree preservation orders](https://planwatch.co.uk/tree-surveys/tree-preservation-orders)
+- [PlanWatch: challenging a TPO](https://planwatch.co.uk/tree-surveys/can-a-tpo-be-removed-or-overturned)
+General information, not legal advice. Last checked October 2026. Always confirm with the council before working on a protected tree.
 :::

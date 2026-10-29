@@ -1,7 +1,7 @@
 {
   "name": "croydon-tree-surgeon",
   "private": true,
-  "version": "2.0.1",
+  "version": "2.27.0",
   "description": "Static site for tree surgery in the London Borough of Croydon, served by Cloudflare Workers static assets.",
   "type": "module",
   "scripts": {

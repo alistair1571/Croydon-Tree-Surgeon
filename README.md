@@ -130,6 +130,93 @@ Each needs a check on the live council site:
 
 ## Changelog
 
+**2.27.0**
+- Photos: re-cropped and compressed the seven supplied photos plus the stump grinder photo at 3:2 (hero 960 x 640, cards 640 x 427, about 1.4 MB for the folder, down from 2.4 MB). The fixed `height` attribute was overriding the aspect ratio and made hero photos 900px tall on phones; images now use `height:auto`, 3:2 on desktop and a 16:9 strip (max 260px) at 920px and under. Hero `width`/`height` attributes updated to match.
+- Calculator on inner pages starts as a single compact bar at 920px and under ("Instant guide price", Open or Close). Links to `#calculator` open it. Desktop unchanged. The homepage calculator is unchanged.
+- The top bar ("Tree surgery across the London Borough of Croydon / Free quotes") is hidden at 1024px and under.
+- Fixed hero paragraphs that showed literal quotation marks: the front matter parser now strips surrounding double quotes.
+
+**2.26.0**
+- Cost calculator page rewritten again from the new copy (`content/pages/calculator.md`): six worked examples, a new "How to get the most accurate price" section, the national comparison paragraph and a 15-question FAQ whose schema matches the supplied schema exactly. The closing note still says prices come from published price guides, not the operator's own work, until the operator confirms prices. `test-pricing.mjs` checks the new worked examples against the model.
+
+**2.25.0**
+- How-to-choose-a-tree-surgeon guide rewritten from the new copy (`content/pages/guide-choose.md`) with a 12-question FAQ whose schema matches the supplied schema exactly. Insurance levels, certificate bodies and the waste carrier phone number are used as supplied; recheck periodically.
+
+**2.24.0**
+- Ash dieback guide rewritten from the new copy (`content/pages/guide-ash.md`) with a 12-question FAQ whose schema matches the supplied schema exactly. `test-pricing.mjs` now checks the ash guide price table against the model as well as the cost guide.
+
+**2.23.0**
+- Storm-damaged tree guide rewritten from the new copy (`content/pages/guide-storm.md`) with a 12-question FAQ whose schema matches the supplied schema exactly. Safety numbers are used as supplied; recheck them periodically.
+
+**2.22.0**
+- Bird nesting season guide rewritten from the new copy (`content/pages/guide-nesting.md`) with a 12-question FAQ whose schema matches the supplied schema exactly. Penalties, RSPB dates and the wildlife crime contact details are used as supplied.
+
+**2.21.0**
+- Tree removal cost guide rewritten from the new copy (`content/pages/guide-cost.md`) with a 12-question FAQ whose schema matches the supplied schema exactly. `test-pricing.mjs` now checks the guide's price table against the model. The national comparison figures, crew day rates and parking notice period are used as supplied.
+
+**2.20.0**
+- Permission-to-fell guide rewritten from the new copy (`content/pages/guide-permission.md`) with a 12-question FAQ whose schema matches the supplied schema exactly. Felling licence limits, utility phone numbers and the parking bay notice period are used as supplied; recheck periodically.
+
+**2.19.0**
+- Conservation area tree work guide rewritten from the new copy (`content/pages/guide-conservation-area.md`) with a 12-question FAQ whose schema matches the supplied schema exactly. The list of 21 areas, the nine areas under consideration and the 75 mm and two-year points are used as supplied; update the list when the council designates any new area.
+
+**2.18.0**
+- Tree preservation orders guide rewritten from the new copy (`content/pages/guide-tpo.md`) with a 12-question FAQ whose schema matches the supplied schema exactly. Council contact details, the £32.68 copy fee and the "last checked October 2026" note are used as supplied; recheck them periodically.
+
+**2.17.0**
+- Coulsdon area page rewritten from the new copy (`content/pages/area-coulsdon.md`) with a 10-question FAQ whose schema matches the supplied schema exactly. Court Avenue is described as under consideration only; update if the council designates it.
+
+**2.16.0**
+- Purley area page rewritten from the new copy (`content/pages/area-purley.md`) with a 10-question FAQ whose schema matches the supplied schema exactly. The Webb Estate draft plan is described as a draft (published 16 September 2025); update when Full Council decides.
+
+**2.15.0**
+- Sanderstead area page rewritten from the new copy (`content/pages/area-sanderstead.md`) with a 10-question FAQ whose schema matches the supplied schema exactly. The page says Sanderstead Village is only under review as a conservation area; update it if the council designates it.
+
+**2.14.0**
+- Selsdon area page rewritten from the new copy (`content/pages/area-selsdon.md`) with a 10-question FAQ whose schema matches the supplied schema exactly.
+
+**2.13.0**
+- Crystal Palace and Upper Norwood and South Croydon area pages rewritten from the new copy (`area-crystal-palace.md`, `area-south-croydon.md`), with 10 and 9 question FAQs whose schemas match the supplied schemas exactly.
+
+**2.12.0**
+- Norbury area page rewritten from the new copy (`content/pages/area-norbury.md`) with a 9-question FAQ whose schema matches the supplied schema exactly. The page explains that SW16 crosses borough lines and that Croydon's rules apply to Croydon addresses only.
+
+**2.11.0**
+- Thornton Heath area page rewritten from the new copy (`content/pages/area-thornton-heath.md`) with a 10-question FAQ whose schema matches the supplied schema exactly. Area-page price check now finds any guide-price table whatever its first column is called.
+
+**2.10.0**
+- Shirley area page rewritten from the new copy (`content/pages/area-shirley.md`) with a 10-question FAQ whose schema matches the supplied schema exactly. Hero calculator, quote form and link chips unchanged. The page says the Whitgift Estate conservation area outcome is unconfirmed (consultation closed 15 May 2026): check the council's heritage pages and update when it is decided.
+
+**2.9.0**
+- Addiscombe area page rewritten from the new copy (`content/pages/area-addiscombe.md`) with an 11-question FAQ whose schema matches the supplied schema exactly. The hero calculator, quote form and service and nearby-area chips are unchanged. Area-page price tables are now checked against the model by `npm run test:pricing`.
+
+**2.8.0**
+- Calculator page copy rewritten from the new copy (`content/pages/calculator.md`) with a 12-question FAQ whose schema matches the supplied schema exactly. The calculator itself is unchanged. Every row of the price table and the first worked example are checked against the model by `npm run test:pricing`. The closing note now says the prices come from published UK and London price guides (the supplied wording, "from our Croydon work", was not true yet because the operator has not confirmed the prices).
+
+**2.7.0**
+- Trees near buildings page rewritten from the new copy (`content/pages/trees-near-buildings.md`) with a 12-question FAQ whose schema matches the supplied schema exactly. Prices beside buildings are checked against the model by `npm run test:pricing`.
+
+**2.6.0**
+- Hedge cutting page rewritten from the new copy (`content/pages/hedge-cutting.md`) with a 12-question FAQ whose schema matches the supplied schema exactly. Hedge price table checked against the model by `npm run test:pricing`.
+
+**2.5.0**
+- Tree pruning and stump grinding pages rewritten from the new copy (`content/pages/tree-pruning.md`, `stump-grinding.md`), each with a 9-question FAQ whose schema matches the supplied schema exactly. Price tables checked against the model by `npm run test:pricing`.
+- Stump grinding page and homepage service card now use the correct tracked stump grinder photo (hero and card crops regenerated from the supplied image).
+
+**2.4.0**
+- Emergency tree work page rewritten from the new copy (`content/pages/emergency.md`): triage table, who to ring by location, do and don't list, what happens when we attend, protected trees, insurance, rogue traders, other trees, 9-question FAQ. The opening-hours statement ("not a 24-hour service") sits in the hero. FAQ schema matches the supplied schema exactly. Call-out and large-tree prices are checked against the model by `npm run test:pricing`.
+
+**2.3.0**
+- Tree surveys page rewritten from the new copy (`content/pages/tree-surveys.md`): which survey, costs, what a survey can and cannot tell you, duty of care, BS 5837, subsidence, buying a house, protected trees, report contents, who should survey, 10-question FAQ. FAQ schema matches the supplied schema exactly. Survey prices are checked against the model by `npm run test:pricing`. List spacing on the tree removal page tidied so numbered lists render as lists.
+
+**2.2.0**
+- Tree removal page rewritten from the new copy (`content/pages/tree-removal.md`): short answers, "does it need to come down" table, permission rules, removal methods, guide-price table, day-of steps, waste carrier duty of care, specific situations, wildlife and timing, aftercare, 9-question FAQ, areas and sources. Hero photo, quote form and related-services block unchanged. The FAQPage schema is generated from the visible FAQ and matches the supplied schema exactly. `npm run test:pricing` now also checks the page's price table against the model.
+
+**2.1.0**
+- Homepage rewritten from the new copy: short answers, "what do you need help with" router, Croydon rules table, guide-price table (checked against the price model by `npm run test:pricing`), emergency steps, ownership, wildlife and buildings, areas, guides, 8-question FAQ, call to action and sources. Template components kept as they were: hero calculator, service cards, Why choose us, 3 steps, Compare, area cards, header and footer.
+- New title and meta description. The homepage FAQPage JSON-LD now holds the same 8 questions and answers as the visible FAQ (generated from the same text). Organization, WebSite and Service schema unchanged.
+- Removed from the homepage because the new copy covers them: the old "Your Local Tree Surgeons" intro, the "Clear rules. Safe checks" strip and the old 25-question FAQ.
+
 **2.0.1**
 - Phone number set to 07881 305352 (display and `tel:` links, structured data, both calculators) and Formspree switched to its own form, `xljgjozn`, so tree surgery leads no longer share the Derby inbox. `npm run verify:launch` passes with no blockers (one warning: the prices are published-guide figures accepted for launch).
 

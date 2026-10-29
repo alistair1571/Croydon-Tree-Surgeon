@@ -1,15 +1,12 @@
 ---
 url: /tree-pruning-croydon/
-title: Tree Pruning Croydon | Crown Reduction & Thinning
-description: Tree pruning in Croydon from {{p.pruning.from}}: crown reduction, thinning, lifting and deadwood removal by insured, NPTC/LANTRA qualified climbers. TPO rules checked first.
+title: Tree Pruning Croydon | Crown Reduction, Lift & Thin
+description: Tree pruning in Croydon from £200: crown reduction, lifting, thinning and deadwood. Timing by species, TPO checks and neighbour rules. Free quote.
 h1: Tree Pruning in Croydon
-lead: Overgrown, overhanging or blocking your light? We carry out expert tree pruning across Croydon, including crown reduction, crown thinning, crown lifting and deadwood removal. Good pruning has a clear purpose, keeps the tree in proportion and cuts back to a suitable growth point, never to stubs. We check for TPOs and conservation areas before we quote, and we'll tell you honestly if pruning won't solve the problem.
-points:
-  - The right cut for the right reason: size, light, clearance or health
-  - Protected trees and conservation areas checked first
-  - Fully insured, NPTC/LANTRA qualified climbers
+lead: "A tree that is too big, too dark or too close to the house does not always need to come down. Careful pruning keeps the tree, solves the problem and, done properly, leaves it looking like a tree and not a stump with twigs. We prune trees across the London Borough of Croydon, from crown reductions on large mature trees to lifting low branches over a drive, and we check whether the tree is protected before we cut anything."
 image: /images/services/tree-pruning.jpg
 imageAlt: Climber pruning and reducing a mature tree beside a brick house
+cta2: Send us photos|/contact/
 parent: Services|/services/
 crumb: Tree pruning
 schema: Service|Tree pruning in Croydon|Tree pruning
@@ -21,183 +18,168 @@ related:
   - /guides/tree-removal-cost-croydon/
 ---
 
-## How Much Does Tree Pruning Cost in Croydon? {chip=Cost}
+## The short answers {-}
 
-Tree pruning in Croydon typically costs between {{p.pruning.between}}, depending on the size of the tree, the type of pruning and how easy it is to reach. A light deadwood prune of a small tree is a short job, while a crown reduction on a mature oak in a tight garden needs a full team, rigging and more time.
+- **What does it cost?** Guide prices start at about £200 for a light prune on a small tree and reach £800 to £1,500 or more for a large mature tree. [The pruning price table](#what-tree-pruning-costs-in-croydon).
+- **Do I need permission?** If the tree has a Tree Preservation Order (TPO), yes, even for pruning. In a conservation area you give six weeks' written notice. [Pruning and the Croydon rules](#pruning-and-the-croydon-rules).
+- **When is the best time?** For most deciduous trees, winter. Cherries and plums are the main exception. [Timing by tree](#when-to-prune-timing-by-tree).
+- **How much can come off?** Not as much as people hope. [What is too much](#how-much-is-too-much).
 
-| Job | Indicative cost |
-|---|---|
-| Deadwood removal or light tidy, small tree | {{p.pruning.light}} |
-| Crown lift, small to medium tree | {{p.pruning.liftSmallMedium}} |
-| Crown thin or reduction, medium tree (3 to 6m) | {{p.pruning.medium}} |
-| Crown reduction, medium large tree (6 to 9m) | {{p.pruning.mediumLarge}} |
-| Crown reduction, large mature tree (over 9m) | {{p.pruning.large}} |
-| Pollarding, per tree | {{p.pruning.pollard}} |
-| Several trees in one visit | Reduced price per tree |
 
-These are guide figures. After we've seen the tree, you get a fixed, itemised written quote. [Use the cost calculator](/tree-surgery-cost-calculator/) · [Full cost guide →](/guides/tree-removal-cost-croydon/)
+## What do you want the pruning to achieve?
 
-| What affects the price | Why it matters |
-|---|---|
-| Tree size and height | Larger trees take more time, people and equipment |
-| Type of pruning | Light deadwood removal costs less than a major crown reduction |
-| Number of trees | Several trees in one visit can reduce the cost per tree |
-| Access | Tight gardens or trees over buildings need extra care or equipment |
-| Waste removal | We take away branches as standard; leaving logs or chip with you can reduce the price |
-| Permissions | Protected trees or conservation areas may need an application or notice first, which we prepare for you |
+Start with the problem, because it decides the type of cut.
 
-## Types of Tree Pruning {chip=Types of pruning}
-
-Good pruning removes the right branches for a clear reason, such as safety, light, space or tree health.
-
-| Type | What it does | Best for |
+| The problem | Usually the answer | Notes |
 |---|---|---|
-| Crown reduction | Shortens branches back to suitable growth points to reduce height and spread | A tree that has outgrown its space |
-| Crown thinning | Removes smaller branches throughout the crown to let in light and air without changing size much | Dense, heavy crowns |
-| Crown lifting | Removes lower branches to raise the base of the canopy | Clearance over paths, roads, windows and lawns |
-| Deadwood removal | Takes out dead, diseased or damaged branches | Any tree, often combined with other work |
-| Pollarding | Cuts the main branches back to a framework, then repeats on a regular cycle | Trees already managed this way, such as street limes and planes |
-| Formative pruning | Shapes young trees | Trees with a poor early structure |
-| Fruit tree pruning | Shapes and thins for health and crop | Apple, pear, plum and cherry trees in gardens |
+| Branches touching the roof, wall or conservatory | Crown reduction, or removing the offending limbs | Heavy limbs over a roof are cut in stages and lowered |
+| The tree is blocking light or the view | Crown thinning, or lifting | Thinning lets light and wind through. It does not make the tree smaller |
+| The tree is simply too tall or wide | Crown reduction | Specified as a target height and spread |
+| Low branches over the drive, path or pavement | Crown lift | Specified as a height above ground |
+| Dead, dying or broken branches | Deadwood removal | The tree stays |
+| Branches over the road or pavement | Cut back to a clear height | The owner is responsible. [See below](#neighbours-pavements-and-power-lines) |
+| An old overgrown tree nobody has touched | A survey first, then a staged plan | See [tree surveys](/tree-surveys-croydon/). Sooner is better, as the RHS notes, because overgrown trees recover less well from heavy cuts |
+| A tree you want gone | [Tree removal](/tree-removal-croydon/) | If pruning will not solve it, we say so |
 
-### How Much Can You Take Off?
-As a rule of thumb, take no more than around a quarter to a third of a tree's live crown in one go. Heavy cuts stress the tree and can trigger weak, fast regrowth. Where a tree needs more than that, we'll recommend staged pruning over a few years, or tell you honestly that removal is the better answer. See [tree removal](/tree-removal-croydon/).
 
-## Why We Don't Top Trees {chip=No topping}
+## The types of pruning, in plain English
 
-Topping means cutting branches back to stubs. Arboriculture bodies, including the International Society of Arboriculture, warn that it can starve the tree, invite decay and produce weak regrowth that is more likely to break. If a tree is too big we use crown reduction instead, working to current British Standard tree work recommendations (BS 3998). Be wary of anyone who offers to "top it" cheaply.
+| Type | What it does | How to ask for it | Guide price |
+|---|---|---|---|
+| **Deadwood removal** | Takes out dead, diseased or broken branches | "Remove all dead wood over 25 mm" | £200 to £300, small tree |
+| **Crown lift** | Removes low branches to raise the canopy | "Lift to 3 m over the drive" | £200 to £500, small to medium tree |
+| **Crown thin** | Removes selected branches to reduce density without changing size or shape | "Thin by up to 20%" | £250 to £500, medium tree |
+| **Crown reduction** | Shortens branches to make the tree smaller | "Reduce height by up to 2 m and spread by up to 1.5 m" | £250 to £500, medium tree |
+| **Pollarding** | Removes all the main branches to a framework, then repeated on a cycle | Only for trees already pollarded, or suited to it | From £380 per tree |
 
-## When to Prune a Tree {chip=When to prune}
+**Ask for the result, not the verb.** Vague requests such as "cut it back", "lop it" or "trim it" are too loose for anyone to quote or for the council to assess. A good brief says what is wanted at the end: a height, a spread, a clearance or a percentage. We write it that way on every quote, and it is also what the council needs if the tree is protected.
 
-For most deciduous trees the dormant season, roughly November to February, is a good time. Timing depends on the species.
+**Why we don't top trees.** Topping means cutting through the main stems, leaving stubs. The large wounds are slow to close, can let decay in, and the tree often responds with weak, dense regrowth that is worse than what you started with. Crown reduction cuts back to a growth point and keeps the tree's natural shape. If a quote says "topping", ask what is actually being cut. See also Test Valley Borough Council's [tree pruning guide](https://www.testvalley.gov.uk/assets/attach/4868/Tree-Pruning.pdf).
 
-| Tree or situation | Usual timing |
-|---|---|
-| Most deciduous trees (oak, lime, sycamore, beech) | Dormant season, roughly November to February |
-| Cherry, plum and other Prunus | Light pruning in spring or summer, not winter (silver leaf risk) |
-| Birch and other bleeding trees | Late summer or early autumn |
-| Apple and pear | Winter, with a light summer tidy |
-| Horse chestnut | Winter; watch for bleeding canker and get advice if bark is oozing |
-| Ash | Take advice first; ash dieback can make branches brittle. [Ash dieback guide →](/guides/ash-dieback-croydon/) |
-| Dead, damaged or dangerous branches | Any time |
-| Any tree in nesting season | Avoid March to August where possible |
 
-**Oak processionary moth.** This pest is established across parts of London. Its caterpillar nests and hairs can irritate skin and airways, so don't touch them. If you think your oak is affected, report it to the Forestry Commission or Croydon Council and tell us before any work.
+## How much is too much
 
-## Tree Pruning for Every Situation {chip=Every situation}
+- **Thinning** usually removes no more than about 30% of the branches, according to the RHS and local-authority guidance.
+- **Reduction** should be described as a target height and spread, not a percentage, and seldom involves cutting through the main stem.
+- **Heavy cutting doesn't mean a smaller tree for long.** Some species answer a hard cut with a flush of vigorous shoots, and some do not recover at all.
+- **The right pruning cut** is made at an angle just outside the branch collar, the slight swelling where a branch meets the trunk, with no stub left. The RHS no longer recommends pruning paint in most cases.
+- **A very large reduction is a reason for a survey,** and sometimes a reason to consider removal and replanting instead.
 
-### Tree Touching or Overhanging Your Roof
-Branches on a roof drop leaves, clog gutters and can damage tiles. We lift or reduce the crown to give a safe gap, usually enough that branches can't scrape in wind. Where a tree sits very close to the house, see [trees near buildings](/trees-near-buildings-croydon/).
 
-### Tree Blocking Light
-If a tree is shading your windows or garden, crown thinning lets light through without changing the tree's shape much, and crown reduction cuts its size. For an evergreen hedge blocking your light, see [hedge cutting](/hedge-cutting-croydon/).
+## When to prune: timing by tree
 
-### Overhanging Branches Over a Pavement or Road
-If branches overhang a public pavement or road, the owner is responsible for keeping them clear, and the council can require it under the Highways Act 1980. Councils commonly work to clearances of around 2.5m over a pavement and 5.5m over a carriageway. A crown lift is the usual fix.
-
-### Branches Near Power Lines
-Never cut near overhead cables yourself. Branches on or near power lines need specialist handling and, in London, usually coordination with the network operator, UK Power Networks. If a branch has brought down a line, stay well clear and call 105.
-
-### Your Neighbour's Overhanging Branches
-Where branches overhang your property you may have a common law right to cut them back to the boundary, but not beyond it. Talk to your neighbour first, offer the cuttings back, and check the tree isn't protected or in a conservation area. If the tree is protected, you can't cut it without consent, even on your side of the fence.
-
-### Storm-Damaged Branches
-Split or hanging branches need making safe quickly. See [emergency tree work](/emergency-tree-surgeon-croydon/).
-
-### Fruit Trees and Garden Trees
-We prune garden apple, pear, plum and cherry trees for health, shape and crop, timed to the species. We can also reshape neglected or overgrown trees over a few seasons.
-
-### Landlords, Letting Agents and Commercial Sites
-For rental properties, blocks and commercial sites, we can combine pruning with a [tree survey](/tree-surveys-croydon/) and a written quote to pass to the owner or managing agent.
-
-## Can You Prune Your Tree? Croydon Council Rules {chip=Council rules}
-
-### Check Protection First
-Croydon Council says a tree preservation order (TPO) stops visually important trees being removed or pruned without formal permission, and that you must give six weeks' written notice before work to a tree in a conservation area. In a conservation area this applies to trees with a trunk over 75mm in diameter, measured 1.5m above ground. Fines of up to £20,000 can follow for cutting down a protected tree without permission, and up to £2,500 for pruning one. We check both before any work. [TPO guide](/guides/tree-preservation-orders-croydon/) and [conservation area guide](/guides/conservation-area-tree-work-croydon/).
-
-| Situation | What you must do | Risk if you don't |
+| Tree | Best time | Why |
 |---|---|---|
-| Tree has a TPO | Apply to Croydon Council for consent, stating exactly what pruning you want | Fine up to £2,500 for pruning, up to £20,000 for felling |
-| Tree in a conservation area | Give six weeks' written notice (trunk over 75mm at 1.5m) | Same offences as a TPO |
-| Dead or dangerous branches | Only urgent works without consent; five days' notice is asked for | Keep photographic evidence |
-| Unprotected tree, outside a conservation area | Generally no permission needed | Still check for nests and bats |
+| Most deciduous trees | Winter, when dormant, ideally before Christmas | Pruning later in winter can cause some trees to bleed sap |
+| Cherry, plum and other *Prunus* | Mid-summer | Lowers the risk of silver leaf disease |
+| Magnolia and walnut | Late summer | Wounds heal fastest then |
+| Dead or dangerous branches | Any time | Don't wait for the calendar |
 
-**We handle the paperwork.** A TPO application or conservation area notice needs a precise description, such as "crown lift to 4m" or "reduce by up to 2m". Vague wording can get an application refused. We prepare and submit it for you.
+**Nesting season.** Active nests are protected, and most birds nest between March and August. Pruning in that period isn't banned, but we check for nests first and stop if we find one in use. That is how summer work on cherries and plums can be done lawfully. See [tree and hedge work in nesting season](/guides/bird-nesting-season-tree-work/).
 
-### Nesting Birds and Bats
-Wild birds and their active nests are protected, and the main nesting season generally runs from March to August. It's an offence to intentionally damage or destroy a nest that is in use or being built. Many trees also host bats, which are protected. We check before we cut, and an active nest can mean part of the work waits. [Nesting season guide](/guides/bird-nesting-season-tree-work/).
+**Oaks in spring and early summer.** If you see silky nests or lines of caterpillars on an oak, do not touch them. The RHS says oak processionary moth caterpillars are most active from April to July, that their hairs are an irritant, and that suspected cases should be reported through TreeAlert.
 
-## How Tree Pruning Works {chip=How it works}
 
-1. **Tell us about it.** Call us or use the quote form, with photos and your postcode.
-2. **Site visit and quote.** We look at the tree and send an itemised written quote.
-3. **Protection and wildlife checks.** We check tree preservation orders, conservation areas, nests and bats first.
-4. **Plan.** We agree the date, method, where vehicles go and what to move.
-5. **The work.** Our qualified, insured team prunes to the agreed specification and protects your property and your neighbours'.
-6. **Clean-up.** We clear all branches and leave the area tidy. See our [services page](/services/) for how clean-up and recycling work.
+## Pruning and the Croydon rules
 
-## Tree Pruning Across Croydon {chip=Areas}
+Many people assume the rules only cover felling. They do not.
 
-We carry out tree pruning across the borough, including {{areaLinks}} ({{postcodes}}).
+- **TPO:** you need the council's consent before pruning a protected tree. Croydon says you can be fined up to £2,500 for pruning one without permission, and up to £20,000 for felling. There is currently no application fee.
+- **Conservation area:** six weeks' written notice before working on trees, which generally means any tree with a trunk over about 75 mm across at 1.5 m above the ground. Croydon has 21 conservation areas. Under the national rules the notice then lasts two years.
+- **Dead or dangerous branches:** only the necessary urgent work can go ahead, with five days' notice to the council for dangerous trees.
 
-:::faq Tree Pruning FAQs
+A consent application is easier to approve when it says exactly what you want to do, which is another reason to specify heights, spreads and percentages. Our guides explain how: [tree preservation orders](/guides/tree-preservation-orders-croydon/) and [tree work in a conservation area](/guides/conservation-area-tree-work-croydon/). Send us the address and we check with Croydon's Development Management team for every quote.
+
+
+## Neighbours, pavements and power lines
+
+- **Your neighbour's branches over your garden.** You can usually cut them back to the boundary, only as far as needed, and without going onto their land. You cannot reduce the tree's height, and a protected tree still needs consent. Talk to them first. See [our homepage guide to neighbours' trees](/#whose-tree-is-it-neighbours-council-and-landlords).
+- **Your branches over the pavement or road.** Under the Highways Act 1980 the owner of a tree that overhangs a road or footpath, or hides a street light or sign, has to cut it back. Councils such as Telford and Wrekin explain that if the owner does not act after notice, the council can do the work and recover the cost. Tell us the street and what is hanging over it, and we will plan the clearance.
+- **A tree on the pavement or in a park.** It belongs to the council. Report it, and do not prune it yourself.
+- **Branches near power lines.** Do not touch them. Cutting near live lines is arranged with UK Power Networks, whose online form brings a free site visit. If the supply has to be switched off, the longest typical shutdown is 8 hours, so neighbours may need warning.
+
+
+## What tree pruning costs in Croydon
+
+These are guide prices for Croydon, not a quote for your tree. They match our [cost guide](/guides/tree-removal-cost-croydon/).
+
+| Job | Guide price |
+|---|---|
+| Deadwood removal or light prune, small tree | £200 to £300 |
+| Crown lift, small to medium tree | £200 to £500 |
+| Crown thin or reduction, medium tree (3 to 6 m) | £250 to £500 |
+| Crown reduction, medium-large tree (6 to 9 m) | £450 to £850 |
+| Crown reduction, large mature tree (over 9 m) | £800 to £1,500+ |
+| Pollarding, per tree | From £380 |
+
+**What pushes the price up:** height and spread, tight access, working over a roof or near wires, how much material comes off, and whether a TPO or conservation notice has to be prepared first.
+
+**What a good pruning quote shows:**
+
+1. The address and which tree or trees.
+2. The work as a result: a height, spread, clearance or percentage.
+3. What happens to the branches and chip.
+4. Who deals with any TPO or conservation notice.
+5. VAT, and proof of insurance on request.
+
+
+## Can I do it myself?
+
+Small jobs on unprotected trees, yes. The RHS advises calling a professional if branches are thicker than your wrist or the job needs a lot of ladder work, and says that pollarding, crown lifting and crown thinning are best left to professionals. A ladder, a saw and a heavy branch are a poor combination, and a mistake on a protected tree can be an expensive one.
+
+:::faq Tree pruning Croydon: frequently asked questions
 ### How much does tree pruning cost in Croydon?
-Most tree pruning in Croydon costs between {{p.pruning.between}}, depending on the tree's size, the type of pruning and access. You get a fixed written quote after we've assessed the tree.
+From about £200 for a light prune on a small tree, to £800 to £1,500 or more for a large mature tree. The table above has the full range, and the [calculator](/tree-surgery-cost-calculator/) gives a starting figure.
 
-### When is the best time to prune a tree?
-For most deciduous trees, the dormant season, roughly November to February. Cherries and plums are better pruned lightly in spring or summer, and birch in late summer or early autumn.
-
-### Do I need permission to prune a tree in Croydon?
-Only if it's protected by a TPO or in a conservation area. Croydon Council says a fine of up to £2,500 can follow for pruning a protected tree without consent. Send us the address and we'll check for you.
-
-### What's the difference between crown reduction, thinning and lifting?
-Reduction shortens height and spread, thinning lets light through without changing size much, and lifting raises the lower canopy for clearance.
-
-### How much can you cut off a tree?
-As a rule of thumb, no more than around a quarter to a third of the live crown in one go. We'll plan staged pruning where more is needed.
+### What is the best time of year to prune?
+For most deciduous trees, winter, ideally before Christmas. Cherries and plums are better pruned in mid-summer. Dead or dangerous branches can come off at any time.
 
 ### Do you top trees?
-No. Topping can harm a tree, so we use crown reduction instead.
+No. We use crown reduction, which cuts back to growth points and keeps the tree's shape.
 
 ### Will pruning kill my tree?
-Correct pruning won't. Poor pruning, such as topping, over-heavy cuts or the wrong timing, can weaken or kill a tree.
+Done properly, no. Heavy cutting, topping and the wrong time of year are what cause trouble. If a tree is old, has been neglected or needs a big reduction, a survey first is sensible.
+
+### How much can you take off?
+For thinning, usually no more than about 30% of the branches. For a reduction, we agree a target height and spread with you instead of a percentage.
 
 ### Can you prune a tree touching my roof?
-Yes. We reduce or lift the crown to leave a safe gap between the branches and the roof.
+Yes. We take the limbs back to a safe distance in stages and lower them, and we protect the roof and gutters.
 
 ### Can I cut my neighbour's overhanging branches?
-You may be able to cut back to the boundary but not beyond it. Offer the cuttings back and check the tree isn't protected.
-
-### Who is responsible for branches overhanging a pavement?
-The tree's owner. The council can require branches to be cut back under the Highways Act 1980.
-
-### Can you prune a tree in a conservation area?
-Yes, but you must give Croydon Council six weeks' written notice first for trees with a trunk over 75mm at 1.5m. We prepare and submit the notice for you.
-
-### Can I prune a tree myself?
-Legally yes if it's unprotected, but tree work at height with a chainsaw is among the most dangerous jobs in the UK. We don't recommend DIY for anything you can't reach from the ground.
+Generally back to the boundary, the minimum necessary, and without entering their land. A tree with a TPO needs consent first. Speak to them before you start.
 
 ### Do you take the branches away?
-Yes, unless you ask to keep logs or woodchip. Your itemised quote shows what's included.
+Branches are chipped on site and cleared unless the quote says otherwise. If you carry away or hire anyone to remove waste, check they are a registered waste carrier. The Environment Agency register or 03708 506506 can confirm it.
+
+### Can I prune a tree in a conservation area?
+Yes, once you have given the council six weeks' written notice and the period has passed without it making a TPO. We prepare and send the notice for you.
 :::
 
 :::cta
-Not sure what your tree needs?
-Call and talk it through, or send us photos and your postcode.
-Get my free quote | #quote
+Get a free quote for tree pruning in Croydon
+Tell us what the tree is doing and what you would like it to do. Photos of the whole tree help. Call {{phone}}, Mon to Sat, 8am to 6pm.
+Get your quote | #quote
 :::
 
-:::related
+## Tree pruning across Croydon {-}
+
+[Addiscombe](/tree-surgeon-addiscombe/) · [Shirley](/tree-surgeon-shirley/) · [Thornton Heath](/tree-surgeon-thornton-heath/) · [Norbury](/tree-surgeon-norbury/) · [Crystal Palace and Upper Norwood](/tree-surgeon-crystal-palace/) · [South Croydon](/tree-surgeon-south-croydon/) · [Selsdon](/tree-surgeon-selsdon/) · [Sanderstead](/tree-surgeon-sanderstead/) · [Purley](/tree-surgeon-purley/) · [Coulsdon](/tree-surgeon-coulsdon/) · [Kenley](/tree-surgeon-kenley/) · [All areas](/areas/)
+
+:::related noareas
 :::
 
 :::form
 :::
 
 :::sources
-- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/trees-and-hedges/tree-preservation-orders)
+- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/treesandlandscape/orders)
 - [Croydon Council, Trees in conservation areas](https://www.croydon.gov.uk/environment/trees-and-hedges/trees-conservation-areas)
-- Pruning timing: [RHS, Pruning trees](https://www.rhs.org.uk/)
-- Topping: International Society of Arboriculture guidance on tree topping; BS 3998:2010, Tree work: Recommendations
-- Highways Act 1980, section 154 (legislation.gov.uk)
-Council pages read on 1 October 2026. This is general information, not legal advice.
+- [Planning Portal, Conservation area notices](https://www.planningportal.co.uk/info/200126/applications/60/consent_types/14)
+- [RHS, Reducing trees safely](https://www.rhs.org.uk/advice/profile?PID=276)
+- [RHS, Oak processionary moth](https://www.rhs.org.uk/biodiversity/oak-processionary-moth)
+- [Test Valley Borough Council, Tree pruning](https://www.testvalley.gov.uk/assets/attach/4868/Tree-Pruning.pdf)
+- [Telford and Wrekin Council, Trees blocking a path or road](https://www.telford.gov.uk/environment/trees-hedges-and-woodland/trees-blocking-a-path-or-road)
+- [UK Power Networks, Trees and bushes near power lines](https://ukpowernetworks.co.uk/safety-equipment/power-lines/cut-trees-and-bushes)
+This is general information, not legal advice.
 :::

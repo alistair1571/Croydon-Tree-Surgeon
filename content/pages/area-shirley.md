@@ -1,13 +1,9 @@
 ---
 url: /tree-surgeon-shirley/
-title: Tree Surgeon Shirley CR0 | Tree Removal & Pruning | Free Quote
-description: Local tree surgeon in Shirley (CR0): tree removal, pruning, stump grinding and emergency work. Heath-edge and estate roads covered. Free written quote.
-h1: Tree Surgeon in Shirley
-lead: Tree work for Shirley, Shirley Oaks and Upper Shirley homes, including gardens beside Addington Hills and Shirley Heath. We check protection first and plan access for sloping plots. We carry out tree removal, pruning, stump grinding, hedge cutting and emergency tree work across Shirley (CR0).
-points:
-  - TPO checks and the Whitgift Estate proposal explained
-  - Wildlife checks near heath and woodland
-  - Sloping plots and long drives planned
+title: Tree Surgeon Shirley CR0 | Heath, Woodland & Large Gardens
+description: Tree surgeon in Shirley, Croydon: big gardens, plots beside Shirley Heath and woods, the proposed Whitgift Estate conservation area, prices. Free quote.
+h1: Tree Surgeon in Shirley, CR0
+lead: "Shirley is one of the leafiest parts of Croydon. Big detached houses stand in generous gardens, mature trees line wide roads and verges, and many gardens back onto Shirley Heath and the woods around it. That means larger trees, longer driveways, neighbours that include the council and a conservation area proposal that may affect your road. We do tree surgery for Shirley homes, and we check the protection rules before we quote."
 calc: yes
 area: Shirley
 areaName: Shirley
@@ -16,85 +12,130 @@ crumb: Shirley
 schema: Service|Tree surgeon in Shirley|Tree surgery
 ---
 
-## Tree Surgery Services in Shirley {chip=Services}
+## The short answers {-}
 
-| Service | What it means in Shirley |
+- **Is my road protected?** It may be. A conservation area has been proposed for the Whitgift Estate, and TPOs apply elsewhere. [Check your road](#the-proposed-whitgift-estate-conservation-area).
+- **My garden backs onto the heath or woods. Who owns what?** Often the council owns the land beyond your fence. [Heath and woodland neighbours](#gardens-beside-shirley-heath-and-the-woods).
+- **Can you take down a big tree in a big garden?** Yes, and large plots often make the work easier. [Big gardens, big trees](#big-gardens-big-trees).
+- **What does it cost?** Most jobs fall between about £200 and £1,100, with large trees higher. [Prices](#what-tree-work-costs-in-shirley).
+
+
+## The proposed Whitgift Estate Conservation Area
+
+Croydon Council has been consulting on a proposed Whitgift Estate Conservation Area for the area around Shirley Park, between Addiscombe Road and Lloyd Park. Its draft statement covers:
+
+- Grimwade Avenue
+- Sandilands
+- Fitzjames Avenue
+- Mapledale Avenue
+- Harland Avenue
+- Upfield
+- Radcliffe Road (south of Harland Avenue)
+- Ranmore Avenue
+- the south side of Addiscombe Road
+
+The council describes it as a planned garden-suburb estate built from the late 1920s, of mainly large detached houses on plots averaging about a third of an acre, with curved tree-lined roads and grass verges planted with mature trees.
+
+**Where it stands.** Consultation was open until 15 May 2026, and the council said it would then decide whether to designate. We could not confirm the outcome, so **ask Croydon Council or check its heritage pages before assuming either way.** We check it for every quote.
+
+**If it is designated,** trees on those roads would fall under the standard conservation area regime: written notice to the council first, six weeks before you start. Cutting without it risks a fine, and we would handle the paperwork. Our guide to [conservation area tree work](/guides/conservation-area-tree-work-croydon/) has the detail.
+
+**Even if it isn't,** an individual tree may have a TPO. See [tree preservation orders](/guides/tree-preservation-orders-croydon/).
+
+
+## Gardens beside Shirley Heath and the woods
+
+Shirley Heath is run by Croydon Council. It is about 27 hectares of woodland and open heath beside Shirley Church Road, and nearby woods include Pinewood, Spring Park and Threehalfpenny Wood. If your garden backs onto this land:
+
+- **Check who owns the strip beyond your fence.** It is often the council. Do not cut, clear or dump on land that is not yours. For parks and woodland enquiries, the council lists 020 8726 6000 or parks@croydon.gov.uk.
+- **A council tree that has fallen or is leaning into your garden** is for the council to deal with, though you should photograph it, tell your insurer and report it. See [storm-damaged tree: who is responsible?](/guides/storm-damaged-tree-who-is-responsible/)
+- **Your own trees near the boundary** are yours, whatever the woodland behind them looks like. Branches that overhang from the council's side can usually be cut back to your boundary but no further.
+- **Wildlife matters here.** Woodland edges are rich in nesting birds and bats, so we check before we cut, especially from March to August. See [nesting season guidance](/guides/bird-nesting-season-tree-work/).
+- **Ash trees** anywhere can be hit by ash dieback, so if you have one with thinning crown, see [ash dieback in Croydon](/guides/ash-dieback-croydon/).
+
+
+## Big gardens, big trees
+
+Shirley's plots are larger than most of Croydon's, and so are the trees. That has two effects.
+
+**It can make work easier.** Wide drives and open lawns often mean a clear route for equipment, a safe drop zone, and no need to carry everything through the house.
+
+**It can make the trees much bigger.** Mature trees of that scale need more rigging and more people, and a large tree over a roof or conservatory often needs sectional dismantling or a platform. See [tree removal](/tree-removal-croydon/) for how that works.
+
+Common Shirley jobs:
+
+- **Crown reductions and lifts** of mature trees over drives, roofs and neighbouring plots. See [tree pruning](/tree-pruning-croydon/).
+- **Large removals** where a tree has outgrown its place or is declining.
+- **Front hedge and boundary hedge cutting.** See [hedge cutting](/hedge-cutting-croydon/).
+- **Tree surveys** for buyers, sellers and insurers. See [tree surveys](/tree-surveys-croydon/).
+- **Trees near the house.** See [trees near buildings](/trees-near-buildings-croydon/).
+
+
+## Verge and street trees
+
+Many Shirley roads have grass verges with mature trees. Trees on a public verge or pavement are normally the council's, and you should report problems through the Love Clean Streets app rather than cutting them yourself. Trees inside your boundary are yours. If you are not sure which side of the line a tree is on, send us a photo and your road, and we help work it out.
+
+
+## Access, slopes and parking
+
+Long drives and integral garages mean we can often park off the road, which is one reason Shirley jobs run smoothly. If a tipper, platform or crane has to stand on the street, Croydon may want a bay suspension or dispensation arranged well in advance, and a crane on the highway needs its own licence. We sort that out as part of planning. Steps or a sloping lawn between the drive and the tree add time, so tell us about them or send a photo.
+
+
+## What tree work costs in Shirley
+
+Guide prices only; your written quote is the price. Because Shirley has so many large trees, these are the rows that matter most here.
+
+| Job | Guide price |
 |---|---|
-| [Tree removal in Shirley](/tree-removal-croydon/) | Large garden trees on generous plots, planned around slopes, steps and long drives. |
-| [Tree pruning in Shirley](/tree-pruning-croydon/) | Reductions and lifts for mature garden trees, with TPOs checked first and the Whitgift Estate proposal watched. |
-| [Stump grinding in Shirley](/stump-grinding-croydon/) | Compact or tracked machines for sloping gardens and steps. |
-| [Emergency tree work in Shirley](/emergency-tree-surgeon-croydon/) | Storm limbs and fallen trees on estate roads and in gardens beside the heath. |
-| [Hedge cutting in Shirley](/hedge-cutting-croydon/) | Boundary hedges, with nest checks and extra care beside heath and woodland. |
-| [Tree surveys in Shirley](/tree-surveys-croydon/) | Health and safety reports, and reports for extensions, house purchases and insurers. |
-| [Trees near buildings in Shirley](/trees-near-buildings-croydon/) | Trees over roofs and conservatories, and roots near walls and drains. |
+| Reduce a large mature tree | £800 to £1,500+ |
+| Remove a medium-large tree | £550 to £1,100 |
+| Remove a large tree with clear access | £1,000 to £3,000+ |
+| Remove a large tree over a roof or in a tight spot | £1,100 to £3,900+ |
+| Grind out a big stump | £300 to £700 |
 
-## Is your tree protected? Rules in Shirley {chip=Is my tree protected?}
+Smaller jobs, from a £200 prune upward, are in the [cost calculator](/tree-surgery-cost-calculator/) and the [removal cost guide](/guides/tree-removal-cost-croydon/).
 
-Croydon Council has consulted on a proposed Whitgift Estate conservation area covering Grimwade Avenue, Sandilands, Fitzjames Avenue, Mapledale Avenue, Harland Avenue, Upfield, Radcliffe Road (south of Harland Avenue), Ranmore Avenue and the south side of Addiscombe Road. Check whether it has been designated; if it has, six weeks' written notice applies to trees within it. Until then do not assume these roads are in a conservation area.
+:::faq Tree Surgeon in Shirley, CR0: frequently asked questions
+### What will a tree surgeon charge me in Shirley?
+Small jobs start around £200, and a large mature tree can run from £1,000 to over £3,000 depending on access.
 
-Otherwise a TPO is the main protection for private trees. The council's draft statement says building covenants shaped the estate from the outset; we cannot advise on covenants. Addington Hills, Shirley Heath, Threehalfpenny Wood and Pinewood are on the council's open-space records, and the wildlife records grade Addington Hills and Shirley Heath as of Metropolitan importance. Report trees on this land to the council.
+### Is Shirley a conservation area?
+Not as a whole. A Whitgift Estate Conservation Area has been proposed, covering roads such as Grimwade Avenue, Sandilands, Fitzjames Avenue and Mapledale Avenue. Check its current status with Croydon Council.
 
-## Common trees in Shirley {chip=Common trees}
+### Do I need permission before cutting a tree in Shirley?
+If the tree has a TPO or stands in a conservation area, yes. We check both before we quote.
 
-Shirley's sourced tree record comes from nature-conservation surveys of its heath and woods and from the council's draft statement on the Whitgift Estate.
+### My garden backs onto Shirley Heath. Can I cut the trees behind my fence?
+Not if they are on the council's land. Overhanging branches on your side can usually be cut back to the boundary, but not beyond it.
 
-| Site | Trees and woodland recorded |
-|---|---|
-| Addington Hills (Shirley Hills) | Woodland mainly of oak, birch and pine around heathland; holly common |
-| Shirley Heath, Spring Park and Threehalfpenny Wood | Ancient woodland and heathland; oak-birch woodland with replanted sweet chestnut coppice; a small population of small-leaved lime, very uncommon regionally |
-| Pinewood | A 4.45 hectare council-owned wood, boggy in places |
+### A branch has fallen from a council tree into my garden. Who deals with it?
+The council owns the tree, but you should photograph the damage, tell your insurer, and report it to the council.
 
-The Whitgift Estate draft describes curved, tree-lined roads with grass verges planted with predominantly mature trees, hedges bordering the streets and a pond surrounded by trees. It does not name species.
+### The tree on the verge outside my house is causing problems. Who do I call?
+Croydon Council, through the Love Clean Streets app.
 
-Maps and records describe public sites and one or two documented areas, not every garden. Check your own tree with the council.
+### Can you cut down a very large tree in a big garden?
+Yes, using sectional dismantling or a platform, depending on access and what is underneath.
 
-## Typical tree jobs in Shirley {chip=Typical jobs}
+### Will you need to park on the road?
+Often not, because many Shirley homes have long drives. If we do, we arrange any council bay suspension in good time.
 
-These follow from the area's setting.
+### Do you cover Shirley Oaks and Upper Shirley?
+Yes. We cover the London Borough of Croydon, including CR0.
 
-| Typical job | Why it comes up here | Rule to check first |
-|---|---|---|
-| Reducing or lifting a mature garden tree | Houses sit in generous gardens with mature trees | TPO check |
-| Work on trees beside woodland or heath | Gardens near Addington Hills and Shirley Heath | Who owns the strip; nests and bats |
-| Trimming boundary hedges | The council lists loss of hedges as a threat to the estate | Nests between March and August |
-| Work on a sloping plot | The estate follows undulating land and some plots use steps | Protection check |
-
-## Access, parking and neighbours {chip=Access and parking}
-
-The council's draft statement notes that integral garages and driveways are a recurring feature of the Whitgift Estate, and that it follows undulating land with some plots reached by steps. Addington Hills rises to about 140 metres above sea level. Grass verges and their trees are generally the council's.
-
-If a vehicle or chipper needs road space, Croydon Council offers a dispensation to park on yellow lines while work is carried out, or a suspension of a parking bay. It asks for at least five working days' notice, payment first and a separate licence for a skip on the road. Check current fees on the council's page.
-
-Tell us if a tree is on a boundary or overhangs next door. You may be able to cut branches back to the boundary but not beyond it, and cuttings should be offered back. Work only goes ahead with the tree owner's consent.
-
-## The Shirley tree data {chip=The local data}
-
-| Site | Size | Status |
-|---|---|---|
-| Addington Hills | 51.44 ha | Metropolitan importance for nature conservation; council-owned |
-| Shirley Heath, Spring Park and Threehalfpenny Wood | 62.79 ha | Metropolitan importance; ancient woodland and heathland |
-| Pinewood | 4.45 ha | Local importance; council-owned |
-
-The Whitgift Estate statement is a 2026 consultation draft that may change.
-
-London's tree canopy cover is 19.6% (GLA Tree Canopy Cover 2024, mainly 2022 data, ±0.3%). Ward-level figures are modelled estimates; see the [GLA dataset](https://data.london.gov.uk/dataset/tree-canopy-cover-2024-2w4m3).
-
-## How Much Does Tree Surgery Cost in Shirley? {chip=Cost}
-
-Tree surgery in Shirley typically costs {{p.most}} for most jobs, and {{p.large}} for large trees, depending on the job, the tree and the access. Slopes, steps and long drives affect the time and equipment needed, so we confirm them at the site visit. Use the [cost calculator](/tree-surgery-cost-calculator/) for a guide price, then get a fixed written quote after we've seen the job. See the [cost guide](/guides/tree-removal-cost-croydon/) for what changes the price.
-
-## Why Shirley Homeowners Choose Us {chip=Why choose us}
-
-+ We check for TPOs and keep an eye on the proposed Whitgift Estate conservation area.
-+ **Fully insured** with {{insurance}} public liability cover.
-+ **NPTC/LANTRA qualified** climbers and groundworkers.
-+ **Clear, itemised written quotes** after a free, no-obligation site visit.
+### What if a tree comes down in a storm?
+Ring us in our hours (Monday to Saturday, 8am to 6pm) and see the safety numbers on our [emergency page](/emergency-tree-surgeon-croydon/).
+:::
 
 :::cta
-Get a quote in Shirley
-Tell us the job and your road. We check protection first, then send a written quote.
-Get my free quote | #calculator
+Book a free Shirley quote
+Tell us your road, which tree it is and what stands underneath it. A couple of photos speed things up. Call {{phone}}, Mon to Sat, 8am to 6pm.
+Get your quote | #calculator
 :::
+
+## Nearby areas we cover {-}
+
+[Addiscombe](/tree-surgeon-addiscombe/) · [Selsdon](/tree-surgeon-selsdon/) · [South Croydon](/tree-surgeon-south-croydon/) · [Sanderstead](/tree-surgeon-sanderstead/) · [Coulsdon](/tree-surgeon-coulsdon/) · [All areas](/areas/)
 
 :::chips
 ### Services in Shirley
@@ -113,37 +154,16 @@ Get my free quote | #calculator
 - Coulsdon | /tree-surgeon-coulsdon/
 :::
 
-:::faq Tree Surgeon in Shirley: FAQs
-### How much does a tree surgeon cost in Shirley?
-Typically {{p.most}} for most jobs, and {{p.large}} for large trees, depending on the job, the tree and the access. Slopes, steps and long drives affect the time and equipment needed, so we confirm them at the site visit. You get a fixed written quote after we've assessed the tree.
-
-### Is the Whitgift Estate a conservation area?
-Croydon Council has consulted on it. We could not confirm designation, so check the council's current list.
-
-### What trees are near Shirley?
-Addington Hills has oak, birch and pine woodland around heathland; the Shirley Heath woods are oak-birch with replanted sweet chestnut coppice.
-
-### My garden backs onto the heath or woods. Who owns the strip?
-It varies, so check before any work. Addington Hills and Threehalfpenny Wood are owned by Croydon Council.
-
-### Do you cover Shirley and CR0?
-Yes. We cover Shirley, Shirley Oaks and Upper Shirley (CR0).
-
-### Do you offer an emergency tree surgeon in Shirley?
-Yes. We respond to emergencies, Monday to Saturday, 8am to 6pm. Call {{phone}} and we'll tell you honestly how quickly we can attend. We make the area safe first, including trees in gardens beside the heath and woodland. See [emergency tree work](/emergency-tree-surgeon-croydon/).
-
-### Can you remove a tree from a sloping garden in Shirley?
-Yes. We plan sectional work and rigging for slopes, and use compact machines for stump grinding. Tell us about the slope, any steps and the narrowest gate width when you request your quote.
-:::
-
 :::form
 title: Get a tree surgery quote in Shirley
 :::
 
 :::sources
-- [GiGL, Addington Hills](https://www.gigl.org.uk/?p=58533); [GiGL, Shirley Heath, Spring Park and Threehalfpenny Wood](https://www.gigl.org.uk/sinc/M027); [London Gardens Trust, Pinewood](https://londongardenstrust.org/conservation/inventory/site-record/?ID=CRO052)
-- [Croydon Council, Whitgift Estate draft statement](https://www.croydon.gov.uk/sites/default/files/2026-03/whitgift-estate-draft-consultation-statement.pdf) (consultation draft)
+- [Croydon Council, Whitgift Estate draft consultation statement](https://www.croydon.gov.uk/sites/default/files/2026-03/whitgift-estate-draft-consultation-statement.pdf)
+- [Croydon Council, Heritage news and consultations](https://www.croydon.gov.uk/planning-and-regeneration/planning-policy/conservation-and-heritage/heritage-news-and-consultations)
+- [Croydon Council, Shirley Heath](https://www.croydon.gov.uk/node/3173/shirley-heath)
+- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/treesandlandscape/orders)
 - [Croydon Council, Trees in conservation areas](https://www.croydon.gov.uk/environment/trees-and-hedges/trees-conservation-areas)
-- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/trees-and-hedges/tree-preservation-orders)
-Council pages read on 1 October 2026. This is general information, not legal advice.
+- [Croydon Council, Parking suspensions](https://www.croydon.gov.uk/parking/parking-restrictions/how-get-parking-restrictions-suspended)
+This is general information, not legal advice. Confirm the protection status of your own tree with the council.
 :::

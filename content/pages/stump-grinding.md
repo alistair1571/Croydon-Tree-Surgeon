@@ -1,15 +1,12 @@
 ---
 url: /stump-grinding-croydon/
-title: Stump Grinding Croydon | Local Tree Stump Removal
-description: Stump grinding and stump removal in Croydon. Insured, NPTC/LANTRA qualified. Compact machines for small gardens and narrow gates. Services checked first.
+title: Stump Grinding Croydon | Stump Removal from £120
+description: Stump grinding in Croydon from £120: depth, access, regrowth, buried services and what to do with the chippings explained. Free written quote.
 h1: Stump Grinding in Croydon
-lead: Got an old tree stump in the way? We carry out professional stump grinding and tree stump removal across Croydon, using compact machines that fit through most side gates. We check for underground services before the machine starts, grind to the depth you need and leave the ground ready for turf, planting or paving.
-points:
-  - Grinding depth matched to what you plan next
-  - Underground services checked before the machine starts
-  - Fully insured, NPTC/LANTRA qualified operators
+lead: "A stump left behind after a tree comes down is more than an eyesore. It trips people up, blocks the lawn, patio or new planting, and can send up shoots for years. We grind stumps out across the London Borough of Croydon, in back gardens reached through narrow side gates as well as on open ground, and we tell you honestly when a stump is best left alone."
 image: /images/services/stump-grinding.jpg
-imageAlt: Operator in protective kit cutting a tree stump with a chainsaw
+imageAlt: Operator using a tracked stump grinder in a garden, with the van and chipper behind
+cta2: Send us photos|/contact/
 parent: Services|/services/
 crumb: Stump grinding
 schema: Service|Stump grinding in Croydon|Stump grinding
@@ -21,194 +18,158 @@ related:
   - /guides/tree-removal-cost-croydon/
 ---
 
-## How Much Does Stump Grinding Cost in Croydon? {chip=Cost}
+## The short answers {-}
 
-Stump grinding in Croydon typically costs between {{p.stump.between}} per stump, depending mainly on the stump's diameter, the depth required and how easily the machine can reach it. A small stump with a clear route in is a short job. A large stump with big surface roots, or one at the end of a narrow passage, takes longer.
+- **What does it cost?** Guide prices run from about £120 for a small stump to £700 for a very large one. [The price table](#what-stump-grinding-costs-in-croydon).
+- **How deep is the grind?** About 20 to 25 cm for turf, and at least 30 cm for replanting or landscaping, according to the RHS. [Depth by use](#how-deep-should-the-stump-be-ground).
+- **How long does it take?** A single stump is often done in a couple of hours, once the machine is at the stump.
+- **Can it grow back?** Sometimes. [Regrowth and disease](#will-it-grow-back).
+- **Is anything buried there?** Cables, pipes and drains are the main risk, and checking is free. [Buried services](#what-is-under-the-stump).
 
-| Stump diameter (measured across the top) | Indicative cost |
-|---|---|
-| Under 20cm (about 8in) | {{p.stump.under20}} |
-| 20 to 50cm (8 to 20in) | {{p.stump.d20to50}} |
-| Over 50cm (20in+) | {{p.stump.over50}}, with very large stumps and big root plates quoted individually |
-| Minimum call-out | {{p.stump.from}} |
-| Several stumps in one visit | Reduced price per stump |
 
-These are guide figures. After we've seen the job, you get a fixed, itemised written quote. [Use the cost calculator](/tree-surgery-cost-calculator/) · [Full cost guide →](/guides/tree-removal-cost-croydon/)
+## Do you need the stump ground out at all?
 
-| What affects the price | Why it matters |
-|---|---|
-| Stump diameter | Larger stumps take longer and more cutting |
-| Number of stumps | Several stumps in one visit usually cost less each |
-| Depth required | Grinding deeper for replanting takes longer than for turf |
-| Access | Narrow gates, steps and tight gardens need a smaller machine or more handling |
-| Roots and ground | Large surface roots, stones, brick and hard ground slow the work |
-| Clearing the chippings | Taking them away adds to the job |
-| Combined with tree removal | One visit saves travel and set-up, so it's usually cheaper than booking separately |
+There are five ways to deal with a stump. Grinding is the most common, but not always the right one.
 
-## What Stump Grinding Involves {chip=What it involves}
-
-Stump grinding uses a machine with a rotating cutting wheel to chip a stump away below ground level. It's the usual way to remove a stump without digging it out by hand. We sweep the cutting wheel across the stump in passes, working down to the agreed depth. The remaining roots are left in the ground, where they rot away over time.
-
-A typical stump takes between 30 minutes and a couple of hours, depending on size.
-
-### How Deep Do We Grind?
-The RHS says shallow grinding, to 20 to 25cm below ground level, is normally enough for laying turf, while replanting or landscaping needs deeper grinding, to at least 30cm. We agree the depth with you at the quote stage.
-
-| Your plan for the area | Grinding depth (RHS guidance) |
-|---|---|
-| Lay turf or restore the lawn | 20 to 25cm below ground level |
-| Replant a tree or landscape | At least 30cm below ground level |
-| Pave, build or lay a base over the area | Deeper, plus root removal; tell us at quote stage |
-
-## Stump Grinding Compared With Other Methods {chip=Other methods}
-
-| Method | What it involves | Things to know |
+| Option | Good for | The catch |
 |---|---|---|
-| Stump grinding | A machine chips the stump away below ground | Works on most stumps; the machine needs access |
-| Digging out by hand | Dig around the stump and cut the roots | The RHS says this can work for small trees; hard, slow work for anything larger |
-| Winching | Pull a small stump out with a winch | Suits small trees; the winch must be rated for the stump |
-| Chemical treatment | Weedkiller on the stump | The RHS doesn't support weedkillers and recommends non-chemical alternatives |
-| Leaving it to rot | Let the stump decay naturally | Can take many years, and a rotting stump can harbour fungi and pests. See below |
+| **Grind it out** | Lawn, patio, new planting, building work | Machine access needed. Costs money upfront |
+| **Dig it out by hand, winch or mini-excavator** | Small stumps, or sites where a grinder cannot reach | Hard work, and a mini-excavator can mark a lawn. The RHS says the safest route for large stumps is a professional |
+| **Leave it to rot** | A dead tree you don't mind looking at | Slow, and a stump can send up suckers or become a trip hazard |
+| **Treat it with a stump killer** | Rarely | The RHS does not support weedkillers on stumps, saying they have big environmental impacts |
+| **Turn it into a feature** | A planter, seat or log habitat | You keep the stump. Thick roots can go in a wildlife log pile |
 
-### Can I Just Leave the Stump to Rot?
-You can, but it's slow. A large stump can take many years to break down, stays a trip hazard and can sprout. Rotting stumps can also host fungi such as honey fungus, which can spread to nearby living plants. If you want the space back soon, grinding is the practical option.
+**Before you grind, think about stag beetles.** Stag beetle larvae live for several years in rotting wood, including old stumps, and guidance from wildlife bodies is to avoid grinding where possible and keep dead wood on site. Adults are seen from mid-May to late July. If you have a stump that has been rotting for years and you find white, C-shaped grubs in it, tell us before we start. We can leave it, or move the larvae into dead wood nearby. If the stump is in the way of a patio or foundation, we will do the job and say what we found.
 
-## Will a Stump Regrow After Grinding? {chip=Regrowth}
 
-Some species send up fresh shoots from the stump or roots, called suckers, and grinding doesn't always stop it completely, though removing the stump to the right depth greatly reduces it. Species that commonly resprout include sycamore, willow, poplar, cherry, plum, lime and ash. Conifers, including leylandii, don't resprout from a stump, so regrowth isn't a worry there. If shoots do appear after grinding, cut or pull them off as they come, and they usually fade as the remaining root runs out of energy. We'll tell you at the quote stage if your tree is a likely resprouter.
+## What stump grinding costs in Croydon
 
-## Stump Grinding for Every Situation {chip=Every situation}
+These are guide prices for Croydon, measured as the diameter of the stump at ground level. They are not a quote for your stump.
 
-### Stump Grinding in a Small Garden or Through a Narrow Gate
-Most Croydon gardens, especially the terraces around Thornton Heath, Norbury and Addiscombe, can only be reached through a side passage or gate. We use compact pedestrian grinders, which can often fit through a gate about 80cm wide. Send a photo of the access route, or measure the narrowest point (gate, passage, steps), when you request your quote.
-
-### Stumps on Slopes and Steep Gardens
-Gardens in Sanderstead, Purley, Kenley, Coulsdon and Selsdon often slope. Grinding on a slope takes more care and sometimes a different set-up. Tell us how steep the ground is, and whether there are steps.
-
-### Stumps Close to Walls, Drains, Fences and Cables
-A stump next to a wall, drain, shed or fence needs careful control of the cutting wheel, and we check for services before we start. If the stump is tight against a structure, we may grind to a safe line and finish by hand.
-
-### Leylandii and Conifer Stumps
-Conifer stumps don't resprout, so some owners leave them in, but they stay in the way and take years to rot. Grinding them is usually quicker and cleaner, particularly after a long hedge or row of leylandii has been taken out. See [tree removal](/tree-removal-croydon/) and [hedge cutting](/hedge-cutting-croydon/).
-
-### Stump Removal Before a Patio, Driveway, Extension or Garden Room
-If you're building or paving over the spot, a stump left in the ground can rot and cause the base to settle unevenly. Tell us what's going on top. We'll grind deeper and, where needed, remove large roots in the build area. Always check TPO and planning conditions before the build begins.
-
-### Stump Grinding Before Replanting
-To plant a new tree in the same spot, grind to at least 30cm, remove most of the chippings and top up with fresh soil. Don't replant a tree of the same species straight into the old stump area without checking for disease first, since some pathogens persist in old roots.
-
-### Stumps From a Storm-Felled or Previously Removed Tree
-Many stumps are left behind by earlier owners, previous tree surgeons or storm damage. We can grind these at any time. See [emergency tree work](/emergency-tree-surgeon-croydon/) if there's still a fallen tree to clear.
-
-### Several Stumps or an Overgrown Garden
-If you have a row of stumps from a removed hedge or conifers, we grind them in one visit, and the price per stump drops.
-
-### Landlords, Letting Agents and Selling a Property
-A tidy, level garden helps with a sale or a tenant change. We can clear stumps and leave the ground ready for turf, and give a written quote to pass to the owner or managing agent.
-
-## Hire a Grinder or Call a Professional? {chip=Hire or professional?}
-
-Stump grinders can be hired, but they're heavy, noisy machines that throw chippings at speed, and they need protective equipment and a check for underground services before use. For large stumps, tight access, or stumps close to walls, drains or cables, a professional is usually the safer choice. Hire costs, delivery and your time often close the price gap for a single stump.
-
-## Safety, Protection and What We Check First {chip=What we check first}
-
-A grinder cuts below ground level, so we check a few things before the machine starts.
-
-### Underground Services
-Buried electricity cables, gas pipes, water pipes and telecoms lines can be damaged by machines that cut below ground. Before we start, we check service plans (the free LinesearchBeforeUdig service is a common route) and use cable detection tools where needed. If you know where services run to your shed, garden lighting or outbuilding, tell us.
-
-### Is the Tree Protected?
-If the tree is still alive, or you're not sure whether a stump belongs to a protected tree, check before any work. Cutting down, uprooting or wilfully damaging a protected tree without permission is an offence. Croydon Council says fines of up to £20,000 can follow for cutting down a protected tree without permission. Check with Croydon Council or send us the address. [TPO guide](/guides/tree-preservation-orders-croydon/).
-
-| Situation | What to do |
+| Stump diameter | Guide price |
 |---|---|
-| Stump of a tree already lawfully removed | Grinding generally needs no permission |
-| Tree is still alive, or you're unsure | Check TPO and conservation area status first |
-| Tree removed under a council consent with a replanting condition | Keep to the replanting condition; tell us your plans |
-| Stump in a conservation area | Check; we confirm the position before we quote |
+| Under 20 cm | £120 to £220 |
+| 20 to 50 cm | £160 to £350 |
+| Over 50 cm | £300 to £700 |
+| Very large or awkward stumps | Quoted individually |
+| Minimum call-out | From £120 |
 
-### Wildlife
-Stumps and old roots can shelter nesting birds and small animals, and dead wood supports insects. We take a quick look before work, and nesting season (March to August) can occasionally delay a job.
+**What pushes the price up:** a large diameter, hard wood, big surface roots, a long carry from the van, steps or a slope, narrow access, and anything buried nearby. **What brings it down:** several stumps in one visit, and doing the stump at the same time as [tree removal](/tree-removal-croydon/), when we are already on site.
 
-## After Stump Grinding: Chippings, Lawn and Replanting {chip=After grinding}
+**What a good stump quote shows**
 
-Grinding produces a pile of chippings, usually roughly the volume of the stump or more. The RHS notes that most green waste from removing trees can be reused or recycled in the garden. Tell us at the quote stage how you'd like it handled:
+1. How many stumps, with their diameters.
+2. The depth you are getting, in centimetres.
+3. What happens to the chippings: left, used to fill the hole, or taken away.
+4. Whether roots are included, and how far.
+5. VAT, and proof of insurance on request.
 
-+ **Left as mulch:** spread over beds and borders, ideally after it has aged a few months
-+ **Used to fill the hole:** the hole is topped with soil, ready for turf
-+ **Taken away:** we remove the chippings and leave the area clear, and we're registered waste carriers
 
-For turf, shallow grinding is normally enough. For replanting, ask for the deeper depth and have the chippings removed, since fresh woodchip can rob young plants of nitrogen. The hole will settle over the following weeks, so top it up with soil as it sinks.
+## How deep should the stump be ground?
 
-## How Stump Grinding Works {chip=How it works}
+The right depth depends on what goes there next.
 
-1. **Tell us about it.** Call us or use the quote form, with photos, the stump diameter and your postcode, plus a photo of the access route.
-2. **Site visit and quote.** We look at the stump and the access, and send an itemised written quote.
-3. **Checks.** We check underground services, tree protection and wildlife.
-4. **Plan.** We agree the date, depth, where the machine goes and how to handle the chippings.
-5. **The work.** Our qualified, insured team grinds the stump to the agreed depth.
-6. **Clean-up.** We leave the area tidy, filled or cleared as agreed.
+| What you want afterwards | Grinding depth |
+|---|---|
+| Lawn or turf | About 20 to 25 cm |
+| Replanting a tree or shrub, or landscaping | At least 30 cm |
+| A patio, driveway, shed base or extension | Deeper again, with the larger roots removed. Tell us before the quote |
 
-## Stump Grinding Across Croydon {chip=Areas}
+The depths for turf and replanting are the RHS's figures. Say what you plan to put there and we agree the depth on the quote. Grinding to the wrong depth is the commonest reason for a second visit.
 
-We carry out stump grinding across the borough, including {{areaLinks}} ({{postcodes}}).
 
-:::faq Stump Grinding FAQs
+## Getting a stump grinder into a Croydon garden
+
+Many stumps are behind terraced or semi-detached houses, with only a side passage or a gate between the road and the garden. Tracked, pedestrian-controlled grinders are built for this, but they differ in width. Measure the narrowest point between the road and the stump, including gate posts and any bins, meters or low walls, and send it with photos. We confirm a machine will fit before we book you in.
+
+Slopes, steps and soft ground add time, because the machine has to be moved carefully and ground protection may be needed. Where there is no way through at all, a stump can sometimes be dealt with by hand or by a smaller machine, at a different price.
+
+
+## What is under the stump?
+
+Cables, pipes and drains do not stay where you expect, and grinding goes below the surface. Before we start:
+
+- **Tell us what you know.** Buried electricity, gas, water, broadband, garden lighting, irrigation, drains and soakaways all matter.
+- **Run a free search.** LinesearchbeforeUdig is a free online service for homeowners and contractors that shows which utility owners have assets near your site and asks them to send their plans. It does not cover every owner, so anything missing has to be checked directly.
+- **Mark the area.** If you know of a pipe or cable, mark it before the visit.
+
+We also check the ground for the main roots and for anything unexpected, before the machine starts.
+
+
+## What is left behind, and what to do with it
+
+Grinding leaves a pile of chippings and a hollow where the stump was.
+
+- **Do not fill the hole with sawdust.** The RHS warns that fresh sawdust can lock up nitrogen in the soil, starving new plants for up to two years. Fill the hole with fresh topsoil, firm it down and let it settle for a few weeks, then top up.
+- **The chippings.** Leave some as mulch only after they have aged for three to four months, take them away, or have us remove them. Say which when you book.
+- **A lawn.** Turf or reseed once the soil has settled.
+- **Replanting.** Grind to at least 30 cm, remove the chippings, replace the soil, and plant. If the old tree died of a disease, ask us what is sensible to plant.
+
+
+## Will it grow back?
+
+Grinding removes the stump and the root plate, but not every root. Some trees send up suckers from roots left in the ground, and the RHS notes that an ailing tree pruned hard may do the same. Poplar, willow and plum are among those known for it. Suckers can be cut out as they appear. Leylandii and most conifers do not usually regrow from old wood.
+
+**Disease in the soil.** If other plants nearby have died, tell us. The RHS says that where a soil-borne disease such as honey fungus is the cause, removing the stump and the large roots is advisable. We would rather know at the quote stage than discover it halfway through.
+
+
+## Is the tree protected?
+
+A TPO protects the tree itself. If it is still standing and protected, the first step is consent from Croydon Council, not a grinder. In a conservation area, the council needs six weeks' written notice before work on a tree. If the tree was removed lawfully, grinding the stump generally does not need further permission, but check first if it was a protected tree or the stump still looks alive. We do that check with Croydon's Development Management team for every quote. See our guides to [tree preservation orders](/guides/tree-preservation-orders-croydon/) and [conservation areas](/guides/conservation-area-tree-work-croydon/).
+
+Nests in nearby shrubs and hedges are protected while in use, so we look before we start in spring and summer.
+
+:::faq Stump grinding Croydon: frequently asked questions
 ### How much does stump grinding cost in Croydon?
-Most stump grinding in Croydon costs between {{p.stump.between}} per stump, depending on diameter, depth and access. Several stumps in one visit cost less each. You get a fixed written quote after we've assessed the job.
+About £120 to £220 for a stump under 20 cm across, £160 to £350 for 20 to 50 cm, and £300 to £700 for larger ones, with very large stumps quoted individually. The [calculator](/tree-surgery-cost-calculator/) gives a starting figure.
 
 ### How deep do you grind a stump?
-It depends on your plans. The RHS says 20 to 25cm is normally enough for laying turf, and at least 30cm for replanting or landscaping.
+About 20 to 25 cm for turf and at least 30 cm for replanting or landscaping. Building work needs deeper still.
 
 ### How long does stump grinding take?
-A small stump takes around 30 to 60 minutes. Large stumps with big roots can take a couple of hours.
+A single stump is often done in a couple of hours. Large stumps, big roots, awkward access or several stumps take longer.
 
 ### Can you grind a stump in a small garden or through a narrow gate?
-Usually yes. We use compact machines that fit through most side gates. Send a photo or the width of the narrowest point.
-
-### Will the stump grow back?
-Conifers such as leylandii don't resprout. Species such as sycamore, willow, cherry and ash can send up shoots; removing these as they appear usually stops them.
-
-### What happens to the roots?
-The main stump is ground out, and the remaining roots are left in the ground to rot. For building or paving work we can remove the larger roots.
+Often, yes, using a narrow-access machine. Send us your narrowest measurement and a photo, and we confirm before booking.
 
 ### Can I plant a new tree where the stump was?
-Yes, if the stump is ground deep enough, at least 30cm according to the RHS. Remove most of the chippings and top up with fresh soil. Tell us your plans when you ask for a quote.
+Yes, if it is ground to at least 30 cm, the chippings are removed and fresh soil is put back. Don't fill the hole with sawdust.
 
-### Can I leave the stump to rot?
-You can, but it can take many years, stays a trip hazard and can host fungi. Grinding is the faster way to clear the space.
+### Can I just leave the stump to rot?
+You can, but it takes years, it may sprout, and it remains a trip hazard. If it is old and rotting, it may be a home for stag beetle larvae, which is a reason to leave it.
 
-### Do I need permission to grind a stump?
-Usually not for an unprotected tree already removed, but check first if the tree is still alive, may be protected or is in a conservation area.
+### Do you take away the chippings?
+Yes if you want us to. Say whether you want them left, used as backfill (not sawdust alone), or taken away. If you hire anyone to carry waste off site, check they are a registered waste carrier on the Environment Agency register or on 03708 506506.
 
-### Should I hire a stump grinder?
-It's possible, but grinders are heavy and throw chippings, and you need to check for underground services. For large stumps or tight access a professional is usually safer.
+### Should I hire a stump grinder myself?
+For a small stump in an open garden it can be done, but the machines are heavy and dangerous, and you won't know what is buried. The RHS says the safest way to remove large stumps is a professional.
 
-### Does the price include taking away the chippings?
-Not by default if you'd like them left as mulch. Taking them away adds to the price, and the quote shows exactly what's included.
-
-### Can you do the stump at the same time as removing the tree?
-Yes. It's usually cheaper to combine them in one visit. Ask when you request your quote.
-
-### Is stump grinding messy?
-It throws up chippings and some soil around the stump. We shield the area and clear up afterwards.
+### Can you grind the stump when you take the tree down?
+Yes, and it is usually cheaper and tidier to quote them together. See [tree removal](/tree-removal-croydon/).
 :::
 
 :::cta
-Not sure what your tree needs?
-Call and talk it through, or send us photos and your postcode.
-Get my free quote | #quote
+Get a free quote for stump grinding in Croydon
+Tell us how many stumps there are, roughly how wide each is, and how we get to them. Photos help. Call {{phone}}, Mon to Sat, 8am to 6pm.
+Get your quote | #quote
 :::
 
-:::related
+## Stump grinding across Croydon {-}
+
+[Addiscombe](/tree-surgeon-addiscombe/) · [Shirley](/tree-surgeon-shirley/) · [Thornton Heath](/tree-surgeon-thornton-heath/) · [Norbury](/tree-surgeon-norbury/) · [Crystal Palace and Upper Norwood](/tree-surgeon-crystal-palace/) · [South Croydon](/tree-surgeon-south-croydon/) · [Selsdon](/tree-surgeon-selsdon/) · [Sanderstead](/tree-surgeon-sanderstead/) · [Purley](/tree-surgeon-purley/) · [Coulsdon](/tree-surgeon-coulsdon/) · [Kenley](/tree-surgeon-kenley/) · [All areas](/areas/)
+
+:::related noareas
 :::
 
 :::form
 :::
 
 :::sources
-- [RHS, Removing trees and stumps](https://rhs.org.uk/advice/profile?PID=229)
-- Underground services: [LinesearchBeforeUdig](https://www.lsbud.co.uk/); [National Grid, How to dig safely](https://connections.nationalgrid.co.uk/how-to-dig-safely)
-- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/trees-and-hedges/tree-preservation-orders)
-Council pages read on 1 October 2026. This is general information, not legal advice.
+- [RHS, Removing trees and stumps](https://www.rhs.org.uk/plants/types/trees/stump-removal)
+- [LinesearchbeforeUdig](https://lsbud.co.uk/linesearchbeforeudig-users/)
+- [People's Trust for Endangered Species, Stag beetle fact file](https://ptes.org/wp-content/uploads/2015/02/Stag-beetle-fact-file.pdf)
+- [GiGL, Stag beetle advice](https://www.gigl.org.uk/GiGLFiles/WebDocuments/stag_advice.pdf)
+- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/treesandlandscape/orders)
+- [Croydon Council, Trees in conservation areas](https://www.croydon.gov.uk/environment/trees-and-hedges/trees-conservation-areas)
+This is general information, not legal advice.
 :::

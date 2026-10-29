@@ -69,7 +69,7 @@ function parseFront(text) {
   const fm = {}; let key = null;
   for (const line of m[1].split('\n')) {
     let k;
-    if ((k = line.match(/^([A-Za-z0-9_]+):\s*(.*)$/))) { key = k[1]; fm[key] = k[2] === '' ? [] : k[2]; }
+    if ((k = line.match(/^([A-Za-z0-9_]+):\s*(.*)$/))) { key = k[1]; fm[key] = k[2] === "" ? [] : k[2].replace(/^"(.*)"$/, "$1"); }
     else if ((k = line.match(/^\s*-\s+(.*)$/)) && Array.isArray(fm[key])) fm[key].push(k[1]);
   }
   return { fm, body: m[2] };
@@ -153,7 +153,7 @@ function renderCards(b) {
   const cards = b.body.split(/^###\s+/m).slice(1).map(part => {
     const lines = part.trim().split('\n'); const [title, href, img, alt] = lines[0].split('|').map(x => x.trim());
     const rest = lines.slice(1).join(' ').trim(); const m = rest.match(/^(.*?)\s*->\s*(.+)$/);
-    const pic = img ? `<img class="thumb" src="${img}" alt="${esc(alt || '')}" width="720" height="480" loading="lazy">` : '';
+    const pic = img ? `<img class="thumb" src="${img}" alt="${esc(alt || '')}" width="640" height="427" loading="lazy" decoding="async">` : '';
     return `<a href="${href}" class="service-card${img ? ' has-thumb' : ''}">${pic}<h3>${inline(title)}</h3><p>${inline(m ? m[1] : rest)}</p><span class="more">${inline(m ? m[2] : 'Learn more')}</span></a>`;
   });
   return `<section class="section"><div class="container">${b.arg ? `<h2 style="margin-bottom:18px">${inline(b.arg)}</h2>` : ''}<div class="hub-grid" style="margin:0 0 20px">${cards.join('')}</div></div></section>`;
@@ -233,7 +233,7 @@ function renderPage(file, robots) {
   const points = Array.isArray(fm.points) && fm.points.length ? `<ul class="hero-points">${fm.points.map(p => `<li>${inline(p)}</li>`).join('')}</ul>` : '';
   const [c2l, c2h] = (fm.cta2 || 'Get a free quote|#quote').split('|');
   const heroLeft = `<div><h1>${inline(fm.h1)}</h1><p class="lead">${inline(fm.lead)}</p>${points}<div class="hero-cta" style="margin-top:24px"><a href="tel:${facts.phoneHref}" class="btn btn-lg">Call ${facts.phone}</a><a href="${c2h}" class="btn btn-lg btn-outline">${inline(c2l)}</a></div></div>`;
-  const img = fm.image ? `<figure class="hero-image"><img src="${fm.image}" alt="${esc(fm.imageAlt || '')}" width="1200" height="900" fetchpriority="high"></figure>` : '';
+  const img = fm.image ? `<figure class="hero-image"><img src="${fm.image}" alt="${esc(fm.imageAlt || '')}" width="960" height="640" fetchpriority="high" decoding="async"></figure>` : '';
   const calcDiv = `<div class="calc" id="calculator" data-calc data-service="${fm.service || ''}" data-area="${fm.area || ''}"><h2>Tree surgery calculator</h2><p class="calc-sub">This tool needs JavaScript. Please call <a href="tel:${facts.phoneHref}">${facts.phone}</a> or use the <a href="/contact/">contact form</a>.</p></div>`;
   const hero = (fm.image || fm.calc === 'yes')
     ? `<section class="inner-hero"><div class="container"><div class="breadcrumb">${crumb}</div><div class="hero-split">${heroLeft}${fm.calc === 'yes' ? calcDiv : img}</div></div></section>`

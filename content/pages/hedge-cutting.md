@@ -1,15 +1,12 @@
 ---
 url: /hedge-cutting-croydon/
-title: Hedge Cutting Croydon | Leylandii & Overgrown Hedges
-description: Hedge cutting in Croydon: trimming, height reduction, leylandii and overgrown hedge restoration. Nest checks first, insured team, all cuttings cleared.
+title: Hedge Cutting Croydon | Trimming, Leylandii & Reduction
+description: Hedge cutting in Croydon from £120: trimming, reduction, leylandii and overgrown hedges. Nesting season and the 2 m high hedge rule explained. Free quote.
 h1: Hedge Cutting in Croydon
-lead: Overgrown hedge, tall leylandii or a front hedge blocking your drive? We carry out hedge trimming, height reduction, overgrown hedge restoration and hedge removal across Croydon. We check for nesting birds before we cut, time the work to the type of hedge, and clear every cutting. And we're honest about what a conifer hedge can and can't take, because cut back too far, it won't recover.
-points:
-  - Timing advice by hedge type, not a one-size rule
-  - Nest checks between March and August, before any cut
-  - Honest about what a conifer hedge can and cannot take
+lead: "A hedge that has got away from you can block light, spill onto the pavement, upset the neighbours and, if it is leylandii, be hard to rescue. We cut, reduce and restore hedges across the London Borough of Croydon, from a neat front privet to a 3-metre conifer screen that needs a platform. We check for nests before we start, and we will tell you straight if a hedge is better replaced than cut."
 image: /images/services/hedge-cutting.jpg
 imageAlt: Worker trimming a tall hedge from a stepladder while a colleague clears the cuttings
+cta2: Send us photos|/contact/
 parent: Services|/services/
 crumb: Hedge cutting
 schema: Service|Hedge cutting in Croydon|Hedge cutting
@@ -21,227 +18,173 @@ related:
   - /guides/bird-nesting-season-tree-work/
 ---
 
-## Hedge Services in Croydon {chip=Hedge services}
+## The short answers {-}
 
-| Service | What it involves | Best for |
+- **What does it cost?** From about £120 for a small front hedge to £1,600 or more for a tall, long conifer hedge that needs a platform. [Hedge prices](#what-hedge-cutting-costs-in-croydon).
+- **When can I cut?** Any time there are no active nests, but March to August is the main nesting season. [Timing and the law](#when-can-you-cut-a-hedge).
+- **Is there a legal height limit?** No. There is a 2 m rule for evergreen hedges, but it works only through a council complaint. [The 2 m rule explained](#the-2-metre-rule-what-it-does-and-doesn-t-do).
+- **Will a leylandii recover from a hard cut?** Usually not from bare brown wood. [Leylandii and conifers](#leylandii-and-conifers).
+
+
+## What kind of hedge job is it?
+
+| Your hedge | The job | Notes |
 |---|---|---|
-| Hedge trimming | Cutting the sides and top to keep a neat shape | Regular upkeep |
-| Height reduction | Lowering a tall hedge, often in stages | Hedges blocking light or views |
-| Overgrown hedge restoration | Cutting back a neglected hedge and clearing the cuttings | Hedges not cut for years |
-| Conifer and leylandii work | Trimming and reducing with care for old wood | Fast-growing boundary conifers |
-| Hedge removal | Taking out a hedge, with stump grinding if wanted | Replacing with a fence, wall or planting |
-| Front hedge and pavement clearance | Cutting back from paths, drives and sightlines | Privet, laurel and conifer front hedges |
-| Regular maintenance | Scheduled visits through the year | Landlords, agents and busy owners |
+| Neat but due its regular trim | **Trim and shape** | Top and sides, with the cuttings cleared |
+| Too tall or too wide | **Reduction** | Done in stages if it is a conifer |
+| Neglected for years, bare at the base | **Restoration** | Often over two seasons, with the outcome depending on species |
+| A leylandii or conifer screen | **Trim, staged reduction or removal** | See the leylandii section below |
+| Spilling onto the pavement or blocking a driveway view | **Cut back to a clear line** | The owner is responsible |
+| It has to go | **Removal and replacement** | Stump grinding available |
 
-## How Much Does Hedge Cutting Cost in Croydon? {chip=Cost}
 
-Hedge cutting in Croydon typically costs between {{p.hedge.typicalBetween}} for a typical garden hedge, and {{p.hedge.tallFrom}} for a long, tall conifer hedge, depending on the hedge's length, height, width and condition. A short, low front hedge is a quick job. A long, tall, overgrown leylandii hedge needs a platform, more time and a lot of waste removal.
+## What hedge cutting costs in Croydon
 
-| Job | Indicative cost |
+These are guide prices for Croydon, not a quote for your hedge.
+
+| Hedge | Guide price |
 |---|---|
-| Small front hedge (under 5m long, up to 1.5m high) | {{p.hedge.small}} |
-| Medium garden hedge (10 to 20m long, 1.5 to 2.5m high) | {{p.hedge.medium}} |
-| Tall hedge or leylandii (over 20m long, over 2.5m high, platform needed) | {{p.hedge.tall}} |
-| Overgrown hedge restoration | Quoted on site, starting from the trimming price for the same hedge |
-| Hedge removal | {{p.hedge.removal}}, with stump grinding extra if wanted |
-| Regular maintenance visit | Quoted per hedge, and often lower per visit |
-| Minimum call-out | {{p.hedge.minCall}} |
+| Small front hedge (under 5 m long, up to 1.5 m high) | £120 to £220 |
+| Medium garden hedge (10 to 20 m long, 1.5 to 2.5 m high) | £300 to £450 |
+| Tall hedge or leylandii (over 20 m long, over 2.5 m high), needing a platform | £1,600 to £2,650+ |
+| Hedge removal | £150 to £450, plus stump grinding if wanted |
+| Minimum call-out | From £120 |
 
-These are guide figures. After we've seen the hedge, you get a fixed, itemised written quote. [Use the cost calculator](/tree-surgery-cost-calculator/) · [Full cost guide →](/guides/tree-removal-cost-croydon/)
+Hedges that fall between these rows, such as a long but low hedge or a tall but short one, are priced from photos or a visit.
 
-| What affects the price | Why it matters |
+**What moves the price:** length, height, thickness, the species, how overgrown it is, access, whether a platform is needed, and how much waste there is. Conifer hedges produce a lot. **What a good quote shows:** the hedge's length and height, the work in plain terms (trim, reduce to 2 m, remove), whether the cuttings go, VAT, and proof of insurance on request.
+
+
+## When can you cut a hedge?
+
+**The nesting law.** Under the Wildlife and Countryside Act 1981 it is an offence to intentionally damage or destroy a wild bird's nest while it is in use or being built. There is no legal ban on trimming a garden hedge in spring or summer, but the main UK nesting season runs from 1 March to 31 August, and the RSPB advises against cutting hedges then. We look for nests before we cut. If we find one in use, that section stays untouched until the chicks have fledged. See [tree and hedge work in nesting season](/guides/bird-nesting-season-tree-work/).
+
+**The horticultural calendar.** These are general guides from hedging suppliers, and the right moment varies with the weather and the plant.
+
+| Hedge | A sensible time |
 |---|---|
-| Length of the hedge | More hedge means more time |
-| Height and width | Tall or wide hedges need more cutting and often a platform or ladders |
-| Hedge type and density | Dense, woody or overgrown hedges take longer than a light trim |
-| Overgrown or neglected | Restoration takes more work than routine trimming |
-| Access | Tight gardens, steps or no side access slow the job |
-| Waste | Taking away cuttings adds to the job, and conifer hedges produce a lot |
-| Frequency | Regular visits can be cheaper per visit |
-| Both sides | A boundary hedge may need access to a neighbour's side |
+| Most routine trims | Late summer into early autumn, once nesting is over |
+| Hard renovation of deciduous hedges and tough evergreens | Late winter to early spring, before nesting starts |
+| Privet | Two or three trims through the growing season |
+| Beech and hornbeam | One trim a year in late summer |
+| Yew | One trim in late summer, and it can be cut hard into old wood in spring |
+| Leylandii and conifers | Two or three light trims in the growing season. Never into old brown wood |
 
-## When Can You Cut a Hedge? {chip=When to cut}
 
-The best time depends on the type of hedge, and the law protects active bird nests, so timing matters for both the hedge and wildlife.
+## Leylandii and conifers
 
-| Hedge | How often and when (RHS guidance) |
-|---|---|
-| Privet | Twice or three times during the growing season |
-| Yew | Twice, in summer and autumn |
-| Beech and hornbeam | Once, in late summer |
-| Laurel | Once or twice, in spring or summer; cut individual shoots or use sharp trimmers carefully, as shredded leaves turn brown |
-| Informal and flowering hedges | Usually once a year, timed to flowering |
-| Conifer hedges | Trim earlier in the season; trimming after August can encourage bare patches |
-| Box | Once or twice in the growing season; check for blight and caterpillars first |
+Most conifers, including leylandii, do not regrow from bare old wood. A hedge cut back to brown stems stays brown. That is why a tall leylandii is reduced in stages, keeping green growth on every branch, or taken out altogether if it has grown too far for a stage-by-stage cut to work.
 
-| When | What to think about |
-|---|---|
-| November to February | Best window for hard cutting, reduction and removal, with the fewest wildlife constraints. Avoid cutting in frost |
-| March to August | Nesting season. We check before any cut, and some work may wait |
-| Late spring to summer | The main trim for most formal hedges |
-| Late summer | Final trim for beech, hornbeam and yew |
-| After August | Avoid trimming conifers, which can encourage bare patches |
+- **Regular light trims** are the way to keep one under control, two or three times in the growing season.
+- **A heavy cut to a flat brown wall** is the usual cause of the "it never came back" complaint.
+- **Removal and replacement** is sometimes the cleaner answer. Ask us what suits your soil and the height you want.
+- **Yew is the exception among evergreens.** It will regrow from old wood, which is why it is often used for formal hedges.
 
-### Nesting Birds and the Law
-Wild birds and their active nests are protected, and the main nesting season generally runs from March to August. There is no fixed legal ban on cutting a garden hedge in nesting season, but you must not damage an active nest, so a careful check is essential. If a nest is active, the work waits or that section is left. See our [nesting season guide](/guides/bird-nesting-season-tree-work/).
+Waste from a tall conifer hedge can fill a skip, so it is a real cost. If anyone carries it away, check they are a registered waste carrier. The Environment Agency register or 03708 506506 can confirm it.
 
-## Hedge Types We Cut in Croydon {chip=Hedge types}
 
-| Hedge | Typical issues |
-|---|---|
-| Privet | Fast-growing front and boundary hedge; needs frequent cutting, and regrows well from hard pruning |
-| Laurel | Large leaves, very vigorous; needs careful cutting, and hard reduction is possible in the dormant season |
-| Leylandii and other conifers | Grow very fast; most won't regrow from bare old wood |
-| Yew | Slow, dense and regrows well from old wood |
-| Beech and hornbeam | Dense, formal hedges; may keep dead leaves through winter |
-| Hawthorn, blackthorn and mixed native hedges | Thorny; best cut in winter, outside nesting season |
-| Box | Common in older gardens; can suffer from blight and box tree moth caterpillars. Tell us before we cut if it's browning or webbed |
+## The 2 metre rule: what it does and doesn't do
 
-## Leylandii and Conifer Hedges {chip=Leylandii and conifers}
+There is no law saying a hedge can be no taller than 2 m. What exists is a way for a neighbour to complain about a tall evergreen hedge that is spoiling their enjoyment of their home or garden, under Part 8 of the Anti-social Behaviour Act 2003.
 
-Most conifers do not regrow from old, bare wood. A conifer branch cut back so that no green growth remains will generally not produce new foliage, which is why a very tall conifer hedge cannot always be reduced in a single cut. We trim regularly while the hedge is manageable, reduce height and width in stages where the hedge allows it, and tell you honestly if a hedge has grown too far to be reduced safely.
+- **It covers evergreen or mostly evergreen hedges,** typically leylandii and similar conifers, usually over 2 m.
+- **Neighbours have to try to settle it first.** Councils expect the complainant to show they have tried and failed.
+- **The council can order the hedge reduced, not removed,** and not below 2 m.
+- **It costs money.** Fees are set by each council. Lichfield charges £625 and Havering £1,291, so check Croydon Council's current fee before relying on it.
 
-| Situation | What we do |
-|---|---|
-| Hedge is still manageable | Trim regularly, little and often, keeping within the green growth |
-| Hedge is tall but has green growth to cut back to | Reduce height and width in stages, over more than one visit if needed |
-| Hedge has grown too far, with bare wood inside | Tell you honestly that it can't be reduced safely, and discuss removal and replacement |
-| Hedge is too wide and eating the garden | Trim back to green growth only |
-| Removing a conifer hedge | Fell or cut in sections, clear everything, and grind stumps where needed. Conifers don't resprout from a cut stump, so grinding is optional |
+**If it's your hedge,** a quiet chat and a trim are far cheaper than a complaint and a council notice. **If it's your neighbour's hedge,** talk to them first. You can usually cut branches that overhang your side back to the boundary, but not beyond it. See [our homepage guide to neighbours' trees](/#whose-tree-is-it-neighbours-council-and-landlords).
 
-**Don't cut a leylandii hedge back to brown wood to "fix" its height.** It's the most common mistake we see, and it can't be undone. If your hedge is already too tall, call us before cutting.
 
-## Overgrown Hedge Restoration {chip=Overgrown hedges}
+## Front hedges, pavements and driveways
 
-| Hedge | Can it be restored? |
-|---|---|
-| Privet, laurel, hawthorn, hornbeam, beech, yew, holly | Usually yes, with hard cutting, ideally in winter and sometimes in stages over two years |
-| Leylandii and most conifers | Only if there's green growth to cut back to |
-| Mixed native hedge | Yes, with winter cutting |
+The owner of a hedge that overhangs a road or footpath, hides a street sign or light, or blocks the view at a junction or driveway, is responsible for cutting it back. If an owner does not act after a notice, the council can arrange the work and recover the cost. Front hedges that have grown over the pavement are among our most common small jobs, and a hedge that makes a pushchair or wheelchair step into the road is a real problem.
 
-For heavily overgrown hedges we may recommend staging the work over two winters so the hedge isn't stressed. We clear every cutting and leave the boundary tidy.
 
-## Front Hedges, Pavements and Sightlines {chip=Front hedges}
+## Rescuing an overgrown hedge
 
-| Issue | What to know |
-|---|---|
-| Hedge overhanging the pavement | If the hedge is yours, you're responsible for keeping it clear, and the council can require it under the Highways Act 1980. Keep branches clear of the pavement edge |
-| Hedge blocking sightlines at a drive or junction | Cut back for visibility when you reverse out or turn |
-| Hedge obstructing a path or bin route | Cut back to the boundary |
-| Planning to pave the front garden | Removing a front hedge can need planning permission in some cases, and a dropped kerb needs council approval. Check first |
+A hedge that has been left for years often has dead interiors, bare bases and woody stems. The cure depends on what it is.
 
-## Neighbours, Tall Hedges and the 2-Metre Rule {chip=Tall hedges and neighbours}
+1. **Identify the species.** It decides whether a hard cut will regrow, as with yew, or not, as with leylandii.
+2. **Cut in stages where needed,** one side or one section a year, so the hedge is never stripped.
+3. **Check for nests, and for trees in the hedge.** See below.
+4. **Water and feed afterwards,** and trim lightly each year to hold the shape.
 
-There is no legal height limit for a garden hedge in England. What the law does is give neighbours a way to complain if an **evergreen hedge** blocks their light.
+Some hedges will never recover, and we say so before we cut.
 
-| Question | Answer |
-|---|---|
-| What counts as a high hedge? | A line of two or more evergreen or semi-evergreen trees or shrubs, more than two metres high, that significantly affects the reasonable enjoyment of a home or garden |
-| What should I do first? | Talk to your neighbour. Councils expect you to try to resolve it before making a formal complaint |
-| Who decides? | Your council, under Part 8 of the Anti-social Behaviour Act 2003 |
-| Does it cost anything? | Councils charge a fee. Check Croydon Council's page for its process and current fee |
-| What can the council do? | Require the owner to cut the hedge to a set height, but it cannot order removal or require it to go below two metres |
-| Does it cover deciduous hedges? | No. The rules apply to evergreen and semi-evergreen hedges |
 
-Where branches overhang your property you may be able to cut them back to the boundary, but not beyond it, and cuttings should be offered back. If your neighbour's hedge is on your boundary, who owns it can be unclear. Check your title deeds, and agree work in writing. Some countryside hedgerows are protected by law, but this generally does not apply to ordinary garden hedges.
+## Trees in your hedge, and protection
 
-## Trees in Your Hedge {chip=Trees in your hedge}
+A Tree Preservation Order cannot protect a hedge as such, but it can protect individual trees growing in one. In a conservation area, six weeks' written notice is needed before work on trees of a certain size, whether in a hedge or not. Croydon says fines of up to £20,000 apply for felling a protected tree without permission, and up to £2,500 for pruning one. A hedge on a garden boundary is not normally covered by the countryside hedgerow regulations. We check every quote against Croydon's records. See [tree preservation orders](/guides/tree-preservation-orders-croydon/).
 
-A hedge isn't always just a hedge. Trees growing in or through it, such as ash, oak, sycamore or hawthorn standards, can be **protected by a TPO or conservation area** in their own right.
 
-| Situation | What applies |
-|---|---|
-| Tree in a hedge with a TPO | Consent needed before cutting or removing it |
-| Tree in a hedge in a conservation area | Six weeks' written notice to the council before cutting it. See our [conservation area guide](/guides/conservation-area-tree-work-croydon/) |
-| Garden hedge itself | Generally not protected, but check planning conditions and covenants on newer estates |
-| Countryside hedgerow bordering open land | Some are protected by the Hedgerows Regulations 1997, so check before removal |
+## Access, cables and safety
 
-Croydon Council says a tree preservation order (TPO) stops visually important trees being removed or pruned without formal permission, and that you must give six weeks' written notice before work to a tree in a conservation area. Fines of up to £20,000 can follow for cutting down a protected tree without permission, and up to £2,500 for pruning one. We check both before any work. [TPO guide](/guides/tree-preservation-orders-croydon/).
+- **Tall hedges.** Anything above comfortable ladder height is cut from a platform or tower, not a stepladder.
+- **Cables.** Tell us about outdoor sockets, garden lighting, overhead lines and buried services near the hedge, and keep trimmers away from wet cables.
+- **Access.** Narrow side passages, steps and parking all affect how long the job takes. Photos of the route help.
+- **Removal.** If the hedge is coming out, the roots and stumps can be ground out. See [stump grinding](/stump-grinding-croydon/).
 
-## Hedge Removal and Replacement {chip=Removal and replacement}
-
-| Option | What it involves |
-|---|---|
-| Remove the hedge only | Cut and clear the hedge, and grind or dig out stumps if wanted |
-| Replace with a fence or wall | We clear the hedge and stumps so the fencer or builder can start |
-| Replace with a new hedge | We clear the old hedge and stumps, and you plant a replacement |
-| Reduce rather than remove | Only possible if the hedge type and condition allow it |
-
-A mixed native hedge, or hornbeam, beech, privet or yew, makes a better long-term boundary than leylandii, and is better for wildlife. If you're replacing a leylandii hedge, avoid planting more. See [stump grinding](/stump-grinding-croydon/) for clearing the line.
-
-## Safety, Cables and Access {chip=Safety}
-
-| Risk | How we handle it |
-|---|---|
-| Cutting through cables | We check for garden lighting, outdoor sockets and cables running through or beside the hedge. Never cut near cables yourself |
-| Overhead lines | We don't work near them. If a hedge is next to a line, tell us when you request your quote |
-| Working at height | Platforms and ladders used safely, rather than reaching from a ladder |
-| Neighbours' property | Protecting fences, glass and cars, and agreeing access if we need to cut from their side |
-| Waste volume | Planning chipper and vehicle positions in advance, especially with long conifer hedges |
-
-## Hedge Cutting Across Croydon {chip=Areas}
-
-We carry out hedge cutting across the borough, including {{areaLinks}} ({{postcodes}}).
-
-:::faq Hedge Cutting FAQs
+:::faq Hedge cutting Croydon: frequently asked questions
 ### How much does hedge cutting cost in Croydon?
-Typically between {{p.hedge.typicalBetween}} for a typical garden hedge, and {{p.hedge.tallFrom}} for a long, tall conifer hedge, depending on length, height, width and condition. You get a fixed written quote after we've assessed the hedge.
+From about £120 for a small front hedge, £300 to £450 for a medium garden hedge and £1,600 or more for a long, tall conifer hedge needing a platform. The [calculator](/tree-surgery-cost-calculator/) gives a starting figure.
 
 ### When is the best time to cut a hedge?
-It depends on the type. The RHS suggests privet twice or three times in the growing season, yew in summer and autumn, and beech once in late summer. Conifers are better trimmed earlier in the season.
+For most hedges, late summer into early autumn, once nesting has finished. Hard renovation suits late winter to early spring.
 
 ### Can I cut my hedge in nesting season?
-There is no fixed legal ban on cutting a garden hedge, but active nests are protected and the main season runs from March to August. We check for nests first and may delay or leave sections.
+There is no ban on trimming a garden hedge, but it is an offence to damage a nest in use. We check first and leave any active nest alone.
 
-### What happens if I find a nest while cutting a hedge?
-Stop and leave that section until the nest is finished. Damaging an active nest is an offence.
+### What happens if I find a nest while cutting?
+Stop, and leave that section untouched until the chicks have fledged.
 
 ### Can you cut a leylandii hedge back hard?
-Not into bare wood, because most conifers do not regrow from old wood. We reduce in stages where possible and tell you if a hedge cannot be reduced safely.
+Not into bare brown wood, because it will not regrow. We reduce it in stages, keeping green growth, or recommend removal.
 
-### My leylandii hedge has gone brown after cutting. Can it recover?
-Usually not where the green growth was removed entirely. The options are to leave it, screen it or replace the hedge.
+### My leylandii has gone brown after cutting. Can it recover?
+Usually not from the brown areas. Green growth nearby may fill small gaps, but a large brown patch normally stays.
 
 ### How high can a hedge be?
-There's no legal height limit for a garden hedge in England. But if an evergreen hedge over two metres affects a neighbour's light, they can complain to the council.
+There is no general legal limit. A neighbour can complain to the council about a tall evergreen hedge, and the council can order a reduction, not removal, and not below 2 m.
 
 ### My neighbour's hedge is too high. What can I do?
-Talk to your neighbour first. Councils can deal with complaints about evergreen hedges over two metres, but expect you to try to resolve it first and charge a fee.
+Talk to them first. If that fails, a high hedge complaint to the council is the formal route, but it carries a fee.
 
 ### Can I cut my neighbour's hedge?
-Only back to your boundary, and not beyond it, and offer the cuttings back. Don't go on their land without permission.
+You can usually cut branches that overhang your land back to the boundary, but not beyond it, and not the height. Speak to them first.
 
 ### Do I need permission to remove a hedge?
-Generally not for a garden hedge, but check for trees growing in it, planning conditions and covenants, and whether it's a protected countryside hedgerow. We check as part of every quote.
-
-### Can you restore a hedge that hasn't been cut for years?
-Often yes, for privet, laurel, beech, hornbeam, yew and holly, ideally in winter and sometimes in stages. Conifers can only be cut back to green growth.
+For an ordinary garden hedge, not normally, but check for protected trees within it and for conservation area rules.
 
 ### Do you take the cuttings away?
-Yes, unless you ask to keep them. See our [services page](/services/).
+Yes, they are cleared unless the quote says otherwise. Conifer hedges produce a lot of waste, which affects the price.
 
 ### Can you do regular hedge maintenance?
-Yes, with scheduled visits through the year. This is popular with landlords, agents and busy owners.
+Yes. Tell us the hedge and how often it needs cutting, and we can plan visits at the right times of year.
 :::
 
 :::cta
-Not sure what your hedge needs?
-Call and talk it through, or send us photos and your postcode.
-Get my free quote | #quote
+Get a free quote for hedge cutting in Croydon
+Tell us the hedge's length, height, species if you know it, and how we get to it. Photos help. Call {{phone}}, Mon to Sat, 8am to 6pm.
+Get your quote | #quote
 :::
 
-:::related
+## Hedge cutting across Croydon {-}
+
+[Addiscombe](/tree-surgeon-addiscombe/) · [Shirley](/tree-surgeon-shirley/) · [Thornton Heath](/tree-surgeon-thornton-heath/) · [Norbury](/tree-surgeon-norbury/) · [Crystal Palace and Upper Norwood](/tree-surgeon-crystal-palace/) · [South Croydon](/tree-surgeon-south-croydon/) · [Selsdon](/tree-surgeon-selsdon/) · [Sanderstead](/tree-surgeon-sanderstead/) · [Purley](/tree-surgeon-purley/) · [Coulsdon](/tree-surgeon-coulsdon/) · [Kenley](/tree-surgeon-kenley/) · [All areas](/areas/)
+
+:::related noareas
 :::
 
 :::form
 :::
 
 :::sources
-- [RHS, Pruning hedges](https://rhs.org.uk/plants/types/hedges/pruning-hedges)
-- [GOV.UK, High hedges: complaining to the council](https://www.gov.uk/high-hedges-complaints-to-the-council)
-- Croydon Council's high hedges page, and its [Tree preservation orders](https://www.croydon.gov.uk/environment/trees-and-hedges/tree-preservation-orders) page
-- Anti-social Behaviour Act 2003, Part 8 (legislation.gov.uk)
-- Wildlife and Countryside Act 1981, section 1 (legislation.gov.uk), and RSPB guidance on hedge cutting and nesting birds
-- Highways Act 1980, section 154 (legislation.gov.uk)
-Council pages read on 1 October 2026. This is general information, not legal advice.
+- [Grasslands, When can you cut hedges in the UK](https://www.grasslands.co.uk/blogs/hedging/when-can-you-cut-hedges-uk)
+- [Lichfield District Council, High hedges](https://lichfielddc.gov.uk/trees-new-developments/high-hedges/2)
+- [Havering Council, High hedges and hedgerows](https://havering.gov.uk/planning-3/high-hedges-hedgerows)
+- [Telford and Wrekin Council, Trees blocking a path or road](https://www.telford.gov.uk/environment/trees-hedges-and-woodland/trees-blocking-a-path-or-road)
+- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/treesandlandscape/orders)
+- [Croydon Council, Trees in conservation areas](https://www.croydon.gov.uk/environment/trees-and-hedges/trees-conservation-areas)
+- [Test Valley Borough Council, Household waste duty of care](https://testvalley.gov.uk/wasteandrecycling/household-waste-duty-care)
+This is general information, not legal advice.
 :::

@@ -1,13 +1,9 @@
 ---
 url: /tree-surgeon-addiscombe/
-title: Tree Surgeon Addiscombe CR0 | Tree Removal & Pruning | Free Quote
-description: Local tree surgeon in Addiscombe (CR0): tree removal, pruning, stump grinding and emergency work. East India Estate rules checked first. Free written quote.
-h1: Tree Surgeon in Addiscombe
-lead: Tree work for Addiscombe homes, including the East India Estate Conservation Area. We check protection first and plan access for tight terraces before we arrive. We carry out tree removal, pruning, stump grinding, hedge cutting and emergency tree work across Addiscombe (CR0).
-points:
-  - Conservation area notice checked and planned
-  - Street-by-street tree facts from Croydon Council
-  - Rear access planned for terraces
+title: Tree Surgeon Addiscombe CR0 | Conservation Area Experts
+description: Tree surgeon in Addiscombe, Croydon. East India Estate conservation area rules, tight terrace access, street trees and prices explained. Free quote.
+h1: Tree Surgeon in Addiscombe, CR0
+lead: "Addiscombe is a Victorian and Edwardian neighbourhood of long, narrow back gardens, mature trees and a conservation area with its own rules. That changes what you can do to a tree, how we get to it, and how long it takes. We do tree surgery for Addiscombe homes, from a single pruned cherry to a sectional removal in a terraced garden, and we sort out the paperwork first so you do not have to."
 calc: yes
 area: Addiscombe
 areaName: Addiscombe
@@ -16,89 +12,159 @@ crumb: Addiscombe
 schema: Service|Tree surgeon in Addiscombe|Tree surgery
 ---
 
-## Tree Surgery Services in Addiscombe {chip=Services}
+## The short answers {-}
 
-| Service | What it means in Addiscombe |
+- **Is my road in the conservation area?** Several are. [Check your street](#is-your-road-in-the-east-india-estate-conservati).
+- **Do I need permission?** In a conservation area, six weeks' written notice to Croydon Council before most tree work. [What the notice involves](#what-the-rules-mean-for-your-tree).
+- **Is the tree on the pavement mine?** Almost certainly the council's. [Whose tree is it?](#street-trees-and-front-garden-trees)
+- **Can you get a machine into my garden?** Usually, by planning the route first. [Access in a terrace](#getting-to-a-tree-in-an-addiscombe-terrace).
+- **What does it cost?** Most jobs fall between about £200 and £1,100. [Prices](#what-tree-work-costs-in-addiscombe).
+
+
+## Is your road in the East India Estate Conservation Area?
+
+Croydon Council designated the East India Estate Conservation Area in March 2008, and adopted its appraisal in April 2014. It is laid out as a ladder of six parallel roads.
+
+| Road | In the conservation area? |
 |---|---|
-| [Tree removal in Addiscombe](/tree-removal-croydon/) | Sectional dismantling of mature rear-garden trees in terraces where buildings stand close together, with the East India Estate notice prepared first. |
-| [Tree pruning in Addiscombe](/tree-pruning-croydon/) | Front-garden tree maintenance and reductions away from roofs and walls, with six weeks' notice where the Conservation Area applies. |
-| [Stump grinding in Addiscombe](/stump-grinding-croydon/) | Compact grinders for rear gardens reached through a narrow passage or the house. |
-| [Emergency tree work in Addiscombe](/emergency-tree-surgeon-croydon/) | Make-safe for fallen limbs and trees on fences, sheds and neighbouring roofs. |
-| [Hedge cutting in Addiscombe](/hedge-cutting-croydon/) | Front and boundary hedges cut back from the pavement edge, with a nest check from March to August. |
-| [Tree surveys in Addiscombe](/tree-surveys-croydon/) | Health and safety reports, and reports for extensions, house purchases and insurers. |
-| [Trees near buildings in Addiscombe](/trees-near-buildings-croydon/) | Trees over roofs and conservatories, and roots near walls and drains. |
+| Canning Road | Yes, the full road |
+| Clyde Road | Yes, the full road |
+| Elgin Road | Yes, the full road |
+| Havelock Road | Yes, the full road |
+| Outram Road | Yes, the full road |
+| Ashburton Road | Yes, the full road |
+| Mulberry Lane | Yes |
+| Addiscombe Road and Lower Addiscombe Road | **Only in part** |
 
-## Is your tree protected? Rules in Addiscombe {chip=Is my tree protected?}
+If you live on a different road, or on part of Addiscombe Road, **check the council's boundary map or ring Croydon's planning team before assuming either way**. Nine more areas across the borough are under review, and boundaries can change.
 
-The East India Estate Conservation Area, designated in March 2008, lies between Addiscombe Road and Lower Addiscombe Road. Its streets are Canning Road, Clyde Road, Elgin Road, Havelock Road (with Mulberry Lane), Outram Road and Ashburton Road, plus parts of Lower Addiscombe Road and Addiscombe Road. Croydon Council's appraisal says conservation area status gives protection to trees within the boundary. You must give six weeks' written notice before work, with fines of up to £20,000 for cutting down a tree without consent and up to £2,500 for pruning one.
 
-The council has also recognised local heritage areas, such as the Addiscombe College Estate (Inglis Road, Nicholson Road and part of Grant Road), and Addiscombe Recreation Ground is on its local list; these are heritage records, not conservation areas. A proposed Whitgift Estate conservation area just east of the town centre has been consulted on; check whether it has been designated. See the [conservation area guide](/guides/conservation-area-tree-work-croydon/).
+## What the rules mean for your tree
 
-## Common trees in Addiscombe {chip=Common trees}
+Inside a conservation area, trees are protected much like trees under a Tree Preservation Order, even if no TPO has been served.
 
-The council's appraisal records oak, cedar, birch, holly, yew, beech and fir, with street trees forming avenues along many roads. Road by road:
+- **Six weeks' written notice** goes to Croydon Council before most pruning or felling. The council can respond by granting consent, proposing a TPO, or raising no objection.
+- **There is no application fee.**
+- **Dead trees and immediate dangers** have different rules. See our guide to [conservation area tree work](/guides/conservation-area-tree-work-croydon/).
+- **Fines** for unauthorised work can reach £20,000 for felling and £2,500 for pruning, according to Croydon Council.
 
-| Street | What the appraisal says |
+We prepare and send the notice for you with a photograph, the work described in plain terms, and the reason. A notice that is clear and specific usually goes through more smoothly than a vague one.
+
+**What the council's appraisal says about trees.** It describes oak, cedar, birch, holly, yew, beech and fir, with several mature rear-garden trees visible from The Narrows. It records tree removal without replacement as one of the area's problems, so a removal that comes with a replacement is easier to justify. See [tree preservation orders](/guides/tree-preservation-orders-croydon/) for how a TPO differs.
+
+
+## Street trees and front garden trees
+
+The appraisal names some of the street trees by road:
+
+| Road | What the council's appraisal records |
 |---|---|
-| Clyde Road | Continuous tree lines of pollarded lime |
-| Havelock Road | Distinctive cherry trees; some street trees, unevenly spread |
-| Outram Road | Tree lines present but not continuous; large trees in front gardens |
-| Canning Road | Only four street trees, but many trees on private land |
-| Ashburton Road | Street trees and abundant greenery |
-| Elgin Road | Lacks street trees, especially at the northern end |
-| Addiscombe Road | Mature greenery and trees in front gardens |
+| Clyde Road | A continuous line of pollarded lime trees |
+| Havelock Road | Cherry trees as a distinctive species |
+| Ashburton Road | Street trees and a notably green setting |
+| Outram Road | Patchy street trees, with large front-garden trees adding to the street |
+| Canning Road | Only four street trees, outside numbers 34 to 36 |
+| Elgin Road | Few street trees, especially at the north end |
 
-When the East India Company ran its military academy here (1809 to 1858), a woodland known as The Wilderness included elm, lime, oak, walnut, ash, beech, chestnut, fir, hornbeam and sycamore. That is history, not today's trees. Trees on the pavement are usually the council's.
+**A tree on the pavement is almost certainly Croydon Council's,** so do not cut or prune it yourself. Report problems through the council's Love Clean Streets app. **A tree in your front garden is yours,** even though it adds to the street, and the conservation area rules still apply to it. The appraisal asks owners to keep front-garden trees and boundary walls where possible, so be prepared for the council to ask about replacement planting.
 
-Maps and records describe public sites and one or two documented areas, not every garden. Check your own tree with the council.
 
-## Typical tree jobs in Addiscombe {chip=Typical jobs}
+## Getting to a tree in an Addiscombe terrace
 
-These follow from the area's setting.
+The council's appraisal gives typical plots as about 15 m wide for detached houses, 10 m for semi-detached and 5 m for terraces, with depths of 40 to 50 m. That makes for long, narrow back gardens, often with no side access, and a tree that may be 30 m or more from the road.
 
-| Typical job | Why it comes up here | Rule to check first |
-|---|---|---|
-| Pruning a front-garden tree | The appraisal recommends regular maintenance of front-garden trees | Six weeks' notice |
-| Work on a mature rear-garden tree | Mature trees visible from The Narrows | Notice or TPO |
-| Cutting back trees against walls and roofs | Buildings stand 1.5 to 3.5 metres apart | As above |
-| Replacing a lost tree | The appraisal notes tree loss and encourages planting | Conservation area rules |
+What that means in practice:
 
-## Access, parking and neighbours {chip=Access and parking}
+- **Through the house.** Many terrace jobs go through the property. We protect floors and carry chippers and logs by hand, so expect it to take longer.
+- **Sectional dismantling.** Trees are taken down in pieces and lowered on ropes, rather than felled whole.
+- **Tracked machines.** Narrow stump grinders and small chippers fit through many side gates. Measure your narrowest point and send it with photos.
+- **A larger tree over several gardens.** We may need to work from a neighbour's side with their permission, or use a platform.
+- **Pictures help.** A photo from the back door, and one from the street, let us plan the crew and equipment before we visit.
 
-The appraisal describes a ladder of six parallel roads with gaps of only 1.5 to 3.5 metres between buildings and gardens 40 to 50 metres deep. A path called The Narrows runs behind the street-facing houses and is described as pedestrian only, so large equipment cannot simply be driven to the back. Rear access is planned before the visit, whether through a side gap or by hand-carried kit.
 
-If a vehicle or chipper needs road space, Croydon Council offers a dispensation to park on yellow lines while work is carried out, or a suspension of a parking bay. It asks for at least five working days' notice, payment first and a separate licence for a skip on the road. Check current fees on the council's page.
+## Parking and the street
 
-Tell us if a tree is on a boundary or overhangs next door. You may be able to cut branches back to the boundary but not beyond it, and cuttings should be offered back. Work only goes ahead with the tree owner's consent.
+Most Addiscombe roads have controlled parking. A van, chipper or tipper outside your house may need a **parking bay suspension or dispensation from Croydon Council**, and Croydon asks for **at least 10 working days' notice**, with payment taken before the request is actioned. Fees at the time of writing start from £35 per bay per day for residents (£46 in the central zone), plus a £46 admin charge, so we build this into the plan and the quote.
 
-## The Addiscombe tree data {chip=The local data}
+If a crane or platform is on the highway, Croydon needs a separate licence. See [tree removal](/tree-removal-croydon/).
 
-:::facts
-Mar 2008|East India Estate Conservation Area designated
-3 + 57|statutorily listed and locally listed buildings in it
-12.5 m|typical street width including footways
+
+## Tree work we do in Addiscombe
+
+- [**Tree removal**](/tree-removal-croydon/): sectional dismantling in tight gardens.
+- [**Tree pruning**](/tree-pruning-croydon/): lifting, thinning and reductions, with a plan that suits the conservation area notice.
+- [**Stump grinding**](/stump-grinding-croydon/): narrow-access machines.
+- [**Hedge cutting**](/hedge-cutting-croydon/): front hedges, boundary hedges and leylandii.
+- [**Tree surveys**](/tree-surveys-croydon/): for a purchase, an insurer or a planning application.
+- [**Trees near buildings**](/trees-near-buildings-croydon/): roofs, glass, roots and drains.
+- [**Emergency tree work**](/emergency-tree-surgeon-croydon/): fallen and dangerous trees.
+
+
+## What tree work costs in Addiscombe
+
+These are guide prices for Croydon, not a quote for your tree.
+
+| Job | Guide price |
+|---|---|
+| Light prune, small tree | £200 to £300 |
+| Crown lift, thin or reduction, medium tree | £250 to £500 |
+| Removal, small tree | £250 to £450 |
+| Removal, medium tree | £300 to £600 |
+| Removal, medium-large tree | £550 to £1,100 |
+| Removal, large tree, tight access or over a building | £1,100 to £3,900+ |
+| Stump grinding, per stump | £120 to £700 |
+
+**Why a terrace can cost more:** carrying everything by hand, no vehicle access, and sectional rigging. **What can add to the bill:** a parking suspension, a crane or platform, and waste removal. The [cost calculator](/tree-surgery-cost-calculator/) gives a starting range.
+
+
+## Neighbours and boundaries
+
+Gardens here are close together, so most trees touch someone else's boundary. You can usually cut branches that overhang your land back to the boundary, but not beyond it, and the wood belongs to the tree's owner. In a conservation area that rule does not remove the need for notice. Talk to your neighbour before work starts. See our homepage notes on [whose tree it is](/#whose-tree-is-it-neighbours-council-and-landlords).
+
+:::faq Tree Surgeon in Addiscombe, CR0: frequently asked questions
+### How much does a tree surgeon cost in Addiscombe?
+Most jobs run from about £200 to £1,100. Large trees in tight gardens can pass £3,900.
+
+### Is Addiscombe a conservation area?
+Parts of it are. The East India Estate Conservation Area covers Canning, Clyde, Elgin, Havelock, Outram, Ashburton and Mulberry Lane, and parts of Addiscombe Road and Lower Addiscombe Road.
+
+### Do I need permission to prune a tree in the East India Estate Conservation Area?
+You need to give Croydon Council six weeks' written notice before most pruning or felling. There is no fee, and we prepare the notice for you.
+
+### What happens if I cut a tree without notice?
+Croydon says fines can reach £20,000 for felling and £2,500 for pruning a protected tree without consent.
+
+### The tree on my pavement is dropping branches. Who do I call?
+The council. Report it through the Love Clean Streets app. Ring 999 if it is blocking the road or in immediate danger.
+
+### Can you get into a terraced house back garden?
+Usually. We work through the house if there is no side access, carry everything by hand, and use narrow machines where a gate allows.
+
+### Do I need a parking suspension for the van?
+Often, on controlled-parking roads. Croydon asks for at least 10 working days' notice, and we include it in the plan.
+
+### Can you remove a tree in a conservation area quickly?
+Not usually, because of the notice period. If a tree is dangerous, different rules apply, and we will tell you what to do.
+
+### Will I have to plant a replacement?
+The council may ask for one, because the appraisal records tree loss as a problem. We will tell you if it does.
+
+### Do you cover all of CR0?
+We cover the London Borough of Croydon, including Addiscombe. If you are unsure which area you are in, ring us.
+
+### Do you do emergency tree work in Addiscombe?
+We work Monday to Saturday, 8am to 6pm, and tell you honestly how fast we can attend. Outside those hours, see the emergency numbers on our [emergency page](/emergency-tree-surgeon-croydon/).
 :::
-
-The appraisal was adopted at full Council on 24 April 2014, so check the current boundary. Local heritage areas such as the Addiscombe College Estate are not conservation areas.
-
-London's tree canopy cover is 19.6% (GLA Tree Canopy Cover 2024, mainly 2022 data, ±0.3%). Ward-level figures are modelled estimates; see the [GLA dataset](https://data.london.gov.uk/dataset/tree-canopy-cover-2024-2w4m3).
-
-## How Much Does Tree Surgery Cost in Addiscombe? {chip=Cost}
-
-Tree surgery in Addiscombe typically costs {{p.most}} for most jobs, and {{p.large}} for large trees, depending on the job, the tree and the access. Terrace gardens usually mean rear access and hand-carrying, which adds time, so we confirm access at the site visit. Use the [cost calculator](/tree-surgery-cost-calculator/) for a guide price, then get a fixed written quote after we've seen the job. See the [cost guide](/guides/tree-removal-cost-croydon/) for what changes the price.
-
-## Why Addiscombe Homeowners Choose Us {chip=Why choose us}
-
-+ We prepare and submit the East India Estate conservation area notice for you.
-+ **Fully insured** with {{insurance}} public liability cover.
-+ **NPTC/LANTRA qualified** climbers and groundworkers.
-+ **Clear, itemised written quotes** after a free, no-obligation site visit.
 
 :::cta
-Get a quote in Addiscombe
-Tell us the job and your road. We check protection first, then send a written quote.
-Get my free quote | #calculator
+Get a free quote in Addiscombe
+Tell us your road, the tree and how we get to it. Photos from the back door and the street help. Call {{phone}}, Mon to Sat, 8am to 6pm.
+Get your quote | #calculator
 :::
+
+## Nearby areas we cover {-}
+
+[Shirley](/tree-surgeon-shirley/) · [Thornton Heath](/tree-surgeon-thornton-heath/) · [Norbury](/tree-surgeon-norbury/) · [South Croydon](/tree-surgeon-south-croydon/) · [Crystal Palace and Upper Norwood](/tree-surgeon-crystal-palace/) · [All areas](/areas/)
 
 :::chips
 ### Services in Addiscombe
@@ -117,38 +183,14 @@ Get my free quote | #calculator
 - Norbury | /tree-surgeon-norbury/
 :::
 
-:::faq Tree Surgeon in Addiscombe: FAQs
-### How much does a tree surgeon cost in Addiscombe?
-Typically {{p.most}} for most jobs, and {{p.large}} for large trees, depending on the job, the tree and the access. Terrace gardens usually mean rear access and hand-carrying, which adds time, so we confirm access at the site visit. You get a fixed written quote after we've assessed the tree.
-
-### Am I in the East India Estate Conservation Area?
-It covers Canning, Clyde, Elgin, Havelock, Outram and Ashburton roads and parts of Lower Addiscombe Road and Addiscombe Road. Check your exact address with the council.
-
-### Who looks after the street trees outside my house?
-Street trees are usually the council's. Report problems to the council rather than working on them yourself.
-
-### Can you reach my back garden in a terrace?
-Access is planned before the visit, through a side gap or with hand-carried kit. We do not promise access to a property before seeing it.
-
-### Do you cover Addiscombe and CR0?
-Yes. We cover Addiscombe and the CR0 postcode.
-
-### Do you offer an emergency tree surgeon in Addiscombe?
-Yes. We respond to emergencies, Monday to Saturday, 8am to 6pm. Call {{phone}} and we'll tell you honestly how quickly we can attend. We make the area safe first, including trees on fences, sheds and neighbouring roofs. See [emergency tree work](/emergency-tree-surgeon-croydon/).
-
-### Can you remove a large tree from a small terrace garden in Addiscombe?
-Yes. Sectional dismantling lets a climber take the tree down in pieces and lower them under control, without needing space to fell it whole. Rear access through the house or a narrow passage is planned at the site visit. See [tree removal](/tree-removal-croydon/).
-:::
-
 :::form
 title: Get a tree surgery quote in Addiscombe
 :::
 
 :::sources
-- [Croydon Council, East India Estate Conservation Area Appraisal and Management Plan](https://www.croydon.gov.uk/sites/default/files/Planning/Conservation%20areas/East%20India%20Estate%20CAAMP.pdf) (adopted 24 April 2014)
-- [Local heritage area review, part 2](https://www.croydon.gov.uk/sites/default/files/2022-01/local-heritage-area-review-part-2.pdf) and [part 3](https://www.croydon.gov.uk/sites/default/files/2022-01/local-heritage-area-review-part-3.pdf)
+- [Croydon Council, East India Estate Conservation Area appraisal and management plan](https://www.croydon.gov.uk/sites/default/files/Planning/Conservation%20areas/East%20India%20Estate%20CAAMP.pdf)
+- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/treesandlandscape/orders)
 - [Croydon Council, Trees in conservation areas](https://www.croydon.gov.uk/environment/trees-and-hedges/trees-conservation-areas)
-- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/trees-and-hedges/tree-preservation-orders)
-- [Croydon Council, How to get parking restrictions suspended](https://www.croydon.gov.uk/parking/parking-restrictions/how-get-parking-restrictions-suspended)
-Council pages read on 1 October 2026. This is general information, not legal advice.
+- [Croydon Council, Parking suspensions](https://www.croydon.gov.uk/parking/parking-restrictions/how-get-parking-restrictions-suspended)
+This is general information, not legal advice. Confirm the protection status of your own tree with the council.
 :::

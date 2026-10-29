@@ -1,15 +1,12 @@
 ---
 url: /tree-surveys-croydon/
-title: Tree Survey Croydon | Health, Safety & BS 5837
-description: Tree surveys in Croydon: tree health and safety inspections, risk assessments, and BS 5837 planning surveys. Written report, plain-English summary and honest advice.
+title: Tree Survey Croydon | Health, Safety & BS 5837 Reports
+description: Tree surveys in Croydon from £260: health and safety, BS 5837 planning, subsidence and house-purchase reports explained in plain English. Free quote.
 h1: Tree Surveys in Croydon
-lead: Worried about a tree's health, building near trees, or buying a house with large trees in the garden? We carry out tree surveys across Croydon for homeowners, landlords, buyers and property managers, with a written report and a plain-English summary on the first page. We're upfront about the limits: we say plainly what a tree surgeon's survey can cover, and when a planning application needs a specialist arboricultural consultant.
-points:
-  - The right survey for your reason, not the dearest one
-  - Written report with a plain-English summary
-  - Honest about limits, and about when to call a specialist
+lead: 'People ask for a tree survey for four very different reasons: "will that tree fall on my house?", "the council wants a report with my planning application", "my insurer is blaming a tree for cracks" and "I''m buying a house with a huge tree next to it". Each needs a different survey, a different report and a different price. We carry out tree surveys across the London Borough of Croydon and tell you plainly which one you need, and when you don''t need one at all.'
 image: /images/services/tree-survey.jpg
 imageAlt: Arborist surveying a tree beside a garden building with a laser scanner and tablet
+cta2: Send us photos|/contact/
 parent: Services|/services/
 crumb: Tree surveys
 schema: Service|Tree surveys in Croydon|Tree survey
@@ -21,220 +18,192 @@ related:
   - /guides/tree-removal-cost-croydon/
 ---
 
-## Which Tree Survey Do You Need? {chip=Which survey?}
+## The short answers {-}
 
-"Tree survey" can mean several different things. The right one depends on why you want it.
+- **What does it cost?** From £260 for a single-tree health and safety inspection, and from £460 for a BS 5837 planning survey on a small residential plot. Larger sites are quoted individually. [The cost table](#what-a-tree-survey-costs-in-croydon).
+- **Do I need one for planning?** Often, if there is a tree on or near your site, including a neighbour's. Croydon's validation list decides. [BS 5837 explained](#tree-surveys-for-planning-bs-5837).
+- **Can a survey tell me a tree is safe?** It tells you the condition and risk today, not that it will never fail. [What a survey can and cannot do](#what-a-survey-can-and-cannot-tell-you).
+- **Do I have to use you for the work?** No. [Our approach](#who-should-carry-out-a-tree-survey).
 
-| Your situation | Survey you probably need | What it covers |
+
+## Which tree survey do you need?
+
+| Your situation | The survey | What you get |
 |---|---|---|
-| Worried about a tree's health or whether it is safe | Tree health and safety survey (tree risk assessment) | Condition, visible defects and risks, and recommended work or monitoring |
-| You own or manage several trees, a site or a rental property | Regular inspection programme | Periodic inspections with a record of findings and actions |
-| Building or extending near trees | BS 5837 tree survey, often with an impact assessment and protection plan | Records the trees and how the design affects them, for planning |
-| Applying to work on a protected tree | Tree report to support the application | The tree's condition and the reasons for the work |
-| Cracks in a wall, an insurer or a subsidence claim | Arboricultural report on tree and building | Whether a tree is likely to be involved, and what to do |
-| Buying or selling a property with large trees | Tree report for a property transaction | The tree's condition and its relationship to the building |
+| "Is this tree safe?" | **Health and safety inspection** | A condition and risk rating, with recommended work and timescales |
+| Building an extension, driveway, patio or new house near trees | **BS 5837 planning survey** | A tree schedule and plan to go with your planning application |
+| Cracks in walls and a tree nearby | **Arboricultural report for a subsidence claim** | Evidence on the tree, to sit alongside an engineer's report |
+| Buying or selling a house with large trees | **Property transaction report** | A view on condition, protection status and likely future cost |
+| A protected tree you want to work on | **Report to support a TPO or conservation area application** | A clear description of the work and why it is needed |
+| Managing several properties, a block or a site | **Regular inspection programme** | Trees checked on a schedule, with a record |
 
-### What a Survey Can and Cannot Tell You
-Most tree surveys are carried out from ground level by visual inspection, so they are a snapshot of what can be seen. A BS 5837 planning survey is not a tree risk assessment, and the two answer different questions. No survey can guarantee that a tree will never fail.
 
-## How Much Does a Tree Survey Cost in Croydon? {chip=Cost}
+## What a tree survey costs in Croydon
 
-A tree survey in Croydon typically starts from {{p.other.surveyFrom}} for a single-tree health and safety inspection and from {{p.other.bs5837Plain}} for a BS 5837 planning survey, rising with the purpose, the number of trees and the level of reporting.
+These are guide prices, not a quote for your trees.
 
-| Survey | Indicative cost |
+| Survey | Guide price |
 |---|---|
-| Single tree health and safety inspection with short report | {{p.other.survey}} |
-| Several trees on one property, with schedule | Quoted per site, rising with the number of trees |
-| Ongoing inspection programme (landlords, managing agents) | Quoted per site |
-| BS 5837 tree survey for a small residential plot | {{p.other.bs5837}} |
-| Impact assessment, protection plan or method statement | Additional, quoted per site |
-| Tree report to support a TPO or conservation area application | Quoted per site |
-| Urgent reports | Typically higher |
+| Single-tree health and safety inspection with a short report | From £260 |
+| BS 5837 planning survey, small residential plot | From £460 |
+| Larger sites, several trees, impact assessments, subsidence or property reports | Quoted per site |
+| Urgent turnaround | Costs more |
 
-These are guide figures. After we've seen the trees, you get a fixed written quote. See the [cost guide](/guides/tree-removal-cost-croydon/).
+For scale, one planning-data site puts a basic BS 5837 survey for a small domestic plot at £295 to £760 and a fuller planning package at £400 to £1,500 or more. The difference is how many trees there are and what documents the council asks for.
 
-| What affects the price | Why it matters |
-|---|---|
-| Purpose of the survey | Health and safety, planning and property reports each need different work |
-| Number and size of trees | More or larger trees take longer |
-| Level of reporting | A summary report costs less than a full schedule, plans and assessment |
-| Planning documents | An impact assessment, protection plan or method statement are extra |
-| Detailed testing | Aerial inspection or decay testing adds to the work |
-| Deadlines | Urgent reports may cost more |
-| Follow-up work | Any tree work recommended is priced separately |
+**What changes the price:** the number of trees, access, whether neighbouring trees must be included, whether specialist testing is needed, and how fast you need the report.
 
-## Warning Signs a Tree Needs Checking {chip=Warning signs}
+**What to ask any surveyor:** who writes and signs the report, what qualifications they hold, whether the price covers the plan or only the schedule, and how long the report takes. Our reports usually arrive within five working days for a health and safety inspection, and a site visit for a single property usually takes under an hour.
 
-You don't need a survey for every tree. But these signs are worth having looked at, especially near a house, road, play area or boundary.
 
-| What you see | What it may mean |
-|---|---|
-| Fungus (brackets, mushrooms) at the base or on the trunk | Decay in the roots or wood |
-| Dead branches, thinning crown, early leaf drop | Stress, disease or root problems |
-| Cracks, splits or a large cavity in the trunk | Structural weakness |
-| Sudden or new lean, or soil heaving at the base | Root failure; keep clear and get advice |
-| Branches rubbing or two stems with bark squeezed between them (included bark) | A weak union that can split |
-| Bark peeling, oozing or bleeding | Disease; common causes include bleeding canker on horse chestnut |
-| Previous topping or heavy cutting | Weak regrowth that can break |
-| Ash with dieback in the crown | Ash dieback; see our [ash dieback guide](/guides/ash-dieback-croydon/) |
-| Cracks in nearby walls, sticking doors, or damaged drains | Possible root or subsidence issue; see below |
+## What a survey can and cannot tell you
 
-If a tree is leaning, uprooting or has already failed in part, treat it as urgent. See [emergency tree work](/emergency-tree-surgeon-croydon/).
+A standard inspection is a visual check, mostly from the ground, looking at the roots, base, trunk and crown for defects. If something needs a closer look, further tests exist: aerial inspection, a sounding mallet, resistance drilling and sonic tomography. Risk is then rated with a recognised method such as QTRA or VALID.
 
-## How We Inspect a Tree {chip=How we inspect}
+What it cannot do is promise that a tree will never fail. A healthy tree can come down in extreme weather, and a survey is a record of condition on the day. That is why the report gives a recommended re-inspection date.
 
-| Level | What it involves | Best for |
+
+## Are you responsible for your trees?
+
+If a tree is on your land, you have a duty of care to take reasonable care that it does not harm others. A householder without a business interest is not covered by the Health and Safety at Work Act, but the civil duty still applies.
+
+- **There is no fixed legal inspection interval.** The aim is to check for obvious defects, review regularly, and do more where a failing tree could hurt many people or damage valuable things.
+- **If you are not confident spotting defects, get a competent person to look.** A trained arborist is one.
+- **Keep a simple record:** the area checked, the date and who checked it.
+
+This is general information, not legal advice. For the warning signs to look out for, see our [homepage guide](/#a-tree-down-or-dangerous-right-now) and the [storm-damaged tree guide](/guides/storm-damaged-tree-who-is-responsible/).
+
+
+## Tree surveys for planning: BS 5837
+
+BS 5837 is the British Standard for trees in relation to design, demolition and construction. It is guidance, not law, but councils make it effectively compulsory by writing it into their planning validation lists.
+
+**What the survey grades.** Each tree is given a category, and the report shows how much of a constraint it is on your plans.
+
+| Category | Meaning | Remaining contribution |
 |---|---|---|
-| Ground-level visual inspection | A walk-round assessment of the crown, trunk, root collar and ground, using recognised visual tree assessment methods | Most homeowner and landlord surveys |
-| Detailed inspection | Closer examination of a specific defect, which can include aerial inspection from a climber, a sounding mallet or decay-detection equipment such as resistance drilling or sonic tomography | A tree with a known or suspected defect, or a valuable tree |
-| Monitoring | Repeat inspections to track a defect or condition over time | Trees you want to keep but that need watching |
+| **A** | High quality, worth retaining | About 40+ years |
+| **B** | Moderate quality, retention desirable | About 20+ years |
+| **C** | Low quality, a minor constraint | About 10+ years |
+| **U** | Unsuitable for retention: dead, dying or dangerous | Under about 10 years |
 
-We rate risk using a recognised, structured approach (for example QTRA or VALID) so the report gives a clear, comparable result rather than a gut feeling.
+**The root protection area.** The area around a tree that must be protected is a circle whose radius is 12 times the stem diameter, measured at 1.5 m above ground, up to a maximum of 15 m. A 450 mm stem gives a radius of 5.4 m. Foundations, driveways, drains and utility runs inside that circle are where schemes go wrong.
 
-## Tree Surveys for Planning Applications (BS 5837) {chip=Planning surveys (BS 5837)}
+**The documents.** A planning submission may include some or all of: the tree survey and schedule, a tree constraints plan, an arboricultural impact assessment, a tree protection plan and an arboricultural method statement.
 
-If you're building, extending or changing a driveway near trees, the council may expect a tree survey with your application. The standard used is British Standard 5837:2012, *Trees in relation to design, demolition and construction*. Croydon Council's local validation list sets the exact requirements, and trees on neighbouring land can count too.
+**When you need one.** Usually when:
 
-| Document | What it does |
-|---|---|
-| Tree survey and schedule | Records each tree: species, size, condition, category and root protection area |
-| Tree constraints plan | Shows trees and root protection areas on the site so the design can respond |
-| Arboricultural impact assessment | Sets out how the layout affects the trees |
-| Tree protection plan | Shows fencing and ground protection during construction |
-| Method statement | Explains how work near trees will be done |
+- a tree is on your site or overhangs it,
+- a tree's protection area reaches the works, including a driveway, patio or drain,
+- a neighbour's or street tree is close enough to be a constraint, or
+- the tree has a TPO or is in a conservation area.
 
-### Tree Categories
+An extension on the far side of the house from any tree usually does not need one.
 
-| Category | Meaning |
-|---|---|
-| A | High quality, remaining life of at least 40 years |
-| B | Moderate quality, at least 20 years |
-| C | Low quality, at least 10 years, or young trees with a stem under 150mm |
-| U | Cannot realistically be kept for more than 10 years |
+**Croydon.** The requirement comes from Croydon Council's validation list. A planning application without the arboricultural information it asks for is normally returned as invalid, not refused, and you can usually fix it and resubmit. Common reasons are no survey at all, a tree list with no impact assessment, neighbouring trees ignored, and a report that does not follow BS 5837 or was not written by a suitably qualified person. There is no fixed expiry for a survey, but many councils expect one carried out within the last 12 to 24 months.
 
-### How Big Is the Root Protection Area?
-The root protection area (RPA) is the ground around a tree that must be protected during building work. For a single-stem tree, BS 5837 calculates its radius as 12 times the trunk diameter, measured at 1.5m above ground, up to a maximum radius of 15m. So a tree with a 60cm trunk has an RPA radius of about 7.2m, which is often well beyond a typical garden boundary. That's why a tree in a neighbour's garden can still limit your extension.
 
-### Who Can Sign Off a Planning Survey?
-For planning documents, councils generally expect the work to be done by a suitably qualified arboriculturist. For BS 5837 planning surveys we work with an independent arboricultural consultant. Either way, we'll say plainly whether your job needs a specialist.
+## Tree surveys for subsidence and insurance claims
 
-## Tree Surveys for Landlords, Managing Agents and Property Owners {chip=Landlords and agents}
+Cracks near a tree make people think of the tree first. A tree report is one piece of evidence, not the whole case.
 
-If you own or manage land with trees, you have a duty to take reasonable care that they don't injure people or damage property. This comes from the Occupiers' Liability Acts 1957 and 1984, the Health and Safety at Work Act and the common law of negligence. There's no fixed legal inspection frequency. The standard is a reasonable, proportionate approach: more frequent checks for larger trees near roads, paths, car parks, buildings and play areas.
+- **A tree report alone is rarely enough.** Insurers usually also want a structural engineer's report and monitoring.
+- **Clay is the problem.** Across much of London the ground is clay that shrinks in dry spells as roots draw water. Removing a large tree can cause the opposite, heave, so do not take one out without advice from your insurer or engineer. See [trees near buildings](/trees-near-buildings-croydon/).
+- **Expect an excess.** Insurers' subsidence excesses are often £1,000 or more.
+- **Check protection first.** If the tree has a TPO or is in a conservation area, you still need consent or notice, even for subsidence. See below.
 
-A sensible approach has three parts:
 
-+ A tree record showing where the trees are, what they are and their condition
-+ Regular inspections, commonly every one to three years depending on risk, and after major storms
-+ A written record of what was found and what was done
+## Buying or selling a house with big trees
 
-This follows the principles in the National Tree Safety Group's guidance, *Common sense risk management of trees*. We can set this up for rental properties, blocks, housing associations, schools, churches and commercial sites, and provide a report to pass to the owner, freeholder or insurer.
+Large trees add value, and they add cost. Before you exchange, a survey can tell you:
 
-## Tree Surveys for Subsidence, Cracks and Insurance Claims {chip=Subsidence and insurers}
+- whether the trees are protected, which affects what you can do after you move in,
+- whether they are in poor condition and may need removing or pruning soon,
+- how close they are to the building, and what that means for insurance, and
+- whether a conservation area covers the property.
 
-Cracks in walls, sticking doors or damaged drains near a tree can have several causes. Broadly, northern Croydon (Norbury, Thornton Heath, Upper Norwood and Crystal Palace) sits on clay soil that shrinks in dry weather, while the southern hills (Purley, Kenley, Coulsdon, Sanderstead and Selsdon) sit on chalk. Clay-soil subsidence claims often involve nearby trees, but proving it takes evidence.
+If you are selling, an up-to-date report removes a common point of doubt for a buyer.
 
-A tree report in these cases typically covers the tree's species, size, distance from the building and likely root influence, alongside the structural engineer's findings and any monitoring and soil data. Don't remove a large tree near a building until your insurer or a structural engineer has advised, because removal can sometimes make things worse as the clay swells back. See [trees near buildings](/trees-near-buildings-croydon/).
 
-## Tree Surveys When Buying or Selling a House {chip=Buying or selling}
+## Protected trees
 
-Large trees near a property can affect a sale, a mortgage valuation or insurance. A tree report can help if:
+A survey does not give you permission to cut. If the tree has a TPO, Croydon Council's consent is needed before pruning or felling, and there is currently no application fee. In a conservation area, the council needs six weeks' written notice. Fines of up to £20,000 apply for felling a protected tree without permission, and up to £2,500 for pruning one.
 
-+ Mature trees stand close to the house, drains or boundary walls
-+ The survey, valuer or insurer has mentioned trees
-+ You're planning an extension, driveway or garden building after you buy
-+ The trees may be protected by a TPO or sit in a conservation area (many roads in Upper Norwood, South Croydon and Purley do)
+A survey helps because the council needs to know exactly what you want to do and why. See [tree preservation orders](/guides/tree-preservation-orders-croydon/) and [tree work in a conservation area](/guides/conservation-area-tree-work-croydon/). We check protection for every quote.
 
-We can check the protection status as part of the report. Most buyers use it to decide on the price, the work needed or whether to proceed.
 
-## What a Tree Survey Report Includes {chip=What the report includes}
+## What a tree survey report includes
 
-| Section | What it tells you |
-|---|---|
-| Plain-English summary | The key findings and what to do next, on the first page |
-| Tree schedule | Reference, species, height, stem diameter, age class and condition |
-| Observations | Visible defects and health, with photos |
-| Risk and recommendations | What work, if any, is advised and how urgently |
-| Protection status | Whether each tree has a TPO or is in a conservation area |
-| Site plan | Where each tree is, numbered to match the schedule |
-| Re-inspection advice | When to look at the trees again |
-| Limits of the survey | What was and was not inspected, and the date |
+- A plain-English summary on the first page.
+- A schedule of each tree: species, height, stem diameter, condition and risk rating.
+- Photographs and, for planning work, a plan.
+- Recommended work, prioritised, with timescales.
+- A re-inspection date.
+- Whether the tree is protected.
 
-Your report is yours to keep. You're free to take it to other contractors for quotes, and we'll give honest advice even where the recommended work is minimal or nothing at all. Turnaround: usually within 5 working days.
 
-## Who Should Carry Out a Tree Survey? {chip=Choosing a surveyor}
+## Who should carry out a tree survey?
 
-Look for a surveyor with relevant qualifications such as the Level 4 Diploma in Arboriculture, a professional tree inspection certificate and professional membership, plus professional indemnity and public liability insurance. Ask to see them. Ask for a sample report, and ask how they keep advice objective if they also carry out the work. See [how to choose a tree surgeon](/guides/how-to-choose-a-tree-surgeon/).
+Look for a surveyor with a recognised arboriculture qualification (for example a Level 4 Diploma), professional membership, a professional tree inspection certificate, and professional indemnity and public liability insurance. Ask for the name of whoever signs the report.
 
-## Protected Trees and Your Property {chip=Protected trees}
+**Our approach.** We carry out health and safety inspections ourselves. For BS 5837 planning surveys that need independent sign-off, we work with an independent arboricultural consultant. Wherever a survey recommends work, we price it separately. You do not have to use us to carry it out, and a good report should leave you free to get other quotes. The Arboricultural Association's register of consultants is a place to find independent advice.
 
-### Check Protection First
-Croydon Council says a tree preservation order (TPO) stops visually important trees being removed or pruned without formal permission, and that you must give six weeks' written notice before work to a tree in a conservation area. Fines of up to £20,000 can follow for cutting down a protected tree without permission, and up to £2,500 for pruning one. We check both as part of every survey. [TPO guide](/guides/tree-preservation-orders-croydon/) and [conservation area guide](/guides/conservation-area-tree-work-croydon/).
-
-Croydon Council says it is often helpful to get professional advice when completing a tree works application, which is where a tree report can help. A report that sets out the tree's condition, the reasons for the work and a precise description of the pruning or removal gives your application the best chance of being validated first time. If you think a tree is affecting your building, the council advises consulting your insurer, an arboricultural consultant or a structural engineer.
-
-## Tree Surveys Across Croydon {chip=Areas}
-
-We carry out tree surveys across the borough, including {{areaLinks}} ({{postcodes}}).
-
-:::faq Tree Survey FAQs
+:::faq Tree survey Croydon: frequently asked questions
 ### How much does a tree survey cost in Croydon?
-A tree survey in Croydon typically starts from {{p.other.surveyFrom}} for a single-tree health and safety inspection and from {{p.other.bs5837Plain}} for a BS 5837 planning survey, rising with the purpose, the number of trees and the level of reporting. You get a fixed written quote after we've seen the trees.
+From £260 for a single-tree health and safety inspection and from £460 for a BS 5837 planning survey on a small residential plot. Larger sites are quoted individually. Use the [calculator](/tree-surgery-cost-calculator/) for a starting figure.
 
 ### Do I need a tree survey for planning permission in Croydon?
-If your works could affect a tree on or near the site, the council may expect one. Requirements are set in the council's local validation list, so check it or ask us.
-
-### What is a BS 5837 tree survey?
-A survey to British Standard 5837:2012. It records the trees on and near a site, gives each a category (A, B, C or U) and shows root protection areas so the design can respond.
+Usually if a tree is on or near your site, including a neighbour's tree whose roots reach your works, or if the tree is protected. Croydon's validation list decides.
 
 ### What is the difference between a BS 5837 survey and a health and safety survey?
-A BS 5837 survey supports design and planning. A health and safety survey (tree risk assessment) assesses a tree's condition and risk. A BS 5837 survey is not a tree risk assessment.
+A health and safety survey rates the risk a tree poses today. A BS 5837 survey grades trees by their value to a development and maps the area that must be protected.
 
 ### What is an arboricultural report?
-A written report by an arboricultural specialist on trees and their condition or their relationship to a development or building. It can mean a tree survey, an impact assessment or a subsidence report, depending on the job.
+A written report by an arborist or arboricultural consultant on a tree or trees, tailored to a purpose, for example planning, subsidence, insurance or a property sale.
 
 ### Can a survey tell me if my tree will fall?
-It can find visible defects and rate risk, but most are visual inspections from ground level and cannot guarantee a tree will never fail.
+It can identify defects and rate the risk. It cannot guarantee a tree will not fail in extreme weather.
 
 ### How often should trees be inspected?
-There's no fixed legal rule. Commonly every one to three years for trees in higher-risk places, and after major storms. We'll recommend a sensible interval in the report.
+There is no fixed legal interval. A sensible approach is a regular check for obvious defects, with a detailed survey where trees are large, old, near people or buildings, or have changed.
 
-### Am I legally responsible for the trees on my property?
-Generally yes. Owners and occupiers owe a duty of reasonable care, so a documented, proportionate inspection routine is good practice and good evidence.
-
-### Should I get a tree survey before buying a house with large trees?
-It can help, especially if trees are close to the building, or a surveyor, lender or insurer has raised them.
+### Should I get a tree survey before buying a house?
+If it has large trees close to the building, or the garden is in a conservation area, yes. It shows protection status and likely future costs.
 
 ### Can a tree survey help with a subsidence claim?
-It can provide evidence on the species, size and distance of the tree, but you'll usually also need a structural engineer's report and monitoring. Your insurer will advise.
-
-### Do you check whether my tree is protected?
-Yes. We check TPO and conservation area status as part of every survey.
-
-### How long does a tree survey take, and when do I get the report?
-A single property usually takes under an hour on site. We send the report within 5 working days.
+It can support the case, but insurers usually also want an engineer's report and monitoring.
 
 ### Do I have to use you for any recommended work?
-No. The report is yours, and you're free to get other quotes.
+No. The report is yours, and you can get other quotes.
+
+### How long does it take to get the report?
+A health and safety report usually arrives within five working days. Planning surveys with a plan and impact assessment take longer, and we give you a date when we quote.
 :::
 
 :::cta
-Not sure what your tree needs?
-Call and talk it through, or send us photos and your postcode.
-Get my free quote | #quote
+Get a free quote for a tree survey in Croydon
+Tell us which of the situations above is yours, how many trees are involved and where they are. Photos help. Call {{phone}}, Mon to Sat, 8am to 6pm.
+Get your quote | #quote
 :::
 
-:::related
+## Tree surveys across Croydon {-}
+
+[Addiscombe](/tree-surgeon-addiscombe/) · [Shirley](/tree-surgeon-shirley/) · [Thornton Heath](/tree-surgeon-thornton-heath/) · [Norbury](/tree-surgeon-norbury/) · [Crystal Palace and Upper Norwood](/tree-surgeon-crystal-palace/) · [South Croydon](/tree-surgeon-south-croydon/) · [Selsdon](/tree-surgeon-selsdon/) · [Sanderstead](/tree-surgeon-sanderstead/) · [Purley](/tree-surgeon-purley/) · [Coulsdon](/tree-surgeon-coulsdon/) · [Kenley](/tree-surgeon-kenley/) · [All areas](/areas/)
+
+:::related noareas
 :::
 
 :::form
 :::
 
 :::sources
-- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/trees-and-hedges/tree-preservation-orders)
+- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/treesandlandscape/orders)
 - [Croydon Council, Trees in conservation areas](https://www.croydon.gov.uk/environment/trees-and-hedges/trees-conservation-areas)
-- British Standards Institution, BS 5837:2012, Trees in relation to design, demolition and construction: Recommendations
-- National Tree Safety Group, Common sense risk management of trees
-- Occupiers' Liability Act 1957 and 1984 (legislation.gov.uk)
-Council pages read on 1 October 2026. This is general information, not legal advice.
+- [PlanWatch, BS 5837 tree surveys for planning](https://planwatch.co.uk/tree-surveys/tree-survey-for-planning)
+- [PlanWatch, When a survey is needed](https://planwatch.co.uk/tree-surveys/do-i-need-a-tree-survey-for-planning)
+- [PlanWatch, Validation rejections](https://planwatch.co.uk/tree-surveys/tree-survey-rejected-at-validation)
+- [PlanWatch, Tree surveys in Croydon](https://planwatch.co.uk/tree-surveys/croydon)
+- [RICS, What dutyholders must do to manage tree risk](https://ww3.rics.org/uk/en/journals/land-journal/part-2--what-dutyholders-must-do-to-manage-tree-risk.html)
+- [Quotezone, Home insurance and trees](https://www.quotezone.co.uk/home-insurance/guides/home-insurance-and-trees-whats-covered)
+This is general information, not legal advice.
 :::

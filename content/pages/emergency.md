@@ -1,15 +1,15 @@
 ---
 url: /emergency-tree-surgeon-croydon/
 title: Emergency Tree Surgeon Croydon | Fallen & Dangerous Trees
-description: Fallen or dangerous tree in Croydon? What to do right now, who to call, and who pays. Emergency tree removal and make-safe by insured, qualified climbers.
+description: Fallen or dangerous tree in Croydon? Who to ring first, what to do while you wait, how call-outs and insurance work, and when we can attend.
 h1: Emergency Tree Surgeon in Croydon
-lead: If anyone is in danger, call 999 first. For a fallen, split or dangerous tree? Call us on {{phone}}. We'll make it safe, or tell you honestly what can wait. We carry out emergency tree work across Croydon, including trees on houses, cars, fences, roads and driveways, using fully insured, NPTC/LANTRA qualified climbers.
+lead: "A tree down, a branch hanging over the house or a trunk that has started to lean is frightening, and the first hour matters more than the first quote. This page tells you who to ring and in what order, what to do while you wait, and what happens when we attend. We make fallen and dangerous trees safe across the London Borough of Croydon. Be clear about hours: we are not a 24-hour service. Ring in our hours and we will tell you honestly how soon we can attend. Outside them, the steps below keep you and your home safe until we can, and the emergency services and utilities listed here are available all day and night."
 points:
+  - If anyone is in danger, call 999 first
   - We respond to emergencies, Monday to Saturday, 8am to 6pm
-  - We tell you how fast we can really attend
-  - Protected trees handled within the council's rules
 image: /images/services/emergency.jpg
 imageAlt: Fallen and broken trees across a woodland stream after a storm
+cta2: Send us photos|/contact/
 parent: Services|/services/
 crumb: Emergency tree work
 schema: Service|Emergency tree surgeon in Croydon|Emergency tree work
@@ -21,180 +21,151 @@ related:
   - /guides/storm-damaged-tree-who-is-responsible/
 ---
 
-## What to Do If a Tree Has Fallen or Looks Dangerous {chip=What to do now}
+## Is it an emergency? Start here
 
-1. **If anyone is in danger or hurt, call 999.**
-2. **Keep well away from the tree and anything it touches.** Fallen trees can be tangled in power lines or unstable.
-3. **If power lines are down or touching the tree, treat them as live.** Call **105** (free) to report damaged lines, and 999 as well if there is significant risk to the public.
-4. **If you smell gas, leave the building** and call the National Gas Emergency Number, **0800 111 999**.
-5. **Keep people and pets away,** including from walls, fences and conservatories a storm may have weakened.
-6. **During a storm, stay indoors** and don't go out to inspect or repair damage.
-7. **If the tree is on a road, path or council land,** report it to Croydon Council. If it is causing immediate danger on a road, call 999.
-8. **Take photos from a safe distance** and note the date and time for any insurance claim.
-9. **Call us.** Don't cut or move a large tree yourself.
+| What you can see | What it means | Do this first |
+|---|---|---|
+| Someone is hurt or trapped | Life-threatening | Ring **999** |
+| A tree is on or touching a power line | Treat the line as live | Stay at least 10 m away, ring **105**, and **999** if the public is at risk |
+| A tree is on a road, a railway or the tram tracks | Public danger | Ring **999**, and tell the road, rail or tram operator |
+| You can smell gas | Fire and explosion risk | Leave the building and ring **0800 111 999** |
+| A tree has landed on an occupied house, or the structure looks unsafe | Danger of further collapse | Get everyone out and ring **999** if in doubt, then ring us |
+| A tree or large branch is still in the garden, stable, and nobody is at risk | Urgent, not life-threatening | Photograph it, ring your insurer, then ring us |
+| A "hung-up" branch is caught in a tree and could drop | Unstable load above you | Keep clear and ring us. Don't try to shake it out |
+| A tree has fallen on a fence or shed | Usually not an emergency | Photograph it and book normally |
 
-**[Call {{phone}}](tel:{{phoneHref}})**
 
-### What Not to Do
+## Who to ring, depending on where the tree is
 
-+ Don't touch anything near a fallen tree and power lines. Even a tree that looks clear can be live.
-+ Don't cut a tree that is under tension. Trees that are bent, hung up in other trees or pinned under weight can spring or roll without warning when cut.
-+ Don't climb the tree or use a chainsaw from a ladder. This is how serious injuries happen.
-+ Don't park or walk under split or hanging branches ("widow-makers").
-+ Don't move wreckage before taking photos, unless it is blocking an emergency exit.
+It matters whose tree it is and what it is touching.
 
-## Is It an Emergency? A Quick Guide {chip=Is it an emergency?}
+| Where the tree is | Who deals with it | Notes |
+|---|---|---|
+| **Your garden** | You, as the owner. We make it safe | Call us. See the section on insurance below |
+| **A neighbour's garden, fallen into yours** | The neighbour owns the tree, but you usually claim on your own policy | Photograph, tell your insurer, and tell the neighbour |
+| **The pavement, a park or a street** | Croydon Council | Report it through the Love Clean Streets app. Ring 999 if the road is blocked or traffic is at risk |
+| **Over power lines** | The network operator, UK Power Networks | Ring **105** (0800 31 63 105), open 24 hours. Do not touch the tree |
+| **On or beside the railway** | Network Rail | Stay off the track. Network Rail's national helpline is 03457 11 41 41, and 999 if there is danger |
+| **On or over the tram line** | The tram operator | Keep clear of tracks and overhead wires, and ring 999 if anyone is in danger |
 
-| Situation | What to do |
-|---|---|
-| Anyone injured or trapped, or a tree across a busy road | Call **999** |
-| Power lines down or touching the tree | Call **105**, and 999 if the risk to the public is significant. Stay clear |
-| Smell of gas near a fallen tree | Leave the building and call **0800 111 999** |
-| Tree on your house, garage, conservatory, car or shed | Call us now |
-| Tree blocking your drive, door or access | Call us now |
-| Split, hanging or leaning tree likely to fall | Call us now |
-| Tree across a fence or into a neighbouring garden | Call us the same day, and tell your neighbour |
-| Fallen tree on a railway line or embankment | Report it to Network Rail's helpline, 03457 11 41 41; never go on the track |
-| Fallen tree on a road, pavement or in a park | Report it to Croydon Council (red routes may be Transport for London) |
-| Damaged but stable tree, no immediate danger | Book a [tree survey](/tree-surveys-croydon/) or planned work |
+**A tree on a car, with a power line nearby.** If a cable is touching a vehicle, do not get out or touch anything unless there is a fire. Ring 999 and do exactly what the call-handler says. Never go near a car that a line is touching.
 
-## What Happens on an Emergency Call-Out {chip=Call-out}
 
-The aim is to make the situation safe. That might mean removing a hanging branch or cutting a fallen tree enough to clear access, with full clearance arranged afterwards. We assess the hazards first (overhead lines, structures under load, tension in the wood) and then plan the safest way in.
+## While you wait: what to do, and what not to
 
-| Situation | Our typical approach |
-|---|---|
-| Tree or branch on a house, roof, garage or conservatory | Make the tree safe and take it off the structure with the right equipment, in controlled sections |
-| Tree on a parked car | Remove the weight carefully so the car and surrounding area aren't damaged further |
-| Fallen tree across a drive, path or garden | Cut and clear enough to restore access |
-| Tree on a fence, shed or greenhouse | Make safe and agree follow-up work with the owner |
-| Split, hanging or storm-damaged branch | Remove the hazard so it cannot fall |
-| Leaning or uprooted tree | Assess it, then make safe or remove |
-| Tree on a road or pavement | Make safe and clear, with traffic management if needed |
+**Do**
 
-After the emergency we can plan full [removal](/tree-removal-croydon/), [stump grinding](/stump-grinding-croydon/) and a survey of any other trees on the site for a later date.
+- Get everyone, including pets, out of the area under and around the tree, and away from weakened walls, fences and conservatories.
+- Photograph the scene from a safe distance before anything is moved, noting the date and time.
+- Stay indoors in a storm, away from windows facing the tree.
+- Ring your insurer and note the claim reference.
 
-## Storm-Damaged Trees in Croydon {chip=Storm damage}
+**Don't**
 
-Strong winds and saturated ground are the usual causes of tree failures in Croydon, and they can hit well after the storm has passed. Waterlogged soil loosens roots, so trees can lean or fall days later. Look for:
+- Don't cut up or move a large fallen tree. A trunk or branch under tension can spring without warning.
+- Don't climb the tree, or use a chainsaw from a ladder.
+- Don't touch anything near a fallen power line, wet ground included.
+- Don't pay anyone in cash upfront who turns up unasked.
 
-+ Soil heaving or cracking at the base of the tree
-+ A new lean, or roots lifting out of the ground
-+ Split trunks, torn bark or cracks in major limbs
-+ Broken branches hanging in the crown
-+ Fungus or soft, hollow wood at the base
 
-If you spot any of these, keep clear of the area and get the tree checked. Many trees that survive one storm are weakened for the next.
+## What happens when we attend
 
-## Who Is Responsible for a Fallen Tree? {chip=Who is responsible?}
+An emergency visit is about making safe, not about doing the whole job in one go.
 
-A tree belongs to the owner of the land where its trunk grows, and that owner is generally responsible for keeping it safe. If an owner knew, or should have known, that a tree was diseased or decaying and did nothing, they could face a negligence claim. A healthy tree brought down by exceptional weather is less likely to make the owner liable. Each case depends on the facts.
+1. **A quick assessment.** We look at the tree, the damage, what is under tension, and whether anything is near wires.
+2. **Securing the site.** Barriers, and access cleared so people can get in and out.
+3. **Making it safe.** Removing the hanging or fallen section, taking weight off the structure, or cutting a leaning tree down in sections.
+4. **The damage underneath.** Where a tree has hit a roof, we take the tree off, but the roof repair itself is for a builder. We can give your insurer a written note of what we found and did.
+5. **Clear-up, or a return visit.** Smaller jobs are cleared the same visit. A large fallen tree may need a second visit for full clearance, and the stump can be ground later. See [tree removal](/tree-removal-croydon/) and [stump grinding](/stump-grinding-croydon/).
 
-| Whose tree is it? | Who to contact |
-|---|---|
-| Your own garden | You are responsible. Call us, and your insurer |
-| Your neighbour's tree falls into your garden | Take photos, tell your neighbour and your insurer. Your own policy usually covers damage to your property |
-| Council street tree, park or housing estate | Report it to Croydon Council |
-| Red route or TfL road | Transport for London |
-| Railway land | Network Rail |
-| Rented property | Tell your landlord or managing agent |
-| Shared or communal land | The freeholder or managing agent |
+**What it costs.** Emergency work is unplanned, so it costs more than planned work. Guide prices: an emergency call-out and make-safe from £250, quoted at the call, and full clearance of a large fallen tree from about £1,000. Out-of-hours or weekend work, where we can offer it, is quoted separately. The figure is agreed before work starts unless waiting would be unsafe.
 
-### Does Home Insurance Cover a Fallen Tree?
-Many home insurance policies cover damage caused by the tree rather than the cost of removing the tree itself. Some cover clearance where the tree has fallen on the building or blocked access, so check your policy. Keep photos and invoices, and tell your insurer what has happened before arranging major repairs, unless the work is urgent to prevent further damage. See the [full guide](/guides/storm-damaged-tree-who-is-responsible/).
 
-## Dangerous Trees and Protected Trees {chip=Protected trees}
+## What if the tree is protected?
 
-Croydon Council says a dead tree needs no formal permission, a dying tree does, and for a dangerous tree only the urgent works necessary can be done without consent. It asks for five days' notice of work to a dead or dangerous tree. We photograph the tree and limit emergency work to what is needed to make the situation safe, and we keep the photos in case the council asks what condition the tree was in. If the tree is protected, we tell you what notice is needed. See the [TPO guide](/guides/tree-preservation-orders-croydon/).
+A TPO or conservation area does not stop you making a dangerous tree safe, but it changes what you can do and what you should keep.
 
-| Situation | What applies |
-|---|---|
-| Tree with a TPO, immediate danger | Urgent works necessary to remove the danger; give notice (five days asked) and keep photos |
-| Tree in a conservation area, immediate danger | Same; notice asked |
-| Fallen or dead tree | No formal permission needed |
-| Tree not yet fallen but leaning or decayed | Get it assessed first; may need permission |
+- **Dead tree:** no formal permission is needed under a TPO.
+- **Dangerous tree:** only the urgent work that is necessary can go ahead without consent, and Croydon Council asks for five days' notice.
+- **Dying tree:** consent is still required.
+- **Keep evidence.** We photograph the damage and the condition of the tree before cutting. If you ever have to show the work was for safety, that record is what you need.
 
-**Nesting birds and bats.** Wild birds and their active nests are protected, and the main nesting season generally runs from March to August. In a true emergency, safety comes first, but we'll still check and limit disturbance where we can. [Nesting season guide](/guides/bird-nesting-season-tree-work/).
+Cutting a protected tree without consent can mean a fine of up to £20,000, so do not assume. See our guides to [tree preservation orders](/guides/tree-preservation-orders-croydon/) and [conservation areas](/guides/conservation-area-tree-work-croydon/).
 
-## Emergency Tree Work: Costs and Availability {chip=Costs and availability}
 
-We respond to emergencies, Monday to Saturday, 8am to 6pm. We'll tell you honestly when we can attend. After major storms demand is high, so the most dangerous situations are attended first.
+## Insurance: what is usually covered
 
-| Job | Indicative cost |
-|---|---|
-| Emergency call-out and make-safe, small job | {{p.other.emergency}}, quoted at the call |
-| Tree on a house, car or outbuilding (make safe and remove) | Quoted at the call, depending on the size of the tree and the damage |
-| Full clearance of a large fallen tree | {{p.other.largeFallen}}, and emergency work costs more |
-| Out-of-hours or weekend premium | Typically higher, quoted at the call |
+This is general information, not advice on your policy.
 
-| What affects the price | Why it matters |
-|---|---|
-| Urgency and time of day | Emergency work can cost more than planned work |
-| Size and condition of the tree | Large or unstable trees need more people and equipment |
-| Where it has fallen | A tree on a structure, over a road or near power lines needs extra care |
-| Make safe only, or full clear-up | These can be priced separately |
-| Waste removal | Taking away the timber adds to the job |
+- **Storm damage from a falling tree** is normally covered under buildings insurance, including roofs, walls, fences and outbuildings, but not the tree itself.
+- **Removing the tree after an insured event** is typically included. Removing a healthy tree you simply want gone usually is not.
+- **A neighbour's tree** falling on your property is normally claimed on your own policy. The neighbour is liable only if negligence can be proven, for example if you warned them in writing that it was dangerous and they did nothing.
+- **Ask first.** Before authorising big repairs, ask your insurer whether it has preferred contractors, and keep every receipt.
 
-We give you a price before work begins, unless it isn't safe to wait.
+The detail on liability is in [storm-damaged tree: who is responsible?](/guides/storm-damaged-tree-who-is-responsible/)
 
-## Emergency Tree Work Across Croydon {chip=Areas}
 
-We carry out emergency tree work across the borough, including {{areaLinks}} ({{postcodes}}).
+## After a storm: spotting rogue traders
 
-:::faq Emergency Tree Work FAQs
+Storms bring door-knockers. Be wary of anyone who:
+
+- turns up unasked and says your tree is dangerous,
+- wants cash upfront, or pressures you to decide now,
+- cannot show insurance, or won't put a price in writing,
+- offers to take the wood away but cannot show they are a registered waste carrier. Check the Environment Agency register or ring 03708 506506.
+
+Ask any firm, ours included, for proof of insurance and a written quote. [How to choose a tree surgeon](/guides/how-to-choose-a-tree-surgeon/) lists what to check.
+
+
+## After the emergency: the other trees
+
+A storm often exposes more than one weakness. If other trees look unsafe, get them looked at before the next one, not after.
+
+- **A survey** gives you a written view of health and risk. See [tree surveys](/tree-surveys-croydon/).
+- **Hard pruning or removal** can be planned for a calm day. See [tree pruning](/tree-pruning-croydon/).
+- **Ash trees with thin crowns and dying shoots** need special care. See [ash dieback for Croydon owners](/guides/ash-dieback-croydon/).
+- **A tree near your house** is a different question again. See [trees near buildings](/trees-near-buildings-croydon/).
+
+:::faq Emergency tree surgeon Croydon: frequently asked questions
+### Do you offer a 24-hour emergency tree service?
+No. We work Monday to Saturday, 8am to 6pm. In those hours we tell you honestly how fast we can attend. Outside them, use 999, 105 and the other numbers on this page to keep people safe, and ring us when we open.
+
 ### What counts as a tree emergency?
-A tree or branch that has fallen onto a building, road or path, or that is split, leaning or hanging and likely to fall. If anyone is in danger, call 999 first.
-
-### Do you offer an emergency tree surgeon in Croydon?
-Yes. We respond to emergencies, Monday to Saturday, 8am to 6pm. Call {{phone}} and we'll tell you honestly how quickly we can attend.
-
-### Do you offer a 24 hour or same-day tree surgeon service?
-We don't run a 24-hour service. We respond to emergencies, Monday to Saturday, 8am to 6pm, and attend urgent call-outs as soon as we safely can, with the most dangerous situations first. Call us for the current position. If anyone is in danger, call 999.
-
-### What should I do while I wait for help?
-Keep people and pets well away, stay clear of any power lines and take photos from a safe distance. If lines are down, call 105.
+A tree that is touching power lines, blocking a road, rail or tram, has fallen on an occupied building or is threatening to fall on one, or has hurt someone. A fallen tree in a garden where nobody is at risk is urgent, but not an emergency.
 
 ### A tree has fallen on my house. What do I do?
-Get everyone out of any damaged part of the building and call 999 if anyone is in danger. Keep clear of any power lines, take photos, tell your insurer and call us to remove the tree safely.
+Get everyone out if the structure looks unsafe, ring 999 if anyone is in danger, photograph it from a safe distance and ring your insurer. Then ring us to make the tree safe.
 
 ### A tree has fallen on my car. Who do I call?
-Keep away from the car if the tree is touching power lines. Take photos, tell your insurer and call us to lift the tree off safely.
+Check for power lines first. If any cable is touching the car or tree, stay away and ring 105 or 999. If it is clear, photograph it, ring your insurer and ring us to remove the tree.
 
-### A tree has fallen on my fence or shed. Is that an emergency?
-Often it can be made safe the same day or soon after, unless it is unstable, near power lines or blocking access. Call us and we'll tell you what can wait.
+### What is a hung-up branch?
+A broken branch that has not fallen to the ground but is caught in the tree above. It can drop without warning, so keep clear and ring us. Don't try to shake it down.
 
-### My neighbour's tree has fallen into my garden. Who pays?
-It depends on the facts. A tree's owner is generally responsible for keeping it safe, but a healthy tree brought down by exceptional weather is less likely to make the owner liable. Take photos, tell your neighbour and your insurer.
+### My neighbour's tree has come down in my garden. Who pays?
+Usually you claim on your own buildings insurance. The neighbour pays only if negligence can be shown, for example a written warning that was ignored.
 
-### Who pays if a tree falls on my property?
-Your home insurance often covers damage to the property. Whether it covers removal of the tree itself varies by policy, so check yours.
+### The tree is on the pavement or road. Who do I call?
+The council owns street trees. Report it through the Love Clean Streets app, and ring 999 if the road is blocked or there is immediate danger.
 
 ### Can you remove a protected tree in an emergency?
-Croydon Council says only the urgent necessary works can be done on a dangerous protected tree without consent, and asks for five days' notice for work to a dead or dangerous tree.
-
-### The tree is on the road or council land. Who do I call?
-Report it to the council. If it is causing immediate danger on a road, call 999. Red routes are managed by Transport for London.
-
-### The tree has fallen on the railway. What do I do?
-Never go on or near the track. Contact Network Rail on 03457 11 41 41.
-
-### Is it safe to cut up a fallen tree myself?
-We advise against it. Fallen trees can be under tension and can roll or spring without warning, and chainsaw work at height or near power lines is highly dangerous.
+Where the tree is dangerous, the urgent work needed to make it safe can go ahead, with five days' notice to Croydon Council. We keep a photographic record. A dying tree still needs consent.
 
 ### Will you take the wood away?
-Yes, unless you'd like to keep logs. Your quote shows what's included.
-
-### What if more trees look unsafe after the storm?
-Book a [tree survey](/tree-surveys-croydon/). Storm-stressed trees can fail later.
+Yes if you want it removed, though a large fallen tree may need a second visit. Say if you want to keep the logs.
 :::
 
 :::cta
-Not sure what your tree needs?
-Call and talk it through, or send us photos and your postcode.
-Get my free quote | #quote
+Need a tree made safe?
+Tell us where the tree is, what it has hit and whether power lines are involved. Photos help us plan the right crew and equipment. Call {{phone}}, Mon to Sat, 8am to 6pm.
+Send an enquiry | #quote
 :::
 
-:::related
+## Emergency tree work across Croydon {-}
+
+[Addiscombe](/tree-surgeon-addiscombe/) · [Shirley](/tree-surgeon-shirley/) · [Thornton Heath](/tree-surgeon-thornton-heath/) · [Norbury](/tree-surgeon-norbury/) · [Crystal Palace and Upper Norwood](/tree-surgeon-crystal-palace/) · [South Croydon](/tree-surgeon-south-croydon/) · [Selsdon](/tree-surgeon-selsdon/) · [Sanderstead](/tree-surgeon-sanderstead/) · [Purley](/tree-surgeon-purley/) · [Coulsdon](/tree-surgeon-coulsdon/) · [Kenley](/tree-surgeon-kenley/) · [All areas](/areas/)
+
+:::related noareas
 :::
 
 :::form
@@ -205,10 +176,10 @@ button: Send request
 :::
 
 :::sources
-- UK Power Networks, advice on fallen trees and power lines (105 service)
-- National Gas Emergency Service, 0800 111 999
-- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/trees-and-hedges/tree-preservation-orders)
-- Network Rail, guidance for reporting trees on or near the railway
-- GOV.UK or the Association of British Insurers, guidance on storm damage claims
-Council pages read on 1 October 2026. This is general information, not legal advice.
+- [UK Power Networks, Trees and bushes near power lines](https://ukpowernetworks.co.uk/safety-equipment/power-lines/cut-trees-and-bushes)
+- [Network Rail, Risks from trees fact sheet](https://www.networkrail.co.uk/wp-content/uploads/2020/02/Risk-from-Trees-Fact-Sheet.pdf)
+- [Croydon Council, Tree preservation orders](https://www.croydon.gov.uk/environment/treesandlandscape/orders)
+- [Quotezone, Home insurance and trees](https://www.quotezone.co.uk/home-insurance/guides/home-insurance-and-trees-whats-covered)
+- [Test Valley Borough Council, Household waste duty of care](https://testvalley.gov.uk/wasteandrecycling/household-waste-duty-care)
+This is general information, not legal advice.
 :::

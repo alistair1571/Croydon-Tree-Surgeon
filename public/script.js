@@ -183,6 +183,22 @@ document.querySelectorAll('.leadForm').forEach(function(f){
     });
 
     paint();
+    if (mount.closest('.inner-hero')) collapsible(mount);
+  }
+  /* On phones and tablets (CSS, 920px and under) the calculator on inner pages starts as one compact bar. */
+  function collapsible(mount){
+    var body = document.createElement('div'); body.className = 'qc-body'; body.id = (mount.id || 'qc') + '-body';
+    while (mount.firstChild) body.appendChild(mount.firstChild);
+    var btn = document.createElement('button'); btn.type = 'button'; btn.className = 'qc-toggle';
+    btn.setAttribute('aria-expanded', 'false'); btn.setAttribute('aria-controls', body.id);
+    btn.innerHTML = '<span><strong>Instant guide price</strong><small>Free, no obligation</small></span><span class="qc-toggle-act" aria-hidden="true">Open</span>';
+    mount.appendChild(btn); mount.appendChild(body); mount.classList.add('qc-collapsible');
+    var act = btn.querySelector('.qc-toggle-act');
+    function set(open){ mount.classList.toggle('open', open); btn.setAttribute('aria-expanded', open ? 'true' : 'false'); act.textContent = open ? 'Close' : 'Open'; }
+    btn.addEventListener('click', function(){ set(!mount.classList.contains('open')); });
+    document.querySelectorAll('a[href="#calculator"]').forEach(function(a){ a.addEventListener('click', function(){ set(true); }); });
+    if (location.hash === '#calculator') set(true);
+    window.addEventListener('hashchange', function(){ if (location.hash === '#calculator') set(true); });
   }
   document.querySelectorAll('[data-calc]').forEach(init);
 })();
